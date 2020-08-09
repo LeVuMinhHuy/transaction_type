@@ -1,4 +1,5 @@
 import json
+import re
 from xacdinh import xacdinh
 
 
@@ -13,6 +14,31 @@ def remove_accents(input_str):
             s += c
     return s
 
+numbers = r'(\d+)\s*(,\s*\d+)*(\.\s*\d+)*'
+cur_u_man_r = r'\s*(dong|trieu\s*\d*|trieu\s*\d*|tr\s*\d*|t[i|y]\s*\d*|USD|\$\s*(USD)?)\s*(\/\s*1?\s*thang)?(\/\s*1?\s*nam)?(\/\s*1?\s*m\s?2)?'
+def get_price_keyword(data):
+  result = []
+  content_tmp = remove_accents(data['content']).lower()
+  content = ''
+  for i in range(len(content_tmp)):
+    if content_tmp[i] == '\n' or content_tmp[i] == '\r':
+      continue
+    content += content_tmp[i]
+  result.append(data)
+  cur_list = re.findall(numbers + cur_u_man_r, content)
+  lst = []
+  for cur in cur_list:
+    str = ''
+    for word in cur:
+      if word == '' or cur.index(word) == 0 or word[0] == '.' or word[0] == ',':
+        str += word
+      else:
+        str += ' ' + word
+    lst.append(str+'+Bán')
+  result.append(lst)  
+  return result
+
+
 def getFullPrice(listPhuong):
     lstPriceSell = []
     lstPriceRent = []
@@ -24,7 +50,7 @@ def getFullPrice(listPhuong):
 
         resultPrice = get_price(priceAndType)
 
-        print('result price', resultPrice)
+        # print('result price', resultPrice)
         if resultPrice[1] == 0:
             lstPriceSell.append(resultPrice[0])
         elif resultPrice[1] == 1:
@@ -35,6 +61,7 @@ def getFullPrice(listPhuong):
         
     print('Price Sell', lstPriceSell)
     print('Price Rent', lstPriceRent)
+    print('\n')
     # print(lstPriceUnknown)
 
 
@@ -47,7 +74,7 @@ def get_price(priceAndType):
     gia = []
 
     priceAndType[1] = remove_accents(priceAndType[1]).lower().split(' ')
-    print("a", priceAndType[1])
+    # print("a", priceAndType[1])
 
     for t in ty:
         if t in priceAndType[1] or (t + 'TL') in priceAndType[1]:
@@ -57,17 +84,26 @@ def get_price(priceAndType):
             k = 1000000
 
     if ',' in priceAndType[1][0]:
-        pivot = priceAndType[1][0].index(',')
-        f = priceAndType[1][0][pivot - 1]
-        s = priceAndType[1][0][pivot + 1]
+        lstT = priceAndType[1][0].split(',')
+        priceAndType[1][0] = lstT[1]
+        priceAndType[1].insert(0, ',')
+        priceAndType[1].insert(0, lstT[0])
+        pivot = priceAndType[1].index(',')
+        f = priceAndType[1][pivot - 1]
+        s = priceAndType[1][pivot + 1]
         if f.isdigit() and s.isdigit():
             gia.append(float(f + '.' + s) * k)
 
     if '.' in priceAndType[1][0]:
-        pivot = priceAndType[1][0].index('.')
+        lstT = priceAndType[1][0].split('.')
+        priceAndType[1][0] = lstT[1]
+        priceAndType[1].insert(0, '.')
+        priceAndType[1].insert(0, lstT[0])
+        # print(priceAndType[1])
+        pivot = priceAndType[1].index('.')
         if pivot < len(priceAndType[1]) - 1:
-            f = priceAndType[1][0][pivot - 1]
-            s = priceAndType[1][0][pivot + 1]
+            f = priceAndType[1][pivot - 1]
+            s = priceAndType[1][pivot + 1]
             if f.isdigit() and s.isdigit():
                 gia.append(float(f + '.' + s) * k)
 
@@ -112,37 +148,44 @@ def get_price(priceAndType):
                 gia[0] = gia[0] /12
 
     # print(priceAndType[2])
-    if priceAndType[2] == ' bán':
+    if priceAndType[2] == 'Bán':
         gia.append(0)
-    elif priceAndType[2] == ' thuê':
+    elif priceAndType[2] == 'Thuê':
         gia.append(1)
-    elif priceAndType[2] == ' none':
+    elif priceAndType[2] == 'None':
         gia.append(2)
 
-    print("giá", gia)
+    # print("giá", gia)
     return gia
 
     
 
 
-
-
 with open('data.json', encoding="utf-8") as json_file:
     dataset = json.load(json_file)
+
     for data in dataset:
-        if data['id'] == 118276 or data['id'] == 118280 or data['id'] == 118307 or data['id'] == 118383:
+        passList = [118250]
+        if data['id'] in passList:
             continue
 
-        lstTemp = []
-        att = data['attributes']
-        for i in att:
-            if i['type'] == 'price':
-                lstTemp.append(i['content'] + ' + ' + 'bán')
+        # lstTemp = []
+        # att = data['attributes']
+        # for i in att:
+        #     if i['type'] == 'price':
+        #         lstTemp.append(i['content'] + '+' + 'Bán')
 
-        print(lstTemp)
-        getFullPrice([data, lstTemp])
+        # print(lstTemp)
 
-    # getFullPrice([dataset[0], ['2.3 + bán']])
+        # getFullPrice([data, lstTemp])
+
+    
+        listHung = get_price_keyword(data)
+        print(listHung[1])
+        getFullPrice(listHung)
+
+
+    # getFullPrice([dataset[0], ['14,5 tr+Bán']])
 
 
         
