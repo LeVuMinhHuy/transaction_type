@@ -14,6 +14,15 @@ def remove_accents(input_str):
             s += c
     return s
 
+def find_sub_list(sl,l):
+    results=[]
+    sll=len(sl)
+    for ind in (i for i,e in enumerate(l) if e==sl[0]):
+        if l[ind:ind+sll]==sl:
+            results.append((ind,ind+sll-1))
+    #print(results)
+    return results
+
 numbers = r'(\d+)\s*(,\s*\d+)*(\.\s*\d+)*'
 cur_u_man_r = r'\s*(dong|trieu\s*\d*|trieu\s*\d*|tr\s*\d*|t[i|y]\s*\d*|USD|\$\s*(USD)?)\s*(\/\s*1?\s*thang)?(\/\s*1?\s*nam)?(\/\s*1?\s*m\s?2)?'
 def get_price_keyword(data):
@@ -37,7 +46,6 @@ def get_price_keyword(data):
     lst.append(str+'+Bán')
   result.append(lst)  
   return result
-
 
 def getFullPrice(listPhuong):
     lstPriceSell = []
@@ -160,29 +168,156 @@ def get_price(priceAndType):
 
     
 
+def phuong(dataset):
+    ban = []
+    thue = []
+    aBan = []
+    aThue = []
+    addrB = []
+    addrT = []
+
+    index = []
+    ind = []
+    for data in dataset:
+        ban.append(data['id'])
+        thue.append(data['id'])
+        content = remove_accents(data['content']).lower().split(' ')
+        for c in range(0, len(content)):
+            if content[c] in ['ban', 'ban,', 'ban.', 'nhuong', 'nhuong,', 'nhuong.']:
+                addrB.append(c)
+            if content[c] in ['thue', 'thue,', 'thue.']:
+                addrT.append(c)
+            continue
+        ban.append(addrB)
+        thue.append(addrT)
+        aBan.append(ban)
+        aThue.append(thue)
+        ban = []
+        thue = []
+        addrB = []
+        addrT = []
+
+        ind.append(data['id'])
+        test = get_price_keyword(data)
+        text = []
+        addr = []
+        for t in test:
+            # t.split(' ')
+            for i in content:
+                if i in t:
+                    # print(content.index(i))
+                    text.append(t)
+                    addr.append(content.index(i))
+                    break
+        ind.append(text)
+        ind.append(addr)
+        # print(data['id'])
+        index.append(ind)
+        ind = []
+        text = []
+        addr = []
+    # print("Price index: ", index)
+    # print("Ban index: ", aBan)
+    # print("Thue index: ", aThue)
+
+    res = []
+    result = []
+    for i in range(0, len(dataset)):
+        if len(index[i][1]) == 0:
+            # res.append("a")
+            # res.append("+None")
+            res.append(str(index[i][0]) + "+None")
+        else:
+            res.append(index[i][0])
+            if index[i][1] != []:
+                for p in index[i][1]:
+                    if aBan[i][1] == [] and aThue[i][1] == []:
+                        res.append(p + "+None")
+                    elif aBan[i][1] != [] and aThue[i][1] == []:
+                        res.append(p + "+Ban")
+                    elif aBan[i][1] == [] and aThue[i][1] != []:
+                        res.append(p + "+Thue")
+                    else:
+                        sellB = []
+                        rentB = []
+                        sellA = []
+                        rentA = []
+                        for q in range(0, len(index[i][2])):
+                            if len(aBan[i][1]) >= 1:
+                                for b in range(0, len(aBan[i][1])):
+                                    if aBan[i][1][b] < index[i][2][q]:
+                                        sellB.append(aBan[i][1][b])
+                                    elif q == len(index[i][2]) - 1 and aBan[i][1][b] > index[i][2][q]:
+                                        sellA.append(aBan[i][1][b])
+                                    else:
+                                        continue
+                            if len(aThue[i][1]) >= 1:
+                                for th in range(0, len(aThue[i][1])):
+                                    if aThue[i][1][th] < index[i][2][q]:
+                                        rentB.append(aThue[i][1][th])
+                                    elif q == (len(index[i][2]) - 1) and aThue[i][1][th] > index[i][2][q]:
+                                        rentA.append(aThue[i][1][th])
+                                    else:
+                                        continue
+                            if sellB != [] and rentB != []:
+                                if sellB[len(sellB) - 1] < rentB[len(rentB) - 1]:
+                                    res.append(p + "+Thue")
+                                else:
+                                    res.append(p + "+Ban")
+                            elif sellB != [] and rentB == []:
+                                res.append(p + "+Ban")
+                            elif sellB == [] and rentB != []:
+                                res.append(p + "+Thue")
+                            elif sellB == [] and rentB == [] and q == len(index[i][2]) - 1:
+                                if sellA != [] and rentA != []:
+                                    if sellA[len(sellB) - 1] < rentA[len(rentB) - 1]:
+                                        res.append(p + "+Ban")
+                                    else:
+                                        res.append(p + "+Thue")
+                                elif sellA != [] and rentA == []:
+                                    res.append(p + "+Ban")
+                                elif sellA == [] and rentA != []:
+                                    res.append(p + "+Thue")
+                                elif sellA == [] and rentA == []:
+                                    res.append(p + "+None")
+                            sellA = []
+                            sellB = []
+                            rentA = []
+                            rentB = []
+
+        res = []
+        result.append(res)
+
+    return result
+    # print(result)
+
+
 
 with open('data.json', encoding="utf-8") as json_file:
     dataset = json.load(json_file)
+    newdata = phuong(dataset)
+    print(newdata)
+    # getFullPrice(newdata)
 
-    for data in dataset:
-        passList = [118250]
-        if data['id'] in passList:
-            continue
+    # for data in dataset:
+    #     passList = [118250]
+    #     if data['id'] in passList:
+    #         continue
 
-        # lstTemp = []
-        # att = data['attributes']
-        # for i in att:
-        #     if i['type'] == 'price':
-        #         lstTemp.append(i['content'] + '+' + 'Bán')
+    #     # lstTemp = []
+    #     # att = data['attributes']
+    #     # for i in att:
+    #     #     if i['type'] == 'price':
+    #     #         lstTemp.append(i['content'] + '+' + 'Bán')
 
-        # print(lstTemp)
+    #     # print(lstTemp)
 
-        # getFullPrice([data, lstTemp])
+    #     # getFullPrice([data, lstTemp])
 
     
-        listHung = get_price_keyword(data)
-        print(listHung[1])
-        getFullPrice(listHung)
+    #     listHung = get_price_keyword(data)
+    #     print(listHung[1])
+    #     getFullPrice(listHung)
 
 
     # getFullPrice([dataset[0], ['14,5 tr+Bán']])

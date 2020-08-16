@@ -95,7 +95,7 @@ def get_price_sell(post_info, trans_type, attr_price_str):
                     (attr_price_str, 'price')]
                 for x in data:
                     price_sell=check_sell.extract_number_lst(x)
-                    # print(price_sell)
+                    print(price_sell)
                     if price_sell[0]:
                         if len(price_sell) == 3:
                             if price_sell[1] == None:
@@ -115,17 +115,15 @@ def get_price_sell(post_info, trans_type, attr_price_str):
 
 #Transaction_type
 #
-def get_trans_type(post_info):
+def get_trans_type(post_info,iprice,itrans):
     """Phân giải trường `transaction_type` một cách phù hợp
-    # """
-    # att = post_info['attributes']
-    # data = [(post_info['content'],'message'),(att[iprice]['content'],'price')]
+    """
+    att = post_info['attributes']
+    data = [(post_info['content'],'message'),(att[iprice]['content'],'price')]
 
-    # if att[itrans]['content']:
-    #     data.append((att[itrans]['content'], 'transaction_type'))
-    #     return filter_post(data)
-
-    return filter_post(post_info)
+    if att[itrans]['content']:
+        data.append((att[itrans]['content'], 'transaction_type'))
+        return filter_post(data)
     """
     Options:
     1 - Post chỉ bán
@@ -136,15 +134,15 @@ def get_trans_type(post_info):
     6 - Post bán, đang cho thuê, không có giá thuê            
     7 - Khác
     """
-    # for x in [4, 5, 6, 2, 1, 3, 7]:
-    #     if x == 2:
-    #         data.append(('thuê', 'transaction_type'))
-    #     if x in [5, 6]:
-    #         if filter_post_option(data=data, option=1):
-    #             if filter_post_option(data=data, option=x):
-    #                 return x
-    #     elif filter_post_option(data=data, option=x):
-    #         return x
+    for x in [4, 5, 6, 2, 1, 3, 7]:
+        if x == 2:
+            data.append(('thuê', 'transaction_type'))
+        if x in [5, 6]:
+            if filter_post_option(data=data, option=1):
+                if filter_post_option(data=data, option=x):
+                    return x
+        elif filter_post_option(data=data, option=x):
+            return x
 
 
 
@@ -213,222 +211,601 @@ def remove_accents(input_str):
             s += c
     return s
 
-def get_price(data):
+def find_sub_list(sl,l):
+    results=[]
+    sll=len(sl)
+    for ind in (i for i,e in enumerate(l) if e==sl[0]):
+        if l[ind:ind+sll]==sl:
+            results.append((ind,ind+sll-1))
+    #print(results)
+    return results
+
+def getPriceSpace(textPrice):
+    price = ''
+    # print(textPrice)
+    for i in textPrice:
+        # print(i)
+        if i.isdigit() or i == ',' or i == '.':
+            price = price + i
+        else:
+            break
+    return price
+
+# print(getPriceSpace('45trm2'))
+
+numbers = r'(\d+)\s*(,\s*\d+)*(\.\s*\d+)*'
+cur_u_man_r = r'\s*(trieu\s*\d*|trieu\s*\d*|tr\s*\d*|t[i|y]\s*)\s*(\/\s*1?\s*thang)?(\/\s*1?\s*nam)?(\/\s*1?\s*m\s?2)?'
+def get_price_keyword(data):
+  result = []
+  content_tmp = ''
+  for attr in data['attributes']:
+    content_tmp += attr['content'] + ' '
+  content_tmp = remove_accents(content_tmp).lower()
+  content = ''
+  for i in range(len(content_tmp)):
+      if content_tmp[i] == '\n' or content_tmp[i] == '\r':
+          continue
+      content += content_tmp[i]
+  #result.append(data['id'])
+  cur_list = re.findall(numbers + cur_u_man_r, content)
+  for cur in cur_list:
+    str = ''
+    for word in cur:
+      if word == '' or cur.index(word) == 0:
+        str += word
+      elif word[0] == '.' or word[0] == ',':
+        str += word[0] + word[2:len(word)]
+      else:
+        str += ' ' + word
+    if str[-1] == ' ':
+        str = str[0:len(str)-1]
+    result.append(str)
+  return result
+
+
+def phuong(dataset):
+    ban = []
+    thue = []
+    aBan = []
+    aThue = []
+    addrB = []
+    addrT = []
+
+    index = []
+    ind = []
+    for data in dataset:
+        ban.append(data['id'])
+        thue.append(data['id'])
+        content = ''
+        for attrs in data['attributes']:
+            content += attrs['content'] + ' '
+        content = remove_accents(data['content']).lower().split(' ')
+        # print(content[135])
+        for c in range(0, len(content)):
+            if content[c] in ['ban', 'ban,', 'ban.', 'nhuong', 'nhuong,', 'nhuong.']:
+                addrB.append(c)
+            if content[c] in ['thue', 'thue,', 'thue.']:
+                addrT.append(c)
+            continue
+        ban.append(addrB)
+        thue.append(addrT)
+        aBan.append(ban)
+        aThue.append(thue)
+        ban = []
+        thue = []
+        addrB = []
+        addrT = []
+
+        ind.append(data['id'])
+        test = get_price_keyword(data)
+        # print("test", test)
+        text = []
+        addr = []
+        for t in test:
+            # t.split(' ')
+            for i in content:
+                # print(i)
+                iPrice = getPriceSpace(i)
+                # print(iPrice)
+                if iPrice == t.split(' ')[0]:
+                    # print(content.index(i))
+                    text.append(t)
+                    addr.append(content.index(i))
+                    break
+        ind.append(text)
+        ind.append(addr)
+        # print(data['id'])
+        index.append(ind)
+        ind = []
+        text = []
+        addr = []
+    # print("Price index: ", index)
+    # print("Ban index: ", aBan)
+    # print("Thue index: ", aThue)
+
+    res = []
+    result = []
+    Done = []
+    for i in range(0, len(dataset)):
+        price = []
+        if len(index[i][1]) == 0:
+            res.append(dataset[i])
+            price.append("0 ty+None")
+        else:
+            res.append(dataset[i])
+            if index[i][1] != []:
+                for p in index[i][1]:
+                    if aBan[i][1] == [] and aThue[i][1] == []:
+                        price.append(p + "+None")
+                    elif aBan[i][1] != [] and aThue[i][1] == []:
+                        # if p not in Done:
+                        #     Done.append(p)                        
+                        price.append(p + "+Ban")
+                    elif aBan[i][1] == [] and aThue[i][1] != []:
+                        # if p not in Done:
+                        #     Done.append(p)
+                        price.append(p + "+Thue")
+                    else:
+                        sellB = []
+                        rentB = []
+                        sellA = []
+                        rentA = []
+                        for q in range(0, len(index[i][2])):
+                            if len(aBan[i][1]) >= 1:
+                                for b in range(0, len(aBan[i][1])):
+                                    if aBan[i][1][b] < index[i][2][q]:
+                                        sellB.append(aBan[i][1][b])
+                                    elif q == len(index[i][2]) - 1 and aBan[i][1][b] > index[i][2][q]:
+                                        sellA.append(aBan[i][1][b])
+                                    else:
+                                        continue
+                            if len(aThue[i][1]) >= 1:
+                                for th in range(0, len(aThue[i][1])):
+                                    if aThue[i][1][th] < index[i][2][q]:
+                                        rentB.append(aThue[i][1][th])
+                                    elif q == (len(index[i][2]) - 1) and aThue[i][1][th] > index[i][2][q]:
+                                        rentA.append(aThue[i][1][th])
+                                    else:
+                                        continue
+                            if sellB != [] and rentB != []:
+                                if sellB[len(sellB) - 1] < rentB[len(rentB) - 1]:
+                                    if p not in Done:
+                                        Done.append(p)
+                                        price.append(p + "+Thue")
+                                else:
+                                    if p not in Done:
+                                        Done.append(p)
+                                        price.append(p + "+Ban")
+                            elif sellB != [] and rentB == []:
+                                if p not in Done:
+                                    Done.append(p)
+                                    price.append(p + "+Ban")
+                            elif sellB == [] and rentB != []:
+                                if p not in Done:
+                                    Done.append(p)
+                                    price.append(p + "+Thue")
+                            if q == len(index[i][2]) - 1 :
+                                if sellA != [] and rentA != []:
+                                    if sellA[len(sellA) - 1] < rentA[len(rentA) - 1]:
+                                        if p not in Done:
+                                            Done.append(p)
+                                            price.append(p + "+Ban")
+                                    else:
+                                        if p not in Done:
+                                            Done.append(p)
+                                            price.append(p + "+Thue")
+                                elif sellA != [] and rentA == []:
+                                    if p not in Done:
+                                        Done.append(p)
+                                        price.append(p + "+Ban")
+                                elif sellA == [] and rentA != []:
+                                    if p not in Done:
+                                        Done.append(p)
+                                        price.append(p + "+Thue")
+                                elif sellA == [] and rentA == []:
+                                    price.append(p + "+None")
+                            sellA = []
+                            sellB = []
+                            rentA = []
+                            rentB = []
+        res.append(price)
+        result.append(res)
+        res = []
+        # print(result)
+
+    return result
+
+
+def getFullPrice(listPhuong):
+    lstPriceSell = []
+    lstPriceRent = []
+    # lstPriceUnknown = []
+
+    for p in listPhuong[1]:
+        priceAndType = p.split('+')
+        priceAndType.insert(0, listPhuong[0])
+        # print(priceAndType)
+
+        resultPrice = get_price(priceAndType)
+
+        # print('result price', resultPrice)
+        if resultPrice[1] == 0:
+            lstPriceSell.append(resultPrice[0])
+        elif resultPrice[1] == 1:
+            lstPriceRent.append(resultPrice[0])
+        elif resultPrice[1] == 2:
+            lstPriceSell.append(0)
+            lstPriceRent.append(0)
+        
+    print('Price Sell', lstPriceSell)
+    print('Price Rent', lstPriceRent)
+    print('\n')
+    # print(lstPriceUnknown)
+
+
+
+def get_price(priceAndType):
     ty=['ty','ti']
     trieu=['trieu','tr']
     nam=['nam']
+
+    gia = []
+
+    priceAndType[1] = remove_accents(priceAndType[1]).lower().split(' ')
+    # print("a", priceAndType[1])
+
+    for t in ty:
+        if t in priceAndType[1] or (t + 'TL') in priceAndType[1]:
+            k = 1000000000
+    for tr in trieu:
+        if tr in priceAndType[1] or (tr + 'TL') in priceAndType[1]:
+            k = 1000000
+
+    if ',' in priceAndType[1][0]:
+        lstT = priceAndType[1][0].split(',')
+        priceAndType[1][0] = lstT[1]
+        priceAndType[1].insert(0, ',')
+        priceAndType[1].insert(0, lstT[0])
+        pivot = priceAndType[1].index(',')
+        f = priceAndType[1][pivot - 1]
+        s = priceAndType[1][pivot + 1]
+        if f.isdigit() and s.isdigit():
+            gia.append(float(f + '.' + s) * k)
+
+    if '.' in priceAndType[1][0]:
+        lstT = priceAndType[1][0].split('.')
+        priceAndType[1][0] = lstT[1]
+        priceAndType[1].insert(0, '.')
+        priceAndType[1].insert(0, lstT[0])
+        # print(priceAndType[1])
+        pivot = priceAndType[1].index('.')
+        if pivot < len(priceAndType[1]) - 1:
+            f = priceAndType[1][pivot - 1]
+            s = priceAndType[1][pivot + 1]
+            if f.isdigit() and s.isdigit():
+                gia.append(float(f + '.' + s) * k)
+
+    if len(gia) == 0:
+        check_t_tr = 0
+        for t in ty:
+            if t in priceAndType[1] or (t + 'TL') in priceAndType[1]:
+                pivot = priceAndType[1].index(t)
+                k = 1000000000
+                if pivot < len(priceAndType[1]) - 1:
+                    if priceAndType[1][pivot - 1].isdigit():
+                        if priceAndType[1][pivot + 1].isdigit():
+                            gia.append(k * float(priceAndType[1][pivot - 1] + '.' + priceAndType[1][pivot + 1]))
+                            check_t_tr += 1
+                        else:
+                            gia.append(k * float(priceAndType[1][pivot - 1]))
+
+                else:
+                    if priceAndType[1][pivot - 1].isdigit():
+                        gia.append(k * float(priceAndType[1][pivot - 1]))
+
+        if check_t_tr != 1:
+            check_t=0
+            for tr in trieu:
+                if tr in priceAndType[1] or (tr + 'TL') in priceAndType[1]:
+                    pivot = priceAndType[1].index(tr)
+                    k = 1000000
+                    if priceAndType[1][pivot - 1].isdigit():
+                        gia.append(k * float(priceAndType[1][pivot - 1]))
+                check_t=1
+
+            if check_t==1:
+                if 'm' in priceAndType[1]:
+                        tmp = str(priceAndType[0]['id']) + 'can xac dinh lai'
+                        if xacdinh(priceAndType[0]) > 0 and xacdinh(priceAndType[0]) != tmp:
+                            print("Area: ",xacdinh(priceAndType[0]))
+                            if len(gia) >0:
+                                gia[0]=gia[0] * xacdinh(priceAndType[0])
+    for n in nam:
+        if n in priceAndType[1]:
+            if len(gia) > 0:
+                gia[0] = gia[0] /12
+
+    # print(priceAndType[2])
+    if priceAndType[2] == 'Ban':
+        gia.append(0)
+    elif priceAndType[2] == 'Thue':
+        gia.append(1)
+    elif priceAndType[2] == 'None':
+        gia.append(2)
+
+    # print("giá", gia)
+    return gia
+
+# with open('data.json', "rb") as json_file:
+with open('data.json', 'rb') as json_file:
+    dataset = json.loads(json_file.read())
+   # dataset = json.load(json_file)
+   # test=[[[118941], ['25 tr/ tháng', '70 tỉ', '6.4 tỉ', '5 tr/ m2']]
+    # listDatasetTest = []
+    # for i in dataset:
+    #     if i['id'] == 119364:
+    #         listDatasetTest.append(i)
+    # print(phuong(listDatasetTest))
+    
+    newdata = phuong(dataset)
+    # print(newdata)
+
+    for i in newdata:
+        if len(i) == 0:
+            print(i)
+            continue
+        else:
+            print(i[0]['id'])
+            print(i[1])
+            getFullPrice(i)
+
+
+
+
+
+
+
+        #
+        # for i in test:
+        #     #print(i)
+        #     #print(data['id'])
+        #     #print(thue)
+        #     if ban == [] and thue==[]:
+        #         i=i+'+None'
+        #         #print(i)
+        #         continue
+        #     icontent = i.lower().split(' ')
+        #     #print(icontent)
+        #     dBan = 10000000
+        #     dThue = 10000000
+        #     if find_sub_list(icontent,content) != []:
+        #         ind=find_sub_list(icontent, content)[0][0]
+        #         #print("Index: ",ind)
+        #         if len(ban)>0:
+        #             for j in ban:
+        #                 #print(c)
+        #                 if abs(ind-j)<dBan:
+        #                     #print("JBan: ",j)
+        #                     dBan=abs(ind-j)
+        #                 else:
+        #                     continue
+        #         if len(thue)>0:
+        #             for j in thue:
+        #                 if abs(ind-j)<dThue:
+        #                     #print("JThue: ",j)
+        #                     dThue=abs(ind-j)
+        #                 else:
+        #                     continue
+        #         if len(ban)>0 and len(thue)>0:
+        #             if dBan < dThue:
+        #                 i = i + '+Bán'
+        #             else:
+        #                 i = i + '+Thuê'
+        #         elif len(ban)>0 and len(thue)==0:
+        #             print(len(thue))
+        #             i=i+'+Bán'
+        #         elif len(ban)==0 and len(thue)>0:
+        #             i = i + '+Thuê'
+        #         print("Ban: ",dBan)
+        #         print("Thue: ",dThue)
+        #         print(data['id'])
+        #         print(i)
+        # ban=[]
+        # thue=[]
+            #print(data['id'])
+            #print(i)
+
+    # a = ['một', 'con', 'vịt', 'có', '25', 'cái', 'cánh', 'giá', '25', 'triệu', '/', 'tháng']
+    # b = ['25', 'triệu', '/', 'tháng']
+    # print(find_sub_list(b, a))
+
+
+
+
+
+
+
+
+
+
+
+    # ty=['ty','ti']
+    # trieu=['trieu','tr']
+    # nam=['nam']
     #ty=r't[iIĩĨỉỈyYỹỸỷỶ]'
     # for data in dataset:
-    attribute = data['attributes']
-    # if data['id'] != 118318:
-    #   continue
-    # print(data['id'])
-    price_sell = 0
-    price_rent = 0
-    for i in range(0, len(attribute)):
-        gia = []
-        if attribute[i]['type'] == 'price':
-            # print(attribute[i]['content'])
-            price = remove_accents(attribute[i]['content']).lower().split(' ')
-            for word in ['toi','den','-', '~']:
-                while word in price:
-                    price = price[price.index(word) + 1: len(price)]
-
-            k = 1
-            # print(price)
-            print(price)
-            for t in ty:
-                if t in price or (t + 'TL') in price[::-1]:
-                    k = 1000000000
-            for tr in trieu:
-                if tr in price or (tr + 'TL') in price:
-                    k = 1000000
-
-            if ',' in price:
-                pivot = price.index(',')
-                # pivot=price.index('.')
-                f = price[pivot - 1]
-                s = price[pivot + 1]
-                if f.isdigit() and s.isdigit():
-                    gia.append(float(f + '.' + s) * k)
-                    # print(data['id'])
-                    # print(price)
-                    # print(gia)
-            if '.' in price:
-                pivot = price.index('.')
-                # pivot=price.index('.')
-                if pivot < len(price) - 1:
-                    f = price[pivot - 1]
-                    s = price[pivot + 1]
-                    if f.isdigit() and s.isdigit():
-                        gia.append(float(f + '.' + s) * k)
-
-            # print(price)
-            if len(gia) == 0:
-                check_t_tr = 0
-                for t in ty:
-                    if t in price or (t + 'TL') in price[::-1]:
-                        pivot = price.index(t)
-                        k = 1000000000
-                        if pivot < len(price) - 1:
-                            if price[pivot - 1].isdigit():
-                                if price[pivot + 1].isdigit():
-                                    gia.append(k * float(price[pivot - 1] + '.' + price[pivot + 1]))
-                                    check_t_tr += 1
-                                else:
-                                    gia.append(k * float(price[pivot - 1]))
-
-                        else:
-                            if price[pivot - 1].isdigit():
-                                gia.append(k * float(price[pivot - 1]))
-
-                if check_t_tr != 1:
-                    check_t=0
-                    for tr in trieu:
-                        if tr in price or (tr + 'TL') in price:
-                            pivot = price.index(tr)
-                            k = 1000000
-                            if price[pivot - 1].isdigit():
-                                gia.append(k * float(price[pivot - 1]))
-                        check_t=1
-
-                    if check_t==1:
-                        if 'm' in price:
-                                tmp = str(data['id']) + 'can xac dinh lai'
-                                if xacdinh(data) > 0 and xacdinh(data) != tmp:
-                                    print("Area: ",xacdinh(data))
-                                    if len(gia) >0:
-                                        gia[0]=gia[0] * xacdinh(data)
-            for n in nam:
-                if n in price:
-                    if len(gia) > 0:
-                        gia[0] = gia[0] /12
-
-
-            print(gia)
-
-
-
-            # print(price)
-            # print(gia)
-            j = i
-            while True:
-                j = j - 1
-                if j < 0:
-                    break
-                content = attribute[j]['content'].lower()
-                if 'bán' in content:
-                    if len(gia) > 0:
-                        price_sell = gia[0]
-                        print('Price sell =', price_sell)
-                        break
-                elif 'thuê' in content:
-                    if len(gia) > 0:
-                        price_rent = gia[0]
-                        print('Price rent =', price_rent)
-                        break
-        if i == len(attribute) - 1:
-            if price_sell == 0:
-                print('Price sell = ', price_sell)
-            if price_rent == 0:
-                print('Price rent = ', price_rent)
-        
-    return [price_sell, price_rent] 
-            
-          
-
-with open('data.json', encoding="utf-8") as json_file:
-
-    dataset = json.load(json_file)
-    count_1=0
-    count_2=0
-    count_3=0
-    count_4=0
-    count_5=0
-    count_6=0
-    count_7=0
-    for data in dataset:
-
-        # print("Price_sell: ", get_price_sell(data,get_trans_type(data,tmp1,tmp2),att[i]['content']))
-        # print("Price_rent: ", get_price_rent(data,get_trans_type(data,tmp1,tmp2),att[i]['content']))
-        # print(get_price(data)[0], get_price(data)[1])
-        getData = [data['content'], get_price(data)[0], get_price(data)[1]]
-        get_trans_type(getData)
-
-
-        # # print(data['id'])
-        # if data['id'] != 118927:
-        #     continue
-        # else:
-        #     print("ahihi: ", get_trans_type([data['content'], get_price(data)[0], get_price(data)[1]]))
-
-
-        # print(getData[0])
-        # print("Transaction type: ", get_trans_type(getData))
-
-        # att = data['attributes']
-        # # tmp1=-1
-        # # tmp2=-1
-        # for i in range(0, len(att)):s
-        #     if att[i]['type'] == 'price':
-        #         tmp1=i
-        #     if att[i]['type'] == 'transaction_type':
-        #         tmp2=i
-        # print(data['id'])
-        # print("Transaction_type: ", get_trans_type(data,tmp1,tmp2))
-        #     if att[i]['type'] == 'price':
-        #       print("Price_sell: ", get_price_sell(data,get_trans_type(data,tmp1,tmp2),att[i]['content']))
-        #       print("Price_rent: ", get_price_rent(data,get_trans_type(data,tmp1,tmp2),att[i]['content']))
-        
-        
-        
-        
-        if get_trans_type(getData)==1:
-            print(data['id'])
-            print("Transaction_type: ", get_trans_type(getData))
-            print(data['content'])
-            count_1 = count_1 + 1
-        elif get_trans_type(getData)==2:
-            print(data['id'])
-            print("Transaction_type: ", get_trans_type(getData))
-            print(data['content'])
-            count_2 = count_2 + 1
-        elif get_trans_type(getData)==3:
-            print(data['id'])
-            print("Transaction_type: ", get_trans_type(getData))
-            print(data['content'])
-            count_3 = count_3 + 1
-        elif get_trans_type(getData)==4:
-            print(data['id'])
-            print("Transaction_type: ", get_trans_type(getData))
-            print(data['content'])
-            count_4 = count_4 + 1
-        elif get_trans_type(getData)==5:
-            print(data['id'])
-            print("Transaction_type: ", get_trans_type(getData))
-            print(data['content'])
-            count_5 = count_5 + 1
-        elif get_trans_type(getData)==6:
-            print(data['id'])
-            print("Transaction_type: ", get_trans_type(getData))
-            print(data['content'])
-            count_6 = count_6 + 1
-        elif get_trans_type(getData)==7:
-            print(data['id'])
-            print("Transaction_type: ", get_trans_type(getData))
-            print(data['content'])
-            count_7 = count_7 + 1
-       # print("\n")
-    
-    print(count_1)
-    print(count_2)
-    print(count_3)
-    print(count_4)
-    print(count_5)
-    print(count_6)
-    print(count_7)
-    
-    # print ("Price_sell: ", get_price_sell(data,get_trans_type(data), price))
-    
-    
-    
+    #     attribute = data['attributes']
+    #     # if data['id'] != 118318:
+    #     #   continue
+    #     print(data['id'])
+    #     price_sell = 0
+    #     price_rent = 0
+    #     for i in range(0, len(attribute)):
+    #         gia = []
+    #         if attribute[i]['type'] == 'price':
+    #             # print(attribute[i]['content'])
+    #             price = remove_accents(attribute[i]['content']).lower().split(' ')
+    #             for word in ['toi','den','-', '~']:
+    #                 while word in price:
+    #                     price = price[price.index(word) + 1: len(price)]
+    #
+    #             k = 1
+    #             # print(price)
+    #             print(price)
+    #             for t in ty:
+    #                 if t in price or (t + 'TL') in price[::-1]:
+    #                     k = 1000000000
+    #             for tr in trieu:
+    #                 if tr in price or (tr + 'TL') in price:
+    #                     k = 1000000
+    #
+    #             if ',' in price:
+    #                 pivot = price.index(',')
+    #                 # pivot=price.index('.')
+    #                 f = price[pivot - 1]
+    #                 s = price[pivot + 1]
+    #                 if f.isdigit() and s.isdigit():
+    #                     gia.append(float(f + '.' + s) * k)
+    #                     # print(data['id'])
+    #                     # print(price)
+    #                     # print(gia)
+    #             if '.' in price:
+    #                 pivot = price.index('.')
+    #                 # pivot=price.index('.')
+    #                 if pivot < len(price) - 1:
+    #                     f = price[pivot - 1]
+    #                     s = price[pivot + 1]
+    #                     if f.isdigit() and s.isdigit():
+    #                         gia.append(float(f + '.' + s) * k)
+    #
+    #             # print(price)
+    #             if len(gia) == 0:
+    #                 check_t_tr = 0
+    #                 for t in ty:
+    #                     if t in price or (t + 'TL') in price[::-1]:
+    #                         pivot = price.index(t)
+    #                         k = 1000000000
+    #                         if pivot < len(price) - 1:
+    #                             if price[pivot - 1].isdigit():
+    #                                 if price[pivot + 1].isdigit():
+    #                                     gia.append(k * float(price[pivot - 1] + '.' + price[pivot + 1]))
+    #                                     check_t_tr += 1
+    #                                 else:
+    #                                     gia.append(k * float(price[pivot - 1]))
+    #
+    #                         else:
+    #                             if price[pivot - 1].isdigit():
+    #                                 gia.append(k * float(price[pivot - 1]))
+    #
+    #                 if check_t_tr != 1:
+    #                     check_t=0
+    #                     for tr in trieu:
+    #                         if tr in price or (tr + 'TL') in price:
+    #                             pivot = price.index(tr)
+    #                             k = 1000000
+    #                             if price[pivot - 1].isdigit():
+    #                                 gia.append(k * float(price[pivot - 1]))
+    #                         check_t=1
+    #
+    #                     if check_t==1:
+    #                         if 'm' in price:
+    #                                 tmp = str(data['id']) + 'can xac dinh lai'
+    #                                 if xacdinh(data) > 0 and xacdinh(data) != tmp:
+    #                                     print("Area: ",xacdinh(data))
+    #                                     if len(gia) >0:
+    #                                         gia[0]=gia[0] * xacdinh(data)
+    #             for n in nam:
+    #                 if n in price:
+    #                     if len(gia) > 0:
+    #                         gia[0] = gia[0] /12
+    #
+    #
+    #             print(gia)
+    #
+    #
+    #
+    #             # print(price)
+    #             # print(gia)
+    #             j = i
+    #             while True:
+    #                 j = j - 1
+    #                 if j < 0:
+    #                     break
+    #                 content = attribute[j]['content'].lower()
+    #                 if 'bán' in content:
+    #                     if len(gia) > 0:
+    #                         price_sell = gia[0]
+    #                         print('Price sell =', price_sell)
+    #                         break
+    #                 elif 'thuê' in content:
+    #                     if len(gia) > 0:
+    #                         price_rent = gia[0]
+    #                         print('Price rent =', price_rent)
+    #                         break
+    #         if i == len(attribute) - 1:
+    #             if price_sell == 0:
+    #                 print('Price sell = ', price_sell)
+    #             if price_rent == 0:
+    #                 print('Price rent = ', price_rent)
+    #
+    # # dataset = json.load(json_file)
+    # # count_1=0
+    # # count_2=0
+    # # count_3=0
+    # # count_4=0
+    # # count_5=0
+    # # count_6=0
+    # # count_7=0
+    # # for data in dataset:
+    # #     att = data['attributes']
+    # #     tmp1=-1
+    # #     tmp2=-1
+    # #     for i in range(0, len(att)):
+    # #         if att[i]['type'] == 'price':
+    # #             tmp1=i
+    # #         if att[i]['type'] == 'transaction_type':
+    # #             tmp2=i
+    # #     #print(data['id'])
+    # #     #print("Transaction_type: ", get_trans_type(data,tmp1,tmp2))
+    # #         if att[i]['type'] == 'price':
+    # #           print("Price_sell: ", get_price_sell(data,get_trans_type(data,tmp1,tmp2),att[i]['content']))
+    # #           print("Price_rent: ", get_price_rent(data,get_trans_type(data,tmp1,tmp2),att[i]['content']))
+    # #     if get_trans_type(data,tmp1,tmp2)==1:
+    # #         count_1 = count_1 + 1
+    # #     elif get_trans_type(data,tmp1,tmp2)==2:
+    # #         count_2 = count_2 + 1
+    # #     elif get_trans_type(data,tmp1,tmp2)==3:
+    # #         count_3 = count_3 + 1
+    # #     elif get_trans_type(data,tmp1,tmp2)==4:
+    # #         print(data['id'])
+    # #         print("Transaction_type: ", get_trans_type(data, tmp1, tmp2))
+    # #         print(data['content'])
+    # #         count_4 = count_4 + 1
+    # #     elif get_trans_type(data,tmp1,tmp2)==5:
+    # #         print(data['id'])
+    # #         print("Transaction_type: ", get_trans_type(data, tmp1, tmp2))
+    # #         print(data['content'])
+    # #         count_5 = count_5 + 1
+    # #     elif get_trans_type(data,tmp1,tmp2)==6:
+    # #         print(data['id'])
+    # #         print("Transaction_type: ", get_trans_type(data, tmp1, tmp2))
+    # #         print(data['content'])
+    # #         count_6 = count_6 + 1
+    # #     elif get_trans_type(data,tmp1,tmp2)==7:
+    # #         count_7 = count_7 + 1
+    # #    # print("\n")
+    # #
+    # # print(count_1)
+    # # print(count_2)
+    # # print(count_3)
+    # # print(count_4)
+    # # print(count_5)
+    # # print(count_6)
+    # # print(count_7)
+    # #
+    # # print ("Price_sell: ", get_price_sell(data,get_trans_type(data), price))
+    # #
+    # #
+    # #
+    #
+    #

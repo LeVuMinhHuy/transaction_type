@@ -1,0 +1,9275 @@
+118188
+['14.5 ty+Ban']
+Price Sell [14500000000.0]
+Price Rent []
+
+
+118189
+['60 tr  / thang+Thue', '60 tr  / thang+Ban', '18 ty+Thue', '18 ty+Ban']
+Price Sell [60000000.0, 18000000000.0]
+Price Rent [60000000.0, 18000000000.0]
+
+
+118190
+['3 ty+Ban']
+Price Sell [3000000000.0]
+Price Rent []
+
+
+118198
+['105 ty +Ban', '105 ty +Ban']
+Price Sell [105000000000.0, 105000000000.0]
+Price Rent []
+
+
+123488
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118217
+['76 ty+Ban']
+Price Sell [76000000000.0]
+Price Rent []
+
+
+118191
+['1 ti+Ban', '920 trieu+Ban']
+Price Sell [1000000000.0, 920000000.0]
+Price Rent []
+
+
+118192
+['6.5 ty+Ban']
+Price Sell [6500000000.0]
+Price Rent []
+
+
+118193
+['3.25 ty+Ban']
+Price Sell [3250000000.0]
+Price Rent []
+
+
+118194
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118195
+['3.65 ty+Ban']
+Price Sell [3650000000.0]
+Price Rent []
+
+
+118196
+['6.45 ty+Ban']
+Price Sell [6450000000.0]
+Price Rent []
+
+
+118199
+['3,6 ty+None', '7.8 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118200
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118201
+['6.5 tr+Ban']
+Price Sell [6500000.0]
+Price Rent []
+
+
+118202
+['20 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118203
+['20 tr+None', '1,5 ty+None', '50 tr+None', '1,5 ty+None']
+Price Sell [0, 0, 0, 0]
+Price Rent [0, 0, 0, 0]
+
+
+118210
+['33 trieu  / m 2+Ban']
+Area:  902.0
+Price Sell [29766000000.0]
+Price Rent []
+
+
+118204
+['1 tr+Ban', '15.5 ty+Ban']
+Price Sell [1000000.0, 15500000000.0]
+Price Rent []
+
+
+118205
+['1 tr+Ban', '13,6 ty+Ban']
+Price Sell [1000000.0, 13600000000.0]
+Price Rent []
+
+
+118206
+['30 tr  / m 2+Ban']
+Area:  4000.0
+Price Sell [120000000000.0]
+Price Rent []
+
+
+118207
+['13 tr+Thue']
+Price Sell []
+Price Rent [13000000.0]
+
+
+118208
+['48.3 ti +Ban']
+Price Sell [48300000000.0]
+Price Rent []
+
+
+118209
+['31.5 tr  / m 2+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118218
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118211
+['8.5 ty+Ban']
+Price Sell [8500000000.0]
+Price Rent []
+
+
+118212
+['2,5 ty+Ban', '2,3 ty+Ban']
+Price Sell [2500000000.0, 2300000000.0]
+Price Rent []
+
+
+118213
+['14 ty+Ban']
+Price Sell [14000000000.0]
+Price Rent []
+
+
+118214
+['4.85 ty+Ban']
+Price Sell [4850000000.0]
+Price Rent []
+
+
+118215
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118216
+['45 ty+Ban']
+Price Sell [45000000000.0]
+Price Rent []
+
+
+124091
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118219
+['4.5 ty  / nam+Thue']
+Price Sell []
+Price Rent [375000000.0]
+
+
+118220
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+118221
+['9 ty+Ban', '9 ty+Ban', '9 ty+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '9 ty+Ban', '9 ty+Ban', '9 ty+Ban']
+Price Sell [9000000000.0, 9000000000.0, 9000000000.0, 1000000.0, 1000000.0, 1000000.0, 9000000000.0, 9000000000.0, 9000000000.0]
+Price Rent []
+
+
+118222
+['1 ty+Ban', '680 trieu+Ban']
+Price Sell [1000000000.0, 680000000.0]
+Price Rent []
+
+
+118223
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118224
+['8 tr  / m 2+Ban']
+Area:  132.0
+Price Sell [1056000000.0]
+Price Rent []
+
+
+118225
+['35 tr  / m 2+None']
+Area:  100.0
+Price Sell [0]
+Price Rent [0]
+
+
+118226
+['2.9 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118227
+['1 tr+Ban', '13.5 ty+Ban']
+Price Sell [1000000.0, 13500000000.0]
+Price Rent []
+
+
+118228
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118986
+['750 trieu+Ban']
+Price Sell [750000000.0]
+Price Rent []
+
+
+118229
+['81 trieu+Thue', '46 ty+Thue']
+Price Sell []
+Price Rent [81000000.0, 46000000000.0]
+
+
+118230
+['25 ty+Ban']
+Price Sell [25000000000.0]
+Price Rent []
+
+
+118231
+['29 tr  / m 2+Ban']
+Area:  100.0
+Price Sell [2900000000.0]
+Price Rent []
+
+
+118232
+['25 tr  / m 2+Ban']
+Area:  90000.0
+Price Sell [2250000000000.0]
+Price Rent []
+
+
+118233
+['5 ty+Ban', '800 trieu+Ban', '6 ty+Ban']
+Price Sell [5000000000.0, 800000000.0, 6000000000.0]
+Price Rent []
+
+
+118234
+['2,85 ty+Ban']
+Price Sell [2850000000.0]
+Price Rent []
+
+
+118301
+['1 tr+Ban', '5 ty+Ban', '0935888940 ti+Ban']
+Price Sell [1000000.0, 5000000000.0, 9.3588894e+17]
+Price Rent []
+
+
+118235
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118236
+['2.2 ty+Ban', '25 tr  / m 2+Ban']
+Area:  90.0
+Price Sell [2200000000.0, 2250000000.0]
+Price Rent []
+
+
+118237
+['394 tr+None', '75 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118238
+['2,75 ty+Ban']
+Price Sell [2750000000.0]
+Price Rent []
+
+
+118239
+['120 ty+Thue']
+Price Sell []
+Price Rent [120000000000.0]
+
+
+118240
+['590 trieu+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118302
+['23 ty+Ban']
+Price Sell [23000000000.0]
+Price Rent []
+
+
+118241
+['230 trieu  / thang+None', '35 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118242
+['394 tr+None', '75 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118243
+['3 ty+Ban', '300 tr+Ban']
+Price Sell [3000000000.0, 300000000.0]
+Price Rent []
+
+
+118244
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118245
+['1 tr+Ban', '50 tr  / thang+Ban', '15 ty+Ban']
+Price Sell [1000000.0, 50000000.0, 15000000000.0]
+Price Rent []
+
+
+118246
+['26 ty+Ban']
+Price Sell [26000000000.0]
+Price Rent []
+
+
+118247
+['5,4 ty  / nam+Ban', '450 trieu  / thang+Ban', '75 ty+Ban']
+Price Sell [450000000.0, 450000000.0, 75000000000.0]
+Price Rent []
+
+
+118248
+['1 tr+Ban', '3,55 ty+Ban']
+Price Sell [1000000.0, 3550000000.0]
+Price Rent []
+
+
+118250
+['6 ty+Ban', '1 tr+Ban', '6 ty+Ban', '71 tr  / m 2+Ban']
+Area:  87.0
+Price Sell [6000000000.0, 1000000.0, 6000000000.0, 6177000000.0]
+Price Rent []
+
+
+118251
+['2,8 trieu  / m 2+Ban']
+Price Sell [2800000.0]
+Price Rent []
+
+
+118252
+['1 tr+Ban', '13.5 ty+Ban']
+Price Sell [1000000.0, 13500000000.0]
+Price Rent []
+
+
+118317
+['2 ty+None', '1.85 ty+None', '1.95 ty+None', '1.93 ty+None', '2.05 ty+None', '2.49 ty+None']
+Price Sell [0, 0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0, 0]
+
+
+118253
+['16,5 ty+Ban', '16,5 ty+Ban', '16 ty+Ban', '16 ty+Ban']
+Price Sell [16500000000.0, 16500000000.0, 16000000000.0, 16000000000.0]
+Price Rent []
+
+
+118254
+['28 ty+Ban']
+Price Sell [28000000000.0]
+Price Rent []
+
+
+118255
+['1 tr+Ban', '5,850 ty +Ban']
+Price Sell [1000000.0, 5850000000.0]
+Price Rent []
+
+
+118256
+['1.2 ty+Ban', '1.2 ty+Ban', '2 trieu+Ban', '2 trieu+Ban']
+Price Sell [1200000000.0, 1200000000.0, 2000000.0, 2000000.0]
+Price Rent []
+
+
+118257
+['45 trieu  / thang+Ban', '8.9 ty+Ban']
+Price Sell [45000000.0, 8900000000.0]
+Price Rent []
+
+
+118258
+['20 tr  / thang+Thue', '20 tr  / thang+Thue', '1,2 ty+Thue', '1,2 ty+Thue']
+Price Sell []
+Price Rent [20000000.0, 20000000.0, 1200000000.0, 1200000000.0]
+
+
+118344
+['1,95 ty+Ban']
+Price Sell [1950000000.0]
+Price Rent []
+
+
+118259
+['4 ty+Ban', '300 trieu+Ban']
+Price Sell [4000000000.0, 300000000.0]
+Price Rent []
+
+
+118260
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118261
+['2.8 ty+Ban', '2.8 ty+Ban']
+Price Sell [2800000000.0, 2800000000.0]
+Price Rent []
+
+
+118262
+['8 trieu  / m 2+None']
+Area:  119.0
+Price Sell [0]
+Price Rent [0]
+
+
+118263
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118264
+['50 trieu+Ban', '50 trieu+Ban', '2 tr+Ban']
+Price Sell [50000000.0, 50000000.0, 2000000.0]
+Price Rent []
+
+
+118265
+['950 tr+Ban', '1 ti+Ban']
+Price Sell [950000000.0, 1000000000.0]
+Price Rent []
+
+
+118266
+['980 tr+Ban']
+Price Sell [980000000.0]
+Price Rent []
+
+
+118267
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118268
+['2.1 ty+Ban', '2.1 ty+Ban']
+Price Sell [2100000000.0, 2100000000.0]
+Price Rent []
+
+
+120294
+['1 tr+Thue', '45 trieu+Thue', '30 trieu  / thang+Thue', '30 trieu+Thue', '42 trieu+Thue']
+Price Sell []
+Price Rent [1000000.0, 45000000.0, 30000000.0, 30000000.0, 42000000.0]
+
+
+118269
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118270
+['25 ty+Ban', '60 trieu  / m 2+Ban', '23.8 ty+Ban']
+Area:  378.0
+Price Sell [25000000000.0, 22680000000.0, 23800000000.0]
+Price Rent []
+
+
+118271
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118272
+['12 tr  / thang+Thue']
+Price Sell []
+Price Rent [12000000.0]
+
+
+118273
+['2 tr+Thue', '45 trieu  / thang+Thue']
+Price Sell []
+Price Rent [2000000.0, 45000000.0]
+
+
+118274
+['6 trieu  / thang+Thue', '7 trieu  / thang+Thue', '8 trieu  / thang+Thue', '13 trieu  / thang+Thue']
+Price Sell []
+Price Rent [6000000.0, 7000000.0, 8000000.0, 13000000.0]
+
+
+118275
+['18 tr+Ban']
+Price Sell [18000000.0]
+Price Rent []
+
+
+118276
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118277
+['45 trieu  / thang+Thue']
+Price Sell []
+Price Rent [45000000.0]
+
+
+118278
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118280
+['9,5 tr+Thue']
+Price Sell []
+Price Rent [9500000.0]
+
+
+118403
+['8,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118338
+['1 tr+Ban', '12,5 ty+Ban']
+Price Sell [1000000.0, 12500000000.0]
+Price Rent []
+
+
+118283
+['15 trieu  / thang+Thue']
+Price Sell []
+Price Rent [15000000.0]
+
+
+118285
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118286
+['7 tr+Ban', '7 tr+Ban', '7 tr+Ban', '7 tr+Ban', '7 tr+Ban', '7 tr+Ban', '9 tr  / thang+Ban', '9 tr  / thang+Ban', '9 tr  / thang+Ban', '9 tr  / thang+Ban', '9 tr  / thang+Ban', '9 tr  / thang+Ban', '8 tr+Ban', '8 tr+Ban', '8 tr+Ban', '8 tr+Ban', '8 tr+Ban', '8 tr+Ban', '12 tr  / thang+Ban', '12 tr  / thang+Ban', '12 tr  / thang+Ban', '12 tr  / thang+Ban', '12 tr  / thang+Ban', '12 tr  / thang+Ban', '12 tr+Ban', '12 tr+Ban', '12 tr+Ban', '12 tr+Ban', '12 tr+Ban', '12 tr+Ban', '15 tr  / thang+Ban', '15 tr  / thang+Ban', '15 tr  / thang+Ban', '15 tr  / thang+Ban', '15 tr  / thang+Ban', '15 tr  / thang+Ban']
+Price Sell [7000000.0, 7000000.0, 7000000.0, 7000000.0, 7000000.0, 7000000.0, 9000000.0, 9000000.0, 9000000.0, 9000000.0, 9000000.0, 9000000.0, 8000000.0, 8000000.0, 8000000.0, 8000000.0, 8000000.0, 8000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0]
+Price Rent []
+
+
+118287
+['10 trieu  / thang+Thue']
+Price Sell []
+Price Rent [10000000.0]
+
+
+118351
+['1.6 ty+Ban']
+Price Sell [1600000000.0]
+Price Rent []
+
+
+118289
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118290
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118291
+['43 ty+Ban', '240 trieu  / thang+Ban', '43 ty+Ban']
+Price Sell [43000000000.0, 240000000.0, 43000000000.0]
+Price Rent []
+
+
+118292
+['5,1 ty+Ban']
+Price Sell [5100000000.0]
+Price Rent []
+
+
+118299
+['1.65 ty+Ban', '1.7 ty+Ban']
+Price Sell [1650000000.0, 1700000000.0]
+Price Rent []
+
+
+118293
+['1.956 ty+Ban', '1.956 ty+Ban', '1.956 ty+Thue', '1.956 ty+Thue', '1.956 ty+Thue', '1.956 ty+Ban', '1.956 ty+Ban', '1,9 ty+Ban', '1,9 ty+Ban', '1,9 ty+Thue', '1,9 ty+Thue', '1,9 ty+Thue', '1,9 ty+Ban', '1,9 ty+Ban', '2,04 ty+Ban', '2,04 ty+Ban', '2,04 ty+Thue', '2,04 ty+Thue', '2,04 ty+Thue', '2,04 ty+Ban', '2,04 ty+Ban', '2.15 ty+Ban', '2.15 ty+Ban', '2.15 ty+Thue', '2.15 ty+Thue', '2.15 ty+Thue', '2.15 ty+Ban', '2.15 ty+Ban', '2,2 ty+Ban', '2,2 ty+Ban', '2,2 ty+Thue', '2,2 ty+Thue', '2,2 ty+Thue', '2,2 ty+Ban', '2,2 ty+Ban', '2.080 ty+Ban', '2.080 ty+Ban', '2.080 ty+Thue', '2.080 ty+Thue', '2.080 ty+Thue', '2.080 ty+Ban', '2.080 ty+Ban', '1.830 ty+Ban', '1.830 ty+Ban', '1.830 ty+Thue', '1.830 ty+Thue', '1.830 ty+Thue', '1.830 ty+Ban', '1.830 ty+Ban']
+Price Sell [1956000000.0, 1956000000.0, 1956000000.0, 1956000000.0, 1900000000.0, 1900000000.0, 1900000000.0, 1900000000.0, 2040000000.0, 2040000000.0, 2040000000.0, 2040000000.0, 2150000000.0, 2150000000.0, 2150000000.0, 2150000000.0, 2200000000.0, 2200000000.0, 2200000000.0, 2200000000.0, 2080000000.0, 2080000000.0, 2080000000.0, 2080000000.0, 1830000000.0, 1830000000.0, 1830000000.0, 1830000000.0]
+Price Rent [1956000000.0, 1956000000.0, 1956000000.0, 1900000000.0, 1900000000.0, 1900000000.0, 2040000000.0, 2040000000.0, 2040000000.0, 2150000000.0, 2150000000.0, 2150000000.0, 2200000000.0, 2200000000.0, 2200000000.0, 2080000000.0, 2080000000.0, 2080000000.0, 1830000000.0, 1830000000.0, 1830000000.0]
+
+
+118294
+['76 ty+Ban', '76 ty+Ban', '76 ty+Ban', '76 ty+Ban', '76 ty+Thue', '76 ty+Ban', '76 ty+Thue', '76 ty+Thue', '82 ty+Ban', '82 ty+Ban', '82 ty+Ban', '82 ty+Ban', '82 ty+Thue', '82 ty+Ban', '82 ty+Thue', '82 ty+Thue', '600 tr  / thang+Ban', '600 tr  / thang+Ban', '600 tr  / thang+Ban', '600 tr  / thang+Ban', '600 tr  / thang+Thue', '600 tr  / thang+Ban', '600 tr  / thang+Thue', '600 tr  / thang+Thue', '155 ty+Ban', '155 ty+Ban', '155 ty+Ban', '155 ty+Ban', '155 ty+Thue', '155 ty+Ban', '155 ty+Thue', '155 ty+Thue', '650 trieu  / thang+Ban', '650 trieu  / thang+Ban', '650 trieu  / thang+Ban', '650 trieu  / thang+Ban', '650 trieu  / thang+Thue', '650 trieu  / thang+Ban', '650 trieu  / thang+Thue', '650 trieu  / thang+Thue', '155 ty+Ban', '155 ty+Ban', '155 ty+Ban', '155 ty+Ban', '155 ty+Thue', '155 ty+Ban', '155 ty+Thue', '155 ty+Thue', '590 trieu  / thang+Ban', '590 trieu  / thang+Ban', '590 trieu  / thang+Ban', '590 trieu  / thang+Ban', '590 trieu  / thang+Thue', '590 trieu  / thang+Ban', '590 trieu  / thang+Thue', '590 trieu  / thang+Thue', '150 ty+Ban', '150 ty+Ban', '150 ty+Ban', '150 ty+Ban', '150 ty+Thue', '150 ty+Ban', '150 ty+Thue', '150 ty+Thue']
+Price Sell [76000000000.0, 76000000000.0, 76000000000.0, 76000000000.0, 76000000000.0, 82000000000.0, 82000000000.0, 82000000000.0, 82000000000.0, 82000000000.0, 600000000.0, 600000000.0, 600000000.0, 600000000.0, 600000000.0, 155000000000.0, 155000000000.0, 155000000000.0, 155000000000.0, 155000000000.0, 650000000.0, 650000000.0, 650000000.0, 650000000.0, 650000000.0, 155000000000.0, 155000000000.0, 155000000000.0, 155000000000.0, 155000000000.0, 590000000.0, 590000000.0, 590000000.0, 590000000.0, 590000000.0, 150000000000.0, 150000000000.0, 150000000000.0, 150000000000.0, 150000000000.0]
+Price Rent [76000000000.0, 76000000000.0, 76000000000.0, 82000000000.0, 82000000000.0, 82000000000.0, 600000000.0, 600000000.0, 600000000.0, 155000000000.0, 155000000000.0, 155000000000.0, 650000000.0, 650000000.0, 650000000.0, 155000000000.0, 155000000000.0, 155000000000.0, 590000000.0, 590000000.0, 590000000.0, 150000000000.0, 150000000000.0, 150000000000.0]
+
+
+118295
+['70 trieu+Thue', '70 trieu+Thue', '18,5 ty+Thue', '18,5 ty+Thue']
+Price Sell []
+Price Rent [70000000.0, 70000000.0, 18500000000.0, 18500000000.0]
+
+
+118296
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118297
+['1 ty+Ban', '830 tr+Ban']
+Price Sell [1000000000.0, 830000000.0]
+Price Rent []
+
+
+118298
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118303
+['3 ty+Ban']
+Price Sell [3000000000.0]
+Price Rent []
+
+
+118304
+['2.3 ty+Ban']
+Price Sell [2300000000.0]
+Price Rent []
+
+
+118305
+['10 trieu  / thang+Ban', '10 trieu  / m 2+Ban']
+Area:  235.0
+Price Sell [10000000.0, 2350000000.0]
+Price Rent []
+
+
+118306
+['1 tr+Ban', '26 ty+Ban']
+Price Sell [1000000.0, 26000000000.0]
+Price Rent []
+
+
+118307
+['141 ti+Ban']
+Price Sell [141000000000.0]
+Price Rent []
+
+
+118308
+['1 tr+Ban', '115.78 trieu  / thang+Ban', '38 ty+Ban']
+Price Sell [1000000.0, 115780000.0, 38000000000.0]
+Price Rent []
+
+
+118310
+['1 tr+Ban', '4,5 ty +Ban']
+Price Sell [1000000.0, 4500000000.0]
+Price Rent []
+
+
+118311
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+118312
+['1 tr+Ban', '11 ty +Ban']
+Price Sell [1000000.0, 11000000000.0]
+Price Rent []
+
+
+118383
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118313
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118314
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118315
+['2,35 ty+Ban']
+Price Sell [2350000000.0]
+Price Rent []
+
+
+118316
+['3.95 ty+Ban']
+Price Sell [3950000000.0]
+Price Rent []
+
+
+118404
+['22 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118318
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '450 trieu  / thang+Ban', '450 trieu  / thang+Thue', '450 trieu  / thang+Thue', '125 ty+Ban', '125 ty+Thue', '125 ty+Thue']
+Price Sell [1000000.0, 450000000.0, 125000000000.0]
+Price Rent [1000000.0, 1000000.0, 450000000.0, 450000000.0, 125000000000.0, 125000000000.0]
+
+
+118319
+['1.88 ty+Ban']
+Price Sell [1880000000.0]
+Price Rent []
+
+
+118320
+['50 tr  / m 2+Ban', '80 tr  / m 2+Ban']
+Area:  80.0
+Area:  80.0
+Price Sell [4000000000.0, 6400000000.0]
+Price Rent []
+
+
+118321
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118322
+['4.990 ty+Ban']
+Price Sell [4990000000.0]
+Price Rent []
+
+
+118323
+['1.850 ty+Ban']
+Price Sell [1850000000.0]
+Price Rent []
+
+
+118324
+['2,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118325
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118326
+['2 ty+Ban', '600 trieu+Ban']
+Price Sell [2000000000.0, 600000000.0]
+Price Rent []
+
+
+118385
+['570 trieu+Ban']
+Price Sell [570000000.0]
+Price Rent []
+
+
+118327
+['1 tr+None', '1 tr+None', '4,3 ty+None', '80 tr+None']
+Price Sell [0, 0, 0, 0]
+Price Rent [0, 0, 0, 0]
+
+
+118328
+['3 ty+Ban']
+Price Sell [3000000000.0]
+Price Rent []
+
+
+118329
+['10 trieu  / m 2+Ban', '800 trieu+Ban', '1 ty+Ban', '2 ti+Ban']
+Area:  100.0
+Price Sell [1000000000.0, 800000000.0, 1000000000.0, 2000000000.0]
+Price Rent []
+
+
+118330
+['6.5 ty+Ban']
+Price Sell [6500000000.0]
+Price Rent []
+
+
+118352
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118331
+['2 tr  / m 2+Ban', '43 tr  / m 2+Ban']
+Area:  69.0
+Area:  69.0
+Price Sell [138000000.0, 2967000000.0]
+Price Rent []
+
+
+118339
+['1 tr+Thue', '9 ty+Thue']
+Price Sell []
+Price Rent [1000000.0, 9000000000.0]
+
+
+118332
+['8 ty+Ban', '134 trieu  / m 2+Ban']
+Area:  62.0
+Price Sell [8000000000.0, 8308000000.0]
+Price Rent []
+
+
+118333
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118334
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118335
+['1,2 ty+Ban']
+Price Sell [1200000000.0]
+Price Rent []
+
+
+118336
+['1.5 ty+Ban']
+Price Sell [1500000000.0]
+Price Rent []
+
+
+118337
+['1 ty+Ban', '225 trieu+Ban']
+Price Sell [1000000000.0, 225000000.0]
+Price Rent []
+
+
+118340
+['5 ty+Ban', '70 tr  / thang+Ban', '1 tr+Ban', '18.9 ty+Ban', '70 tr  / thang+Ban']
+Price Sell [5000000000.0, 70000000.0, 1000000.0, 18900000000.0, 70000000.0]
+Price Rent []
+
+
+118341
+['2.1 ty+Ban', '2.1 ty+Ban']
+Price Sell [2100000000.0, 2100000000.0]
+Price Rent []
+
+
+118342
+['350 trieu  / m 2+Ban', '306 trieu  / m 2+Ban']
+Area:  640.0
+Area:  640.0
+Price Sell [224000000000.0, 195840000000.0]
+Price Rent []
+
+
+118350
+['8 ty+None', '2 ty+None', '3 ty+None', '3 ty+None', '2 ty+None', '3 ty+None', '3 ty+None', '2 ty+None']
+Price Sell [0, 0, 0, 0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0, 0, 0, 0]
+
+
+118343
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+133897
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118386
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118345
+['28 trieu  / m 2+Ban', '50 trieu+Ban', '100 trieu+Ban']
+Area:  140.0
+Price Sell [3920000000.0, 50000000.0, 100000000.0]
+Price Rent []
+
+
+118346
+['62 ty+None', '26 tr  / m 2+None', '62 ty+None']
+Area:  2386.0
+Price Sell [0, 0, 0]
+Price Rent [0, 0, 0]
+
+
+118347
+['2 ty+None', '2 ty+None', '2 ty+None', '3 ty+None', '3 ty+None', '2 ty+None', '2 ty+None', '2.75 ty+None', '2.76 ty+None', '3 ty+None', '3.7 ty+None']
+Price Sell [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+118348
+['13 tr  / m 2+Ban']
+Area:  55.96
+Price Sell [727480000.0]
+Price Rent []
+
+
+118349
+['1.2 ty+Ban']
+Price Sell [1200000000.0]
+Price Rent []
+
+
+118353
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+118387
+['3,2 ty+Ban']
+Price Sell [3200000000.0]
+Price Rent []
+
+
+118354
+['1,6 ty+Ban']
+Price Sell [1600000000.0]
+Price Rent []
+
+
+118355
+['20 trieu  / m 2+Ban']
+Area:  80.0
+Price Sell [1600000000.0]
+Price Rent []
+
+
+118356
+['1 ty+Ban', '2 ty+Ban', '2 ty+Ban', '2 ty+Ban', '2 ty+Ban', '2 ty+Ban', '2 ty+Ban', '2 ty+Ban', '3 ty+Ban']
+Price Sell [1000000000.0, 2000000000.0, 2000000000.0, 2000000000.0, 2000000000.0, 2000000000.0, 2000000000.0, 2000000000.0, 3000000000.0]
+Price Rent []
+
+
+118357
+['1.8 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118364
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+118405
+['23,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118401
+['2.5 ty+Ban']
+Price Sell [2500000000.0]
+Price Rent []
+
+
+118358
+['90 ty+Ban', '1 tr+Ban', '90 ty+Ban']
+Price Sell [90000000000.0, 1000000.0, 90000000000.0]
+Price Rent []
+
+
+118359
+['140 ty+Ban']
+Price Sell [140000000000.0]
+Price Rent []
+
+
+118360
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+118361
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+118362
+['13 ty+Ban']
+Price Sell [13000000000.0]
+Price Rent []
+
+
+118363
+['1.2 ty+Ban']
+Price Sell [1200000000.0]
+Price Rent []
+
+
+118365
+['2 ty+Ban']
+Price Sell [2000000000.0]
+Price Rent []
+
+
+118366
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118367
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118368
+['1.4 ty +Ban']
+Price Sell [1400000000.0]
+Price Rent []
+
+
+118369
+['3,65 ty+Ban']
+Price Sell [3650000000.0]
+Price Rent []
+
+
+118370
+['1 tr+Ban', '1 tr+Thue', '13 ti +Ban', '13 ti +Thue']
+Price Sell [1000000.0, 13000000000.0]
+Price Rent [1000000.0, 13000000000.0]
+
+
+118371
+['38 trieu  / m 2+Ban']
+Area:  72.0
+Price Sell [2736000000.0]
+Price Rent []
+
+
+118388
+['9.5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118372
+['699 trieu+Ban', '100 trieu+Ban']
+Price Sell [699000000.0, 100000000.0]
+Price Rent []
+
+
+118373
+['4.2 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118374
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118375
+['4 ti+None', '15 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118376
+['570 trieu+Ban']
+Price Sell [570000000.0]
+Price Rent []
+
+
+118384
+['7 ty+Ban']
+Price Sell [7000000000.0]
+Price Rent []
+
+
+118377
+['3 ty+Ban']
+Price Sell [3000000000.0]
+Price Rent []
+
+
+118378
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118379
+['6.2 ty +Ban', '1 tr+Ban', '6.2 ty+Ban']
+Price Sell [6200000000.0, 1000000.0, 6200000000.0]
+Price Rent []
+
+
+118380
+['45 tr  / m 2+Ban', '44 trieu  / m 2+Ban', '44 tr  / m 2+Ban', '43 tr  / m 2+Ban']
+Area:  168.0
+Area:  168.0
+Area:  168.0
+Area:  168.0
+Price Sell [7560000000.0, 7392000000.0, 7392000000.0, 7224000000.0]
+Price Rent []
+
+
+118381
+['1.5 ty+Ban', '500 trieu+Ban']
+Price Sell [1500000000.0, 500000000.0]
+Price Rent []
+
+
+118382
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118389
+['15,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118390
+['1,8 ty+Ban']
+Price Sell [1800000000.0]
+Price Rent []
+
+
+118391
+['6,9 ty+Thue']
+Price Sell []
+Price Rent [6900000000.0]
+
+
+118392
+['130 tr+Thue', '21.5 ty+Thue']
+Price Sell []
+Price Rent [130000000.0, 21500000000.0]
+
+
+118393
+['4 ti+None', '15 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118394
+['11.2 ty+Ban', '100 tr  / m 2+Ban']
+Area:  116.6
+Price Sell [11200000000.0, 11660000000.0]
+Price Rent []
+
+
+118395
+['500 tr+Ban']
+Price Sell [500000000.0]
+Price Rent []
+
+
+118396
+['10 ty+Thue']
+Price Sell []
+Price Rent [10000000000.0]
+
+
+118397
+['3 ty+Ban', '200 trieu+Ban']
+Price Sell [3000000000.0, 200000000.0]
+Price Rent []
+
+
+118398
+['350 trieu+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118399
+['1.8 ty+Ban', '1.8 ty+Ban']
+Price Sell [1800000000.0, 1800000000.0]
+Price Rent []
+
+
+118400
+['800 trieu+Ban']
+Price Sell [800000000.0]
+Price Rent []
+
+
+118406
+['75 ty+Ban']
+Price Sell [75000000000.0]
+Price Rent []
+
+
+118407
+['14,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118408
+['1.8 ty+Ban', '1,8 ty+Ban']
+Price Sell [1800000000.0, 1800000000.0]
+Price Rent []
+
+
+118410
+['10 tr+Ban', '18 tr  / m 2+Ban', '50 tr+Ban', '100 tr+Ban', '200 tr +Ban', '200 tr+Ban']
+Area:  120.0
+Price Sell [10000000.0, 2160000000.0, 50000000.0, 100000000.0, 200000000.0, 200000000.0]
+Price Rent []
+
+
+118411
+['8,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118420
+['9,5 ty+Ban']
+Price Sell [9500000000.0]
+Price Rent []
+
+
+118421
+['17,5 ty+Thue']
+Price Sell []
+Price Rent [17500000000.0]
+
+
+118412
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118413
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118414
+['74.9 ty +Ban', '74.9 ty +Ban', '75 ty+Ban', '75 ty+Ban']
+Price Sell [74900000000.0, 74900000000.0, 75000000000.0, 75000000000.0]
+Price Rent []
+
+
+118417
+['2.3 ty+Ban', '3.5 ty+Ban']
+Price Sell [2300000000.0, 3500000000.0]
+Price Rent []
+
+
+118418
+['11,9 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118419
+['5,7 ty+Ban', '1 tr+Ban', '5,7 ty+Ban']
+Price Sell [5700000000.0, 1000000.0, 5700000000.0]
+Price Rent []
+
+
+118424
+['1.8 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118425
+['3.1 ty+Ban']
+Price Sell [3100000000.0]
+Price Rent []
+
+
+118426
+['39 ty+Thue']
+Price Sell []
+Price Rent [39000000000.0]
+
+
+118427
+['100 tr  / m 2+None', '19 ty+None']
+Area:  184.0
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118428
+['12 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119866
+['1 tr+Ban', '2.15 ty+Ban']
+Price Sell [1000000.0, 2150000000.0]
+Price Rent []
+
+
+118431
+['1.5 ty+Ban', '1.65 ty+Ban', '2.56 ty+Ban', '3.3 ty+Ban']
+Price Sell [1500000000.0, 1650000000.0, 2560000000.0, 3300000000.0]
+Price Rent []
+
+
+118432
+['120 tr  / thang+Thue', '120 tr  / thang+Ban', '31 ty+Thue', '31 ty+Ban']
+Price Sell [120000000.0, 31000000000.0]
+Price Rent [120000000.0, 31000000000.0]
+
+
+118433
+['9,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118434
+['9.2 ty+Thue']
+Price Sell []
+Price Rent [9200000000.0]
+
+
+118435
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118436
+['30.5 ty+Ban']
+Price Sell [30500000000.0]
+Price Rent []
+
+
+118437
+['3,25 ty+Ban', '38 tr  / m 2+Ban', '42 tr  / m 2+Ban']
+Area:  84.0
+Area:  84.0
+Price Sell [3250000000.0, 3192000000.0, 3528000000.0]
+Price Rent []
+
+
+118438
+['19 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118455
+['8.7 ty +Thue']
+Price Sell []
+Price Rent [8700000000.0]
+
+
+118439
+['1 tr+Ban', '7.4 ty+Ban']
+Price Sell [1000000.0, 7400000000.0]
+Price Rent []
+
+
+118440
+['35 ty+Ban']
+Price Sell [35000000000.0]
+Price Rent []
+
+
+118442
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118443
+['730 trieu+Ban', '1,1 ty+Ban']
+Price Sell [730000000.0, 1100000000.0]
+Price Rent []
+
+
+118444
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118445
+['25 ty+Thue']
+Price Sell []
+Price Rent [25000000000.0]
+
+
+118446
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+118447
+['1 tr+Ban', '4.6 ty+Ban']
+Price Sell [1000000.0, 4600000000.0]
+Price Rent []
+
+
+118448
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118449
+['5,2 ty+Ban']
+Price Sell [5200000000.0]
+Price Rent []
+
+
+118450
+['15 ty+Ban']
+Price Sell [15000000000.0]
+Price Rent []
+
+
+118451
+['2.55 ty+Ban', '2.55 ty+Ban']
+Price Sell [2550000000.0, 2550000000.0]
+Price Rent []
+
+
+119892
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118452
+['8.7 ty+Thue']
+Price Sell []
+Price Rent [8700000000.0]
+
+
+118453
+['10 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118462
+['8,7 ty+Ban']
+Price Sell [8700000000.0]
+Price Rent []
+
+
+118454
+['16 ty+Ban']
+Price Sell [16000000000.0]
+Price Rent []
+
+
+118456
+['14 ty+Ban']
+Price Sell [14000000000.0]
+Price Rent []
+
+
+118457
+['9.5 ty+Ban']
+Price Sell [9500000000.0]
+Price Rent []
+
+
+118480
+['30 ty+Ban']
+Price Sell [30000000000.0]
+Price Rent []
+
+
+118458
+['73 ty +Ban', '200 tr  / thang+Ban', '73 ty+Ban']
+Price Sell [73000000000.0, 200000000.0, 73000000000.0]
+Price Rent []
+
+
+118459
+['1.6 ty+None', '1.8 ty+None', '3 ty+None']
+Price Sell [0, 0, 0]
+Price Rent [0, 0, 0]
+
+
+118460
+['30 tr  / thang+Thue', '30 tr  / thang+Thue', '5,9 ty +Thue', '5,9 ty +Thue']
+Price Sell []
+Price Rent [30000000.0, 30000000.0, 5900000000.0, 5900000000.0]
+
+
+118461
+['20.5 ty+Ban']
+Price Sell [20500000000.0]
+Price Rent []
+
+
+118463
+['400 trieu+Ban']
+Price Sell [400000000.0]
+Price Rent []
+
+
+118464
+['12,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118465
+['8 ty+Ban']
+Price Sell [8000000000.0]
+Price Rent []
+
+
+118466
+['73 ty +Ban', '200 tr  / thang+Ban', '73 ty+Ban']
+Price Sell [73000000000.0, 200000000.0, 73000000000.0]
+Price Rent []
+
+
+118467
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118468
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118481
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118469
+['14 ty+Ban']
+Price Sell [14000000000.0]
+Price Rent []
+
+
+118471
+['3.320 ty +Ban']
+Price Sell [3320000000.0]
+Price Rent []
+
+
+118472
+['13 ty+Ban']
+Price Sell [13000000000.0]
+Price Rent []
+
+
+118473
+['2 ty+Ban']
+Price Sell [2000000000.0]
+Price Rent []
+
+
+118474
+['3,6 ty+Ban']
+Price Sell [3600000000.0]
+Price Rent []
+
+
+118475
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118476
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118477
+['26 ty+Ban']
+Price Sell [26000000000.0]
+Price Rent []
+
+
+118478
+['12.3 ty+Ban']
+Price Sell [12300000000.0]
+Price Rent []
+
+
+118479
+['31 trieu  / m 2+Ban', '32.5 trieu  / m 2+Ban']
+Area:  122.0
+Price Sell [3782000000.0, 32500000.0]
+Price Rent []
+
+
+118483
+['2,4 ty+Ban']
+Price Sell [2400000000.0]
+Price Rent []
+
+
+118484
+['53 ty+Thue']
+Price Sell []
+Price Rent [53000000000.0]
+
+
+118485
+['680 trieu+Ban', '1 tr+Ban']
+Price Sell [680000000.0, 1000000.0]
+Price Rent []
+
+
+118487
+['13.5 trieu  / thang+Thue']
+Price Sell []
+Price Rent [13500000.0]
+
+
+118488
+['13 ty+Ban']
+Price Sell [13000000000.0]
+Price Rent []
+
+
+118489
+['1,6 ty+Ban']
+Price Sell [1600000000.0]
+Price Rent []
+
+
+118491
+['145 tr  / m 2+Ban', '145 tr  / m 2+Thue', '145 tr  / m 2+Thue', '50 tr+Ban', '50 tr+Thue', '50 tr+Thue', '19 ty+Ban', '19 ty+Thue', '19 ty+Thue']
+Area:  148.0
+Area:  148.0
+Area:  148.0
+Price Sell [21460000000.0, 50000000.0, 19000000000.0]
+Price Rent [21460000000.0, 21460000000.0, 50000000.0, 50000000.0, 19000000000.0, 19000000000.0]
+
+
+118492
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118571
+['3.9 ty+Ban']
+Price Sell [3900000000.0]
+Price Rent []
+
+
+118493
+['3 ty+Ban', '160 tr+Ban', '3 ty+Ban', '380 tr+Ban', '2 ty+Ban', '990 tr+Ban', '3 ty+Ban', '030 tr+Ban', '3 ty+Ban']
+Price Sell [3000000000.0, 160000000.0, 3000000000.0, 380000000.0, 2000000000.0, 990000000.0, 3000000000.0, 30000000.0, 3000000000.0]
+Price Rent []
+
+
+118494
+['450 tr  / m 2+Thue']
+Area:  115.0
+Price Sell []
+Price Rent [51750000000.0]
+
+
+118495
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118496
+['22 tr  / m 2+Ban']
+Area:  76.0
+Price Sell [1672000000.0]
+Price Rent []
+
+
+118500
+['1 tr+Ban', '1 ty+Ban', '200 trieu+Ban']
+Price Sell [1000000.0, 1000000000.0, 200000000.0]
+Price Rent []
+
+
+118501
+['1 tr+Thue', '1 tr+Thue', '66 ty+Thue', '66 ty+Thue']
+Price Sell []
+Price Rent [1000000.0, 1000000.0, 66000000000.0, 66000000000.0]
+
+
+118502
+['7.9 ty+Ban']
+Price Sell [7900000000.0]
+Price Rent []
+
+
+118504
+['35 tr+Thue', '35 tr+Thue', '9 ty+Thue', '9 ty+Thue']
+Price Sell []
+Price Rent [35000000.0, 35000000.0, 9000000000.0, 9000000000.0]
+
+
+118505
+['1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '2 tr 900+Ban', '2 tr 900+Thue', '2 tr 900+Ban', '2 tr 900+Thue', '2 tr 900+Thue', '3 tr 200+Ban', '3 tr 200+Thue', '3 tr 200+Ban', '3 tr 200+Thue', '3 tr 200+Thue', '100 tr  / thang+Ban', '100 tr  / thang+Thue', '100 tr  / thang+Ban', '100 tr  / thang+Thue', '100 tr  / thang+Thue', '19 ty+Ban', '19 ty+Thue', '19 ty+Ban', '19 ty+Thue', '19 ty+Thue']
+Price Sell [1000000.0, 1000000.0, 2000000.0, 2000000.0, 3000000.0, 3000000.0, 100000000.0, 100000000.0, 19000000000.0, 19000000000.0]
+Price Rent [1000000.0, 1000000.0, 1000000.0, 2000000.0, 2000000.0, 2000000.0, 3000000.0, 3000000.0, 3000000.0, 100000000.0, 100000000.0, 100000000.0, 19000000000.0, 19000000000.0, 19000000000.0]
+
+
+118506
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118507
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118541
+['16.0 ty+Ban']
+Price Sell [16000000000.0]
+Price Rent []
+
+
+118508
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118509
+['3,3 ti+Ban']
+Price Sell [3300000000.0]
+Price Rent []
+
+
+118510
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+118511
+['4.05 ty+Ban', '4.05 ty+Ban']
+Price Sell [4050000000.0, 4050000000.0]
+Price Rent []
+
+
+118512
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118513
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118514
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118516
+['3.3 ty+Ban', '3.3 ty+Ban']
+Price Sell [3300000000.0, 3300000000.0]
+Price Rent []
+
+
+118517
+['2,2 ty +Ban']
+Price Sell [2200000000.0]
+Price Rent []
+
+
+118518
+['8 ty+None', '250 trieu+None', '80 trieu  / m 2+None']
+Area:  19.0
+Price Sell [0, 0, 0]
+Price Rent [0, 0, 0]
+
+
+118519
+['1 tr+Thue', '16.5 ty+Thue']
+Price Sell []
+Price Rent [1000000.0, 16500000000.0]
+
+
+118520
+['3,4 ty+Ban']
+Price Sell [3400000000.0]
+Price Rent []
+
+
+118521
+['1 tr 250 / 1 m 2+Ban']
+Area:  20000.0
+Price Sell [20000000000.0]
+Price Rent []
+
+
+118568
+['3.85 ty+Ban']
+Price Sell [3850000000.0]
+Price Rent []
+
+
+118522
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118523
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118524
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118525
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118526
+['15 ty+Ban', '11 ty+Ban']
+Price Sell [15000000000.0, 11000000000.0]
+Price Rent []
+
+
+118527
+['60 trieu+Ban', '60 trieu+Ban', '60 trieu+Ban', '60 trieu+Thue', '18.5 ty+Ban', '18.5 ty+Ban', '18.5 ty+Ban', '18.5 ty+Thue', '60 trieu  / thang+Ban', '60 trieu  / thang+Ban', '60 trieu  / thang+Ban', '60 trieu  / thang+Thue', '18.2 ty+Ban', '18.2 ty+Ban', '18.2 ty+Ban', '18.2 ty+Thue']
+Price Sell [60000000.0, 60000000.0, 60000000.0, 18500000000.0, 18500000000.0, 18500000000.0, 60000000.0, 60000000.0, 60000000.0, 18200000000.0, 18200000000.0, 18200000000.0]
+Price Rent [60000000.0, 18500000000.0, 60000000.0, 18200000000.0]
+
+
+118528
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118529
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118530
+['31 tr  / m 2+Ban']
+Area:  140.0
+Price Sell [4340000000.0]
+Price Rent []
+
+
+118531
+['7,35 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118532
+['2.7 tr  / m 2+Ban']
+Price Sell [2700000.0]
+Price Rent []
+
+
+118533
+['1,450 ty+Ban']
+Price Sell [1450000000.0]
+Price Rent []
+
+
+118534
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118535
+['40 ty+Ban', '6.5 ty+Ban']
+Price Sell [40000000000.0, 6500000000.0]
+Price Rent []
+
+
+118544
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '80 tr  / thang+Ban', '80 tr  / thang+Thue', '80 tr  / thang+Thue', '22,5 ty +Ban', '22,5 ty +Thue', '22,5 ty +Thue']
+Price Sell [1000000.0, 80000000.0, 22500000000.0]
+Price Rent [1000000.0, 1000000.0, 80000000.0, 80000000.0, 22500000000.0, 22500000000.0]
+
+
+134173
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118536
+['27 trieu  / m 2+Ban']
+Area:  70.0
+Price Sell [1890000000.0]
+Price Rent []
+
+
+118538
+['40 tr+Thue']
+Price Sell []
+Price Rent [40000000.0]
+
+
+118539
+['1 tr+Ban', '1 tr+Ban', '40 ty+Ban', '40 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 40000000000.0, 40000000000.0]
+Price Rent []
+
+
+118540
+['3.3 ty+Ban']
+Price Sell [3300000000.0]
+Price Rent []
+
+
+118542
+['24 ty+Ban']
+Price Sell [24000000000.0]
+Price Rent []
+
+
+118543
+['1,25 ty+Ban']
+Price Sell [1250000000.0]
+Price Rent []
+
+
+118548
+['14 ty+Ban']
+Price Sell [14000000000.0]
+Price Rent []
+
+
+118549
+['100 tr  / thang+None', '17 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118550
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118551
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+118552
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118553
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118561
+['4 ty+Ban', '700 trieu+Ban', '2 tr+Ban']
+Price Sell [4000000000.0, 700000000.0, 2000000.0]
+Price Rent []
+
+
+118554
+['28 ty+Ban']
+Price Sell [28000000000.0]
+Price Rent []
+
+
+118555
+['2 ty+None', '1 ty+None', '1 ty+None']
+Price Sell [0, 0, 0]
+Price Rent [0, 0, 0]
+
+
+118556
+['14 trieu  / m 2+Ban']
+Area:  613.3
+Price Sell [8586199999.999999]
+Price Rent []
+
+
+118557
+['3.7 ty+Ban']
+Price Sell [3700000000.0]
+Price Rent []
+
+
+118569
+['7 ty+Ban', '7 ty+Ban']
+Price Sell [7000000000.0, 7000000000.0]
+Price Rent []
+
+
+118558
+['1,26 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118559
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118560
+['1 tr+Ban', '6,7 ty+Ban']
+Price Sell [1000000.0, 6700000000.0]
+Price Rent []
+
+
+134240
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118563
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118564
+['28 ty +Ban']
+Price Sell [28000000000.0]
+Price Rent []
+
+
+118565
+['1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '70 tr  / thang+Ban', '70 tr  / thang+Thue', '70 tr  / thang+Ban', '35 ty+Ban', '35 ty+Thue', '35 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 70000000.0, 70000000.0, 35000000000.0, 35000000000.0]
+Price Rent [1000000.0, 70000000.0, 35000000000.0]
+
+
+118566
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118567
+['13.5 trieu  / m 2+Ban']
+Price Sell [13500000.0]
+Price Rent []
+
+
+118570
+['3 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118573
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118574
+['1 tr+Ban', '8,8 ty +Ban']
+Price Sell [1000000.0, 8800000000.0]
+Price Rent []
+
+
+118575
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118577
+['3.75 ty+Ban']
+Price Sell [3750000000.0]
+Price Rent []
+
+
+118578
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118587
+['19,5 ty+Ban']
+Price Sell [19500000000.0]
+Price Rent []
+
+
+118579
+['2 ty+Ban']
+Price Sell [2000000000.0]
+Price Rent []
+
+
+118621
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+118580
+['10.2 ty+Thue', '10.2 ty+Thue', '10.2 ty+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '50 trieu  / thang+Thue', '50 trieu  / thang+Thue', '50 trieu  / thang+Thue']
+Price Sell []
+Price Rent [10200000000.0, 10200000000.0, 10200000000.0, 1000000.0, 1000000.0, 1000000.0, 50000000.0, 50000000.0, 50000000.0]
+
+
+118582
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118583
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118584
+['10 tr  / m 2+Ban']
+Area:  225.0
+Price Sell [2250000000.0]
+Price Rent []
+
+
+118585
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118586
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+118588
+['1,4 trieu  / m 2+Ban']
+Price Sell [1400000.0]
+Price Rent []
+
+
+118589
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+118590
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118591
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118592
+['16 ty+Ban']
+Price Sell [16000000000.0]
+Price Rent []
+
+
+118593
+['8.2 ty+Ban']
+Price Sell [8199999999.999999]
+Price Rent []
+
+
+118629
+['8 tr  / 1 m 2+Ban', '9 tr  / 1 m 2+Ban']
+Area:  1231.0
+Area:  1231.0
+Price Sell [9848000000.0, 11079000000.0]
+Price Rent []
+
+
+118594
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118595
+['2,6 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118596
+['7.8 ty+Ban']
+Price Sell [7800000000.0]
+Price Rent []
+
+
+118597
+['4 ty+Ban']
+Price Sell [4000000000.0]
+Price Rent []
+
+
+118598
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118599
+['1.5 ty+Ban', '50 trieu+Ban']
+Price Sell [1500000000.0, 50000000.0]
+Price Rent []
+
+
+118600
+['10 ty+Ban']
+Price Sell [10000000000.0]
+Price Rent []
+
+
+118601
+['2 tr+Ban', '7.5 ty+Ban']
+Price Sell [2000000.0, 7500000000.0]
+Price Rent []
+
+
+118602
+['01 tr+Ban', '22.5 ty+Ban']
+Price Sell [1000000.0, 22500000000.0]
+Price Rent []
+
+
+118603
+['35 ty+Ban']
+Price Sell [35000000000.0]
+Price Rent []
+
+
+118604
+['2,15 ty+Ban']
+Price Sell [2150000000.0]
+Price Rent []
+
+
+118605
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118606
+['50 trieu  / thang+Thue', '50 trieu  / thang+Ban', '9,5 ty+Thue', '9,5 ty+Ban']
+Price Sell [50000000.0, 9500000000.0]
+Price Rent [50000000.0, 9500000000.0]
+
+
+118607
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118608
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118609
+['1,95 ty+Ban', '2,05 ty+Ban', '2,1 ty+Ban', '2,05 ty+Ban']
+Price Sell [1950000000.0, 2049999999.9999998, 2100000000.0, 2049999999.9999998]
+Price Rent []
+
+
+118610
+['37 ty+Ban']
+Price Sell [37000000000.0]
+Price Rent []
+
+
+118611
+['682 tr+Ban', '682 tr+Thue', '682 tr+Thue', '145 tr  / thang+Ban', '145 tr  / thang+Thue', '145 tr  / thang+Thue', '48 ty+Ban', '48 ty+Thue', '48 ty+Thue']
+Price Sell [682000000.0, 145000000.0, 48000000000.0]
+Price Rent [682000000.0, 682000000.0, 145000000.0, 145000000.0, 48000000000.0, 48000000000.0]
+
+
+118612
+['2,1 ty+Ban']
+Price Sell [2100000000.0]
+Price Rent []
+
+
+118613
+['120 tr  / thang+Thue']
+Price Sell []
+Price Rent [120000000.0]
+
+
+118614
+['3 ty+Ban']
+Price Sell [3000000000.0]
+Price Rent []
+
+
+118644
+['14 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118631
+['1 tr+Ban', '1 tr+Thue', '21,5 ty+Ban', '21,5 ty+Thue']
+Price Sell [1000000.0, 21500000000.0]
+Price Rent [1000000.0, 21500000000.0]
+
+
+118615
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118616
+['610 tr+Ban', '230 tr+Ban', '60 tr+Ban']
+Price Sell [610000000.0, 230000000.0, 60000000.0]
+Price Rent []
+
+
+118617
+['15 ty+Ban', '86 trieu  / m 2+Ban']
+Area:  180.0
+Price Sell [15000000000.0, 15480000000.0]
+Price Rent []
+
+
+118618
+['14,5 trieu  / m 2+Ban']
+Price Sell [14500000.0]
+Price Rent []
+
+
+118619
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118620
+['18 tr  / m 2+Ban', '2.7 ty +Ban', '11 trieu  / thang+Ban']
+Area:  150.0
+Price Sell [2700000000.0, 2700000000.0, 11000000.0]
+Price Rent []
+
+
+118622
+['1 ty+Ban', '060 trieu+Ban']
+Price Sell [1000000000.0, 60000000.0]
+Price Rent []
+
+
+118623
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118625
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118626
+['550 tr+None', '680 tr+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118627
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118628
+['14 ty +Ban', '1 tr+Ban', '14 ty+Ban']
+Price Sell [14000000000.0, 1000000.0, 14000000000.0]
+Price Rent []
+
+
+118630
+['1 tr+None', '45 ty +None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118632
+['7 ty+Ban']
+Price Sell [7000000000.0]
+Price Rent []
+
+
+118633
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118634
+['36 tr  / m 2+Ban']
+Area:  142.0
+Price Sell [5112000000.0]
+Price Rent []
+
+
+118635
+['2,35 ty +Ban', '2,35 ty +Ban']
+Price Sell [2350000000.0, 2350000000.0]
+Price Rent []
+
+
+118636
+['11 ty+Ban', '11 ty+Thue', '11 ty+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Thue', '15 trieu  / thang+Ban', '11 ty+Ban', '11 ty+Thue', '11 ty+Ban']
+Price Sell [11000000000.0, 11000000000.0, 15000000.0, 15000000.0, 11000000000.0, 11000000000.0]
+Price Rent [11000000000.0, 15000000.0, 11000000000.0]
+
+
+118637
+['25 tr  / m 2+Ban']
+Area:  80.0
+Price Sell [2000000000.0]
+Price Rent []
+
+
+118638
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118639
+['25 ty+Ban']
+Price Sell [25000000000.0]
+Price Rent []
+
+
+118640
+['7 trieu+Thue']
+Price Sell []
+Price Rent [7000000.0]
+
+
+118641
+['25 tr  / m 2+Ban']
+Area:  90.0
+Price Sell [2250000000.0]
+Price Rent []
+
+
+118642
+['35 tr  / m 2+Ban']
+Area:  58.0
+Price Sell [2030000000.0]
+Price Rent []
+
+
+118643
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+118645
+['4.5 trieu  / m 2+Ban']
+Price Sell [4500000.0]
+Price Rent []
+
+
+118646
+['4.7 trieu  / m 2+Ban']
+Price Sell [4700000.0]
+Price Rent []
+
+
+118647
+['46 tr  / 1 m 2+Ban', '70 tr+Ban', '80 tr+Ban', '90 tr  / 1 m 2+Ban']
+Area:  146.0
+Area:  146.0
+Price Sell [6716000000.0, 70000000.0, 80000000.0, 13140000000.0]
+Price Rent []
+
+
+118648
+['1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '8 ty+Ban', '8 ty+Ban', '8 ty+Ban', '8 ty+Ban', '4 tr+Ban', '4 tr+Ban', '4 tr+Ban', '4 tr+Ban', '27 ty+Ban', '27 ty+Ban', '27 ty+Ban', '27 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 1000000.0, 1000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 4000000.0, 4000000.0, 4000000.0, 4000000.0, 27000000000.0, 27000000000.0, 27000000000.0, 27000000000.0]
+Price Rent []
+
+
+118649
+['2,75 ty+Ban']
+Price Sell [2750000000.0]
+Price Rent []
+
+
+118650
+['1 tr+Ban', '20.6 ty+Ban', '20 tr+Ban']
+Price Sell [1000000.0, 20600000000.0, 20000000.0]
+Price Rent []
+
+
+118667
+['8 trieu  / thang+Thue']
+Price Sell []
+Price Rent [8000000.0]
+
+
+118651
+['230 trieu+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118665
+['24 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118652
+['31 ty+Ban', '150 tr  / m 2+Ban']
+Area:  210.0
+Price Sell [31000000000.0, 31500000000.0]
+Price Rent []
+
+
+118653
+['3.85 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118654
+['34.5 ty+Ban']
+Price Sell [34500000000.0]
+Price Rent []
+
+
+118657
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118658
+['4 ty+Ban']
+Price Sell [4000000000.0]
+Price Rent []
+
+
+118673
+['1.134 ty+Ban']
+Price Sell [1134000000.0]
+Price Rent []
+
+
+118659
+['15 trieu+Ban']
+Price Sell [15000000.0]
+Price Rent []
+
+
+118660
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118661
+['70 tr+Thue', '70 tr+Ban', '23 ty+Thue', '23 ty+Ban']
+Price Sell [70000000.0, 23000000000.0]
+Price Rent [70000000.0, 23000000000.0]
+
+
+118663
+['100 trieu+Ban']
+Price Sell [100000000.0]
+Price Rent []
+
+
+118664
+['16.5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118666
+['725 trieu+Ban']
+Price Sell [725000000.0]
+Price Rent []
+
+
+118668
+['27 tr  / m 2+Thue']
+Area:  110.0
+Price Sell []
+Price Rent [2970000000.0]
+
+
+118669
+['2.05 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118670
+['1 tr 400+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118671
+['3.039 ty+Ban']
+Price Sell [3039000000.0]
+Price Rent []
+
+
+118672
+['7 ty+Ban']
+Price Sell [7000000000.0]
+Price Rent []
+
+
+118674
+['15 ty+Ban']
+Price Sell [15000000000.0]
+Price Rent []
+
+
+118675
+['4 ty+Thue']
+Price Sell []
+Price Rent [4000000000.0]
+
+
+118676
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+118677
+['13 ty+Thue']
+Price Sell []
+Price Rent [13000000000.0]
+
+
+118678
+['3,15 ty+Ban']
+Price Sell [3150000000.0]
+Price Rent []
+
+
+118679
+['105 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118680
+['16 ty+Ban']
+Price Sell [16000000000.0]
+Price Rent []
+
+
+118681
+['22 ty+Ban']
+Price Sell [22000000000.0]
+Price Rent []
+
+
+118682
+['135 tr  / m 2+Thue']
+Area:  200.0
+Price Sell []
+Price Rent [27000000000.0]
+
+
+118683
+['47 tr  / m 2+Ban']
+Area:  319.0
+Price Sell [14993000000.0]
+Price Rent []
+
+
+118684
+['7 ty+Ban', '7 ty+Ban', '6 tr 5 / m 2+Ban', '6 tr 5 / m 2+Ban']
+Area:  1171.0
+Area:  1171.0
+Price Sell [7000000000.0, 7000000000.0, 7026000000.0, 7026000000.0]
+Price Rent []
+
+
+118685
+['1 tr+Ban', '32.5 ty+Ban']
+Price Sell [1000000.0, 32500000000.0]
+Price Rent []
+
+
+118686
+['17.7 ty+Ban']
+Price Sell [17700000000.0]
+Price Rent []
+
+
+124238
+['24 ty+Ban']
+Price Sell [24000000000.0]
+Price Rent []
+
+
+118687
+['2.3 ty+Ban']
+Price Sell [2300000000.0]
+Price Rent []
+
+
+118688
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118689
+['26 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118690
+['220 trieu  / thang+Ban', '34.5 ty+Ban']
+Price Sell [220000000.0, 34500000000.0]
+Price Rent []
+
+
+118691
+['1 ty+Ban', '1 ty+Ban']
+Price Sell [1000000000.0, 1000000000.0]
+Price Rent []
+
+
+118692
+['1,6 ty+Ban', '500 trieu+Ban']
+Price Sell [1600000000.0, 500000000.0]
+Price Rent []
+
+
+118695
+['79 trieu  / m 2+Thue', '79 trieu  / m 2+Thue', '79 trieu  / m 2+Ban', '9.5 ty+Thue', '9.5 ty+Thue', '9.5 ty+Ban', '70 tr+Thue', '70 tr+Thue', '70 tr+Ban']
+Area:  120.0
+Area:  120.0
+Area:  120.0
+Price Sell [9480000000.0, 9500000000.0, 70000000.0]
+Price Rent [9480000000.0, 9480000000.0, 9500000000.0, 9500000000.0, 70000000.0, 70000000.0]
+
+
+118696
+['10,8 ty+Ban', '1 tr+Ban', '10,8 ty+Ban']
+Price Sell [10800000000.0, 1000000.0, 10800000000.0]
+Price Rent []
+
+
+118697
+['13.5 ty+Ban']
+Price Sell [13500000000.0]
+Price Rent []
+
+
+118698
+['49.5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118699
+['18 tr  / m 2+Ban']
+Area:  11.0
+Price Sell [198000000.0]
+Price Rent []
+
+
+118700
+['1 tr+Ban', '58 ty +Ban']
+Price Sell [1000000.0, 58000000000.0]
+Price Rent []
+
+
+118701
+['2,5 ty +Ban']
+Price Sell [2500000000.0]
+Price Rent []
+
+
+118703
+['150 tr +Ban', '150 tr +Ban', '22 ty+Ban', '22 ty+Ban']
+Price Sell [150000000.0, 150000000.0, 22000000000.0, 22000000000.0]
+Price Rent []
+
+
+118704
+['3.2 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118705
+['16 ty+Ban', '16 ty+Ban', '16 ty+Ban', '16 ty+Ban']
+Price Sell [16000000000.0, 16000000000.0, 16000000000.0, 16000000000.0]
+Price Rent []
+
+
+118706
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118707
+['2.45 ty+Ban', '2.45 ty+Ban']
+Price Sell [2450000000.0, 2450000000.0]
+Price Rent []
+
+
+118708
+['2.1 ty+Ban']
+Price Sell [2100000000.0]
+Price Rent []
+
+
+118709
+['19,5 ty+Ban', '19,5 ty+Ban']
+Price Sell [19500000000.0, 19500000000.0]
+Price Rent []
+
+
+118710
+['9 ty+Ban']
+Price Sell [9000000000.0]
+Price Rent []
+
+
+118711
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+118712
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '115,725 trieu  / thang+Ban', '115,725 trieu  / thang+Thue', '115,725 trieu  / thang+Thue', '21,5 ty+Ban', '21,5 ty+Thue', '21,5 ty+Thue']
+Price Sell [1000000.0, 115725000.0, 21500000000.0]
+Price Rent [1000000.0, 1000000.0, 115725000.0, 115725000.0, 21500000000.0, 21500000000.0]
+
+
+118713
+['26 ty +Ban']
+Price Sell [26000000000.0]
+Price Rent []
+
+
+118714
+['5,5 ty+Ban']
+Price Sell [5500000000.0]
+Price Rent []
+
+
+118715
+['18 ty+Ban', '18 ty+Ban', '18 ty+Ban', '18 ty+Ban']
+Price Sell [18000000000.0, 18000000000.0, 18000000000.0, 18000000000.0]
+Price Rent []
+
+
+118716
+['4 ti+Ban', '15.5 ty+Ban']
+Price Sell [4000000000.0, 15500000000.0]
+Price Rent []
+
+
+118717
+['300 trieu  / thang+Thue', '300 trieu  / thang+Thue', '52 ty+Thue', '52 ty+Thue']
+Price Sell []
+Price Rent [300000000.0, 300000000.0, 52000000000.0, 52000000000.0]
+
+
+118719
+['2.15 ty+Ban']
+Price Sell [2150000000.0]
+Price Rent []
+
+
+118720
+['4 ty+Ban', '4 ty+Ban', '15 ty+Ban', '15 ty+Ban']
+Price Sell [4000000000.0, 4000000000.0, 15000000000.0, 15000000000.0]
+Price Rent []
+
+
+118721
+['595 tr+Ban']
+Price Sell [595000000.0]
+Price Rent []
+
+
+118723
+['1,7 ty+Ban', '2 ty+Ban']
+Price Sell [1700000000.0, 2000000000.0]
+Price Rent []
+
+
+118724
+['35 tr +Thue', '35 tr +Ban', '17.5 ty+Thue', '17.5 ty+Ban']
+Price Sell [35000000.0, 17500000000.0]
+Price Rent [35000000.0, 17500000000.0]
+
+
+124255
+['2 ty+Ban', '270 tr+Ban']
+Price Sell [2000000000.0, 270000000.0]
+Price Rent []
+
+
+118725
+['100 tr  / m 2+Ban', '7.5 ty+Ban']
+Area:  80.0
+Price Sell [8000000000.0, 7500000000.0]
+Price Rent []
+
+
+118727
+['2,15 ty+Ban']
+Price Sell [2150000000.0]
+Price Rent []
+
+
+118728
+['8.5 ty+None', '8.5 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118736
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118730
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118731
+['1 tr+Ban', '9.6 ty +Ban']
+Price Sell [1000000.0, 9600000000.0]
+Price Rent []
+
+
+118733
+['1 tr+Ban', '1,8 ty+Ban']
+Price Sell [1000000.0, 1800000000.0]
+Price Rent []
+
+
+118734
+['7 tr  / m 2+Ban']
+Area:  250.0
+Price Sell [1750000000.0]
+Price Rent []
+
+
+118735
+['55 ty+Ban']
+Price Sell [55000000000.0]
+Price Rent []
+
+
+118737
+['820 trieu+Ban']
+Price Sell [820000000.0]
+Price Rent []
+
+
+118738
+['140 tr  / m 2+Ban', '140 tr  / m 2+Ban']
+Area:  180.0
+Area:  180.0
+Price Sell [25200000000.0, 25200000000.0]
+Price Rent []
+
+
+118739
+['1,55 ty+Ban', '1,55 ty+Ban']
+Price Sell [1550000000.0, 1550000000.0]
+Price Rent []
+
+
+118740
+['38 trieu+Ban']
+Price Sell [38000000.0]
+Price Rent []
+
+
+118741
+['6,1 ty+Ban']
+Price Sell [6100000000.0]
+Price Rent []
+
+
+118742
+['60 trieu 1+Thue', '60 trieu 1+Thue', '14,5 ty+Thue', '14,5 ty+Thue']
+Price Sell []
+Price Rent [60000000.0, 60000000.0, 14500000000.0, 14500000000.0]
+
+
+118743
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118757
+['3.75 ty+Ban']
+Price Sell [3750000000.0]
+Price Rent []
+
+
+118744
+['20 ty+Ban', '60 tr+Ban', '1 tr+Ban', '20 ty +Ban']
+Price Sell [20000000000.0, 60000000.0, 1000000.0, 20000000000.0]
+Price Rent []
+
+
+118745
+['8,399 ty+Ban']
+Price Sell [8398999999.999999]
+Price Rent []
+
+
+118746
+['2.65 ty+Ban']
+Price Sell [2650000000.0]
+Price Rent []
+
+
+118747
+['1 tr+Ban', '7 ty+Ban']
+Price Sell [1000000.0, 7000000000.0]
+Price Rent []
+
+
+118748
+['4.25 ty+Ban']
+Price Sell [4250000000.0]
+Price Rent []
+
+
+118749
+['5.4 ty+Ban']
+Price Sell [5400000000.0]
+Price Rent []
+
+
+118758
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118750
+['950 trieu+Ban']
+Price Sell [950000000.0]
+Price Rent []
+
+
+118751
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '70 tr  / thang+Ban', '70 tr  / thang+Thue', '70 tr  / thang+Thue', '21 ty+Ban', '21 ty+Thue', '21 ty+Thue']
+Price Sell [1000000.0, 70000000.0, 21000000000.0]
+Price Rent [1000000.0, 1000000.0, 70000000.0, 70000000.0, 21000000000.0, 21000000000.0]
+
+
+118752
+['1 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118753
+['8.1 ty+Ban', '11.5 ty+Ban']
+Price Sell [8100000000.0, 11500000000.0]
+Price Rent []
+
+
+118754
+['1 ty+Ban', '1 ty+Ban', '280 tr+Ban', '280 tr+Ban']
+Price Sell [1000000000.0, 1000000000.0, 280000000.0, 280000000.0]
+Price Rent []
+
+
+118755
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118756
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118759
+['5,8 ty+Ban', '5,8 ty +Ban']
+Price Sell [5800000000.0, 5800000000.0]
+Price Rent []
+
+
+118760
+['28 ty+Ban']
+Price Sell [28000000000.0]
+Price Rent []
+
+
+118761
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118762
+['1 tr+Ban', '7,6 ty+Ban']
+Price Sell [1000000.0, 7600000000.0]
+Price Rent []
+
+
+118769
+['8 tr  / 1 m 2+Ban']
+Area:  168.0
+Price Sell [1344000000.0]
+Price Rent []
+
+
+118763
+['9 ty+Ban', '150 ty+Ban']
+Price Sell [9000000000.0, 150000000000.0]
+Price Rent []
+
+
+118764
+['7.5 ty+Thue']
+Price Sell []
+Price Rent [7500000000.0]
+
+
+118765
+['30.5 ty+Ban']
+Price Sell [30500000000.0]
+Price Rent []
+
+
+118766
+['1 tr+Ban', '1 tr+Thue', '70 ty+Ban', '70 ty+Thue']
+Price Sell [1000000.0, 70000000000.0]
+Price Rent [1000000.0, 70000000000.0]
+
+
+118767
+['100 tr  / thang+Thue', '19.5 ty+Thue']
+Price Sell []
+Price Rent [100000000.0, 19500000000.0]
+
+
+118768
+['36 tr  / thang+Thue', '7.9 ty+Thue']
+Price Sell []
+Price Rent [36000000.0, 7900000000.0]
+
+
+118770
+['43,5 tr  / m 2+Ban']
+Price Sell [43500000.0]
+Price Rent []
+
+
+118771
+['3,95 ty+Ban']
+Price Sell [3950000000.0]
+Price Rent []
+
+
+118772
+['45 tr  / thang+Thue']
+Price Sell []
+Price Rent [45000000.0]
+
+
+118773
+['27 ty+Ban', '27 ty+Ban']
+Price Sell [27000000000.0, 27000000000.0]
+Price Rent []
+
+
+118775
+['24 tr  / thang+Thue', '7.7 ty+Thue']
+Price Sell []
+Price Rent [24000000.0, 7700000000.0]
+
+
+118776
+['42 ty+Ban', '42 ty+Ban']
+Price Sell [42000000000.0, 42000000000.0]
+Price Rent []
+
+
+118777
+['55 ty+Ban']
+Price Sell [55000000000.0]
+Price Rent []
+
+
+118778
+['7,8 ty+Ban', '7,8 ty+Ban', '7,8 ty+Ban']
+Price Sell [7800000000.0, 7800000000.0, 7800000000.0]
+Price Rent []
+
+
+118779
+['1 tr+Ban', '6.7 ty +Ban']
+Price Sell [1000000.0, 6700000000.0]
+Price Rent []
+
+
+118857
+['9 tr  / m 2+Ban']
+Area:  120.0
+Price Sell [1080000000.0]
+Price Rent []
+
+
+118780
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118781
+['55 ty+Ban']
+Price Sell [55000000000.0]
+Price Rent []
+
+
+118782
+['20 ty+None', '110 tr  / thang+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118784
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118840
+['1 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118785
+['42 ty+Ban']
+Price Sell [42000000000.0]
+Price Rent []
+
+
+118912
+['82 tr+Ban', '3 tr+Ban', '1,68 ti+Ban', '82 tr+Ban', '11 tr+Ban']
+Price Sell [82000000.0, 3000000.0, 1680000000.0, 82000000.0, 11000000.0]
+Price Rent []
+
+
+118786
+['45 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118787
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118788
+['110 tr  / thang+Thue', '30 ty+Thue']
+Price Sell []
+Price Rent [110000000.0, 30000000000.0]
+
+
+118795
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119392
+['2,95 ty+Ban', '2,95 ty+Thue', '16 tr+Ban', '16 tr+Thue']
+Price Sell [2950000000.0, 16000000.0]
+Price Rent [2950000000.0, 16000000.0]
+
+
+118789
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+118790
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118798
+['120 trieu  / thang+Thue', '120 trieu  / thang+Thue', '120 trieu  / thang+Thue', '31 ty+Thue', '31 ty+Thue', '31 ty+Thue', '30 ty+Thue', '30 ty+Thue', '30 ty+Thue']
+Price Sell []
+Price Rent [120000000.0, 120000000.0, 120000000.0, 31000000000.0, 31000000000.0, 31000000000.0, 30000000000.0, 30000000000.0, 30000000000.0]
+
+
+118791
+['6,5 ty +Ban']
+Price Sell [6500000000.0]
+Price Rent []
+
+
+118792
+['4.35 ty+Ban']
+Price Sell [4350000000.0]
+Price Rent []
+
+
+118793
+['150 tr+None', '30 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118794
+['12. 19 tr  / m 2+Ban']
+Area:  120.0
+Price Sell [2280000000.0]
+Price Rent []
+
+
+118796
+['47 ty+Ban']
+Price Sell [47000000000.0]
+Price Rent []
+
+
+118797
+['20 ty+Ban']
+Price Sell [20000000000.0]
+Price Rent []
+
+
+118799
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+118800
+['17.8 ty+Ban']
+Price Sell [17800000000.0]
+Price Rent []
+
+
+118801
+['1 tr+Ban', '1 tr+Ban', '14.5 ty+Ban', '14.5 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 14500000000.0, 14500000000.0]
+Price Rent []
+
+
+118802
+['290 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118809
+['1 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118927
+['35 tr+Ban', '9.1 ty+Ban']
+Price Sell [35000000.0, 9100000000.0]
+Price Rent []
+
+
+118803
+['3 tr+Thue', '375 trieu+Thue', '711 trieu+Thue', '1 ty+Thue', '130 trieu  / nam+Thue', '311 trieu  / nam+Thue', '428 trieu  / nam+Thue', '101 ti+Thue', '25 trieu+Thue', '1 tr+Thue']
+Price Sell []
+Price Rent [3000000.0, 375000000.0, 711000000.0, 1000000000.0, 10833333.333333334, 25916666.666666668, 35666666.666666664, 101000000000.0, 25000000.0, 1000000.0]
+
+
+118804
+['1 tr+Ban', '29 ty+Ban']
+Price Sell [1000000.0, 29000000000.0]
+Price Rent []
+
+
+118805
+['3,9 ty+Ban']
+Price Sell [3900000000.0]
+Price Rent []
+
+
+118827
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118806
+['138,84 trieu+Ban', '120 ty+Ban']
+Price Sell [138840000.0, 120000000000.0]
+Price Rent []
+
+
+118807
+['2 tr+Ban', '3 ty+Ban', '2 tr+Ban']
+Price Sell [2000000.0, 3000000000.0, 2000000.0]
+Price Rent []
+
+
+118808
+['40 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118810
+['28 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118811
+['44 ty+Ban']
+Price Sell [44000000000.0]
+Price Rent []
+
+
+118812
+['40 ty+Ban']
+Price Sell [40000000000.0]
+Price Rent []
+
+
+118813
+['32 ty+Ban', '32 ty+Ban']
+Price Sell [32000000000.0, 32000000000.0]
+Price Rent []
+
+
+118814
+['35 trieu  / thang+Thue', '35 trieu  / thang+Thue', '35 trieu  / thang+Thue', '16 ty+Thue', '16 ty+Thue', '16 ty+Thue', '200 trieu+Thue', '200 trieu+Thue', '200 trieu+Thue']
+Price Sell []
+Price Rent [35000000.0, 35000000.0, 35000000.0, 16000000000.0, 16000000000.0, 16000000000.0, 200000000.0, 200000000.0, 200000000.0]
+
+
+118815
+['15 tr  / thang+Thue', '15 tr  / thang+Ban', '7,8 ty+Thue', '7,8 ty+Ban']
+Price Sell [15000000.0, 7800000000.0]
+Price Rent [15000000.0, 7800000000.0]
+
+
+118816
+['24 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118817
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118818
+['138.9 trieu  / thang+Thue', '138.9 trieu  / thang+Thue', '52 ty+Thue', '52 ty+Thue']
+Price Sell []
+Price Rent [138900000.0, 138900000.0, 52000000000.0, 52000000000.0]
+
+
+118838
+['8.7 ty+Ban', '8.7 ty+Thue', '8.7 ty+Thue', '8.7 ty+Ban', '8.7 ty+Ban', '8.7 ty+Ban', '8.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Thue', '5.7 ty+Thue', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '6.9 ty+Ban', '6.9 ty+Thue', '6.9 ty+Thue', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '8.5 ty+Ban', '8.5 ty+Thue', '8.5 ty+Thue', '8.5 ty+Ban', '8.5 ty+Ban', '8.5 ty+Ban', '8.5 ty+Ban', '12.3 ty+Ban', '12.3 ty+Thue', '12.3 ty+Thue', '12.3 ty+Ban', '12.3 ty+Ban', '12.3 ty+Ban', '12.3 ty+Ban', '7.45 ty+Ban', '7.45 ty+Thue', '7.45 ty+Thue', '7.45 ty+Ban', '7.45 ty+Ban', '7.45 ty+Ban', '7.45 ty+Ban', '25.9 ty+Ban', '25.9 ty+Thue', '25.9 ty+Thue', '25.9 ty+Ban', '25.9 ty+Ban', '25.9 ty+Ban', '25.9 ty+Ban']
+Price Sell [8700000000.0, 8700000000.0, 8700000000.0, 8700000000.0, 8700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 12300000000.0, 12300000000.0, 12300000000.0, 12300000000.0, 12300000000.0, 7450000000.0, 7450000000.0, 7450000000.0, 7450000000.0, 7450000000.0, 25900000000.0, 25900000000.0, 25900000000.0, 25900000000.0, 25900000000.0]
+Price Rent [8700000000.0, 8700000000.0, 5700000000.0, 5700000000.0, 6900000000.0, 6900000000.0, 8500000000.0, 8500000000.0, 12300000000.0, 12300000000.0, 7450000000.0, 7450000000.0, 25900000000.0, 25900000000.0]
+
+
+118819
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+118820
+['2,1 ty+Ban', '2,25 ty+Ban']
+Price Sell [2100000000.0, 2250000000.0]
+Price Rent []
+
+
+118821
+['1 tr+Ban', '12,9 ty+Ban']
+Price Sell [1000000.0, 12900000000.0]
+Price Rent []
+
+
+118822
+['5,8 ty+Ban']
+Price Sell [5800000000.0]
+Price Rent []
+
+
+118823
+['4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Ban', '4.2 ty+Ban', '4.2 ty+Ban', '4.2 ty+Ban', '4.2 ty+Ban', '5.7 ty+Thue', '5.7 ty+Thue', '5.7 ty+Thue', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '7.1 ty+Thue', '7.1 ty+Thue', '7.1 ty+Thue', '7.1 ty+Ban', '7.1 ty+Ban', '7.1 ty+Ban', '7.1 ty+Ban', '7.1 ty+Ban', '8.6 ty+Thue', '8.6 ty+Thue', '8.6 ty+Thue', '8.6 ty+Ban', '8.6 ty+Ban', '8.6 ty+Ban', '8.6 ty+Ban', '8.6 ty+Ban', '13 ty+Thue', '13 ty+Thue', '13 ty+Thue', '13 ty+Ban', '13 ty+Ban', '13 ty+Ban', '13 ty+Ban', '13 ty+Ban', '12.5 ty+Thue', '12.5 ty+Thue', '12.5 ty+Thue', '12.5 ty+Ban', '12.5 ty+Ban', '12.5 ty+Ban', '12.5 ty+Ban', '12.5 ty+Ban', '7.450 ty+Thue', '7.450 ty+Thue', '7.450 ty+Thue', '7.450 ty+Ban', '7.450 ty+Ban', '7.450 ty+Ban', '7.450 ty+Ban', '7.450 ty+Ban', '25.9 ty+Thue', '25.9 ty+Thue', '25.9 ty+Thue', '25.9 ty+Ban', '25.9 ty+Ban', '25.9 ty+Ban', '25.9 ty+Ban', '25.9 ty+Ban']
+Price Sell [4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 7100000000.0, 7100000000.0, 7100000000.0, 7100000000.0, 7100000000.0, 8600000000.0, 8600000000.0, 8600000000.0, 8600000000.0, 8600000000.0, 13000000000.0, 13000000000.0, 13000000000.0, 13000000000.0, 13000000000.0, 12500000000.0, 12500000000.0, 12500000000.0, 12500000000.0, 12500000000.0, 7450000000.0, 7450000000.0, 7450000000.0, 7450000000.0, 7450000000.0, 25900000000.0, 25900000000.0, 25900000000.0, 25900000000.0, 25900000000.0]
+Price Rent [4200000000.0, 4200000000.0, 4200000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 7100000000.0, 7100000000.0, 7100000000.0, 8600000000.0, 8600000000.0, 8600000000.0, 13000000000.0, 13000000000.0, 13000000000.0, 12500000000.0, 12500000000.0, 12500000000.0, 7450000000.0, 7450000000.0, 7450000000.0, 25900000000.0, 25900000000.0, 25900000000.0]
+
+
+118824
+['5.6 ty+Ban', '7,1 ty+Ban', '7.5 ty+Ban', '8.7 ty+Ban', '8.7 ty+Ban', '8.7 ty+Ban', '9 ty+Ban', '11 ty+Ban', '11 ty+Ban', '7.4 ty+Ban', '25,5 ty+Ban']
+Price Sell [5600000000.0, 7100000000.0, 7500000000.0, 8700000000.0, 8700000000.0, 8700000000.0, 9000000000.0, 11000000000.0, 11000000000.0, 7400000000.0, 25500000000.0]
+Price Rent []
+
+
+118825
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '6,7 ty+Ban', '6,7 ty+Thue', '6,7 ty+Thue', '6,7 ty+Thue', '4,4 ty+Ban', '4,4 ty+Thue', '4,4 ty+Thue', '4,4 ty+Thue', '2,3 ty+Ban', '2,3 ty+Thue', '2,3 ty+Thue', '2,3 ty+Thue']
+Price Sell [1000000.0, 6700000000.0, 4400000000.0, 2300000000.0]
+Price Rent [1000000.0, 1000000.0, 1000000.0, 6700000000.0, 6700000000.0, 6700000000.0, 4400000000.0, 4400000000.0, 4400000000.0, 2300000000.0, 2300000000.0, 2300000000.0]
+
+
+118826
+['1 tr+Ban', '1 tr+Ban', '5,5 ty+Ban', '5,5 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 5500000000.0, 5500000000.0]
+Price Rent []
+
+
+118828
+['1 ty+None', '50 trieu+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118829
+['9 tr+None', '23,5 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118832
+['150 tr  / m 2+Ban', '24 ty+Ban']
+Area:  170.0
+Price Sell [25500000000.0, 24000000000.0]
+Price Rent []
+
+
+118833
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118834
+['42 ty+Ban']
+Price Sell [42000000000.0]
+Price Rent []
+
+
+118835
+['1.9 ty+None', '1,9 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118836
+['1 tr+Ban', '6,5 ty+Ban']
+Price Sell [1000000.0, 6500000000.0]
+Price Rent []
+
+
+118837
+['120 trieu  / thang+Thue', '120 trieu  / thang+Thue', '38 ty+Thue', '38 ty+Thue']
+Price Sell []
+Price Rent [120000000.0, 120000000.0, 38000000000.0, 38000000000.0]
+
+
+118839
+['1 ty+Ban', '800 tr+Ban']
+Price Sell [1000000000.0, 800000000.0]
+Price Rent []
+
+
+119404
+['65 tr  / m 2+Ban']
+Area:  60.0
+Price Sell [3900000000.0]
+Price Rent []
+
+
+118841
+['24.5 ty +Ban']
+Price Sell [24500000000.0]
+Price Rent []
+
+
+118842
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118844
+['1 tr+Ban', '12,5 ty+Ban']
+Price Sell [1000000.0, 12500000000.0]
+Price Rent []
+
+
+118845
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118846
+['7.5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118847
+['19 tr  / m 2+Ban']
+Area:  65.0
+Price Sell [1235000000.0]
+Price Rent []
+
+
+118855
+['1 ty+Ban', '450 tr+Ban']
+Price Sell [1000000000.0, 450000000.0]
+Price Rent []
+
+
+118849
+['3,4 trieu+Ban']
+Price Sell [3400000.0]
+Price Rent []
+
+
+118850
+['25 ty+Ban']
+Price Sell [25000000000.0]
+Price Rent []
+
+
+118851
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118852
+['08 trieu+Thue']
+Price Sell []
+Price Rent [8000000.0]
+
+
+118853
+['162 trieu 51+Ban', '162 trieu 51+Ban', '162 trieu 51+Ban', '162 trieu 51+Thue', '162 trieu 1+Ban', '162 trieu 1+Ban', '162 trieu 1+Ban', '162 trieu 1+Thue', '51 ty+Ban', '51 ty+Ban', '51 ty+Ban', '51 ty+Thue', '60 ty+Ban', '60 ty+Ban', '60 ty+Ban', '60 ty+Thue']
+Price Sell [162000000.0, 162000000.0, 162000000.0, 162000000.0, 162000000.0, 162000000.0, 51000000000.0, 51000000000.0, 51000000000.0, 60000000000.0, 60000000000.0, 60000000000.0]
+Price Rent [162000000.0, 162000000.0, 51000000000.0, 60000000000.0]
+
+
+118854
+['4,2 ty+Ban']
+Price Sell [4200000000.0]
+Price Rent []
+
+
+118856
+['1 tr+Ban', '20 ty+Ban']
+Price Sell [1000000.0, 20000000000.0]
+Price Rent []
+
+
+118858
+['29 tr  / m 2+Ban']
+Area:  101.0
+Price Sell [2929000000.0]
+Price Rent []
+
+
+118859
+['500 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118860
+['1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '100 tr+Ban', '100 tr+Thue', '100 tr+Ban', '28 ty+Ban', '28 ty+Thue', '28 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 100000000.0, 100000000.0, 28000000000.0, 28000000000.0]
+Price Rent [1000000.0, 100000000.0, 28000000000.0]
+
+
+118861
+['01 tr+Thue', '40 ty +Thue']
+Price Sell []
+Price Rent [1000000.0, 40000000000.0]
+
+
+118862
+['8 ty  / nam+Ban', '50 ty+Ban']
+Price Sell [666666666.6666666, 50000000000.0]
+Price Rent []
+
+
+118863
+['12.5 tr  / m 2+Ban', '2 ty+Ban']
+Price Sell [12500000.0, 2000000000.0]
+Price Rent []
+
+
+118864
+['1 tr+Ban', '29 ty+Ban']
+Price Sell [1000000.0, 29000000000.0]
+Price Rent []
+
+
+118865
+['1 tr+Ban', '10.8 ty+Ban']
+Price Sell [1000000.0, 10800000000.0]
+Price Rent []
+
+
+118866
+['3.8 ty+Ban']
+Price Sell [3800000000.0]
+Price Rent []
+
+
+118867
+['1,35 ty+Ban']
+Price Sell [1350000000.0]
+Price Rent []
+
+
+118868
+['24 trieu  / m 2+Ban', '1 tr+Ban']
+Area:  120.0
+Price Sell [2880000000.0, 1000000.0]
+Price Rent []
+
+
+118869
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118870
+['25 tr  / m 2+Ban']
+Area:  67.0
+Price Sell [1675000000.0]
+Price Rent []
+
+
+201081
+['520 tr+Ban']
+Price Sell [520000000.0]
+Price Rent []
+
+
+118871
+['1.02 ty+Ban']
+Price Sell [1020000000.0]
+Price Rent []
+
+
+118872
+['1,5 ty+Ban']
+Price Sell [1500000000.0]
+Price Rent []
+
+
+118873
+['6.7 ty+Ban']
+Price Sell [6700000000.0]
+Price Rent []
+
+
+118874
+['1,7 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118875
+['2,4 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118876
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118877
+['1.75 ty+Ban']
+Price Sell [1750000000.0]
+Price Rent []
+
+
+118878
+['1,55 ty+Ban']
+Price Sell [1550000000.0]
+Price Rent []
+
+
+118879
+['2 ty +None']
+Price Sell [0]
+Price Rent [0]
+
+
+118880
+['1,63 ty+Ban']
+Price Sell [1630000000.0]
+Price Rent []
+
+
+118881
+['2.6 ty+Ban']
+Price Sell [2600000000.0]
+Price Rent []
+
+
+118882
+['2.5 ty +None']
+Price Sell [0]
+Price Rent [0]
+
+
+118883
+['3,3 ty+Ban']
+Price Sell [3300000000.0]
+Price Rent []
+
+
+118884
+['1 tr+Ban', '12,5 ty +Ban', '1 tr+Ban', '12,5 ty+Ban']
+Price Sell [1000000.0, 12500000000.0, 1000000.0, 12500000000.0]
+Price Rent []
+
+
+118885
+['1 tr+Ban', '3,8 ty +Ban']
+Price Sell [1000000.0, 3800000000.0]
+Price Rent []
+
+
+118887
+['170 trieu 1+None', '1 tr+None', '25 ty+None', '25 ty+None']
+Price Sell [0, 0, 0, 0]
+Price Rent [0, 0, 0, 0]
+
+
+119242
+['6,3 ty+Ban']
+Price Sell [6300000000.0]
+Price Rent []
+
+
+118888
+['3.6 ty+Ban']
+Price Sell [3600000000.0]
+Price Rent []
+
+
+118889
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118890
+['1 tr+Thue', '21 ty+Thue']
+Price Sell []
+Price Rent [1000000.0, 21000000000.0]
+
+
+118891
+['2.090 ty+Ban']
+Price Sell [2089999999.9999998]
+Price Rent []
+
+
+118892
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118893
+['1 tr+Ban', '24 ty+Ban']
+Price Sell [1000000.0, 24000000000.0]
+Price Rent []
+
+
+118987
+['3.35 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118894
+['300 tr+Thue']
+Price Sell []
+Price Rent [300000000.0]
+
+
+118895
+['70 ty+Ban']
+Price Sell [70000000000.0]
+Price Rent []
+
+
+118896
+['1,85 ty+Ban']
+Price Sell [1850000000.0]
+Price Rent []
+
+
+118897
+['1 tr+None', '26 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118898
+['19 ty+Ban']
+Price Sell [19000000000.0]
+Price Rent []
+
+
+118899
+['3.25 ty+Ban']
+Price Sell [3250000000.0]
+Price Rent []
+
+
+118900
+['2 tr+Ban', '210 trieu  / m 2+Ban', '190 ty+Ban']
+Area:  1312.0
+Price Sell [2000000.0, 275520000000.0, 190000000000.0]
+Price Rent []
+
+
+118901
+['8.4 ty+Ban']
+Price Sell [8400000000.0]
+Price Rent []
+
+
+118902
+['820 trieu+Ban']
+Price Sell [820000000.0]
+Price Rent []
+
+
+118903
+['100 tr+Thue', '100 tr+Thue', '100 tr+Thue', '100 tr+Thue', '100 tr+Thue', '20 ty+Thue', '20 ty+Thue', '20 ty+Thue', '20 ty+Thue', '20 ty+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '100 trieu  / thang+Thue', '100 trieu  / thang+Thue', '100 trieu  / thang+Thue', '100 trieu  / thang+Thue', '100 trieu  / thang+Thue', '20 ty+Thue', '20 ty+Thue', '20 ty+Thue', '20 ty+Thue', '20 ty+Thue']
+Price Sell []
+Price Rent [100000000.0, 100000000.0, 100000000.0, 100000000.0, 100000000.0, 20000000000.0, 20000000000.0, 20000000000.0, 20000000000.0, 20000000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 100000000.0, 100000000.0, 100000000.0, 100000000.0, 100000000.0, 20000000000.0, 20000000000.0, 20000000000.0, 20000000000.0, 20000000000.0]
+
+
+118904
+['23 ty+Ban', '21 ty+Ban']
+Price Sell [23000000000.0, 21000000000.0]
+Price Rent []
+
+
+118905
+['56 ty+Ban']
+Price Sell [56000000000.0]
+Price Rent []
+
+
+118907
+['230 tr+Ban', '51 ty+Ban', '2 ty+Ban', '800 tr  / nam+Ban', '230 tr+Ban']
+Price Sell [230000000.0, 51000000000.0, 2000000000.0, 66666666.666666664, 230000000.0]
+Price Rent []
+
+
+118908
+['16 ty+None', '57 trieu  / m 2+None']
+Area:  278.0
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118909
+['44 ty+Ban']
+Price Sell [44000000000.0]
+Price Rent []
+
+
+118910
+['1 tr+None', '20 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118913
+['3.3 ty+Ban', '3.3 ty+Ban']
+Price Sell [3300000000.0, 3300000000.0]
+Price Rent []
+
+
+118914
+['950 tr+Ban']
+Price Sell [950000000.0]
+Price Rent []
+
+
+118915
+['1.6 ty+Ban']
+Price Sell [1600000000.0]
+Price Rent []
+
+
+118916
+['1,8 ty+Ban']
+Price Sell [1800000000.0]
+Price Rent []
+
+
+118917
+['5 ti+None', '2000 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+120801
+['66 ty+Ban']
+Price Sell [66000000000.0]
+Price Rent []
+
+
+118918
+['45 ty+Ban', '45 ty+Ban']
+Price Sell [45000000000.0, 45000000000.0]
+Price Rent []
+
+
+118919
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118920
+['1 tr+None', '3 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118922
+['19 ty+Thue']
+Price Sell []
+Price Rent [19000000000.0]
+
+
+118923
+['1,9 ty+None', '1,9 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118924
+['4,2 ty +Thue']
+Price Sell []
+Price Rent [4200000000.0]
+
+
+118925
+['13.7 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118926
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118928
+['27 ty+Ban', '2 tr+Ban']
+Price Sell [27000000000.0, 2000000.0]
+Price Rent []
+
+
+118929
+['35 tr+Ban', '9.1 ty+Ban']
+Price Sell [35000000.0, 9100000000.0]
+Price Rent []
+
+
+118930
+['1 tr+Ban', '1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '9 ty  / 1 nam+Ban', '9 ty  / 1 nam+Ban', '9 ty  / 1 nam+Thue', '9 ty  / 1 nam+Ban', '155 ty +Ban', '155 ty +Ban', '155 ty +Thue', '155 ty +Ban']
+Price Sell [1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 750000000.0, 750000000.0, 750000000.0, 155000000000.0, 155000000000.0, 155000000000.0]
+Price Rent [1000000.0, 1000000.0, 750000000.0, 155000000000.0]
+
+
+118959
+['42 trieu  / m 2+Ban', '42 trieu  / m 2+Ban', '42 trieu  / m 2+Ban', '42 trieu  / m 2+Ban', '42 trieu+Ban', '42 trieu+Ban', '42 trieu+Ban', '42 trieu+Ban', '45 trieu  / m 2+Ban', '45 trieu  / m 2+Ban', '45 trieu  / m 2+Ban', '45 trieu  / m 2+Ban', '50 trieu+Ban', '50 trieu+Ban', '50 trieu+Ban', '50 trieu+Ban']
+Area:  95.0
+Area:  95.0
+Area:  95.0
+Area:  95.0
+Area:  95.0
+Area:  95.0
+Area:  95.0
+Area:  95.0
+Price Sell [3990000000.0, 3990000000.0, 3990000000.0, 3990000000.0, 42000000.0, 42000000.0, 42000000.0, 42000000.0, 4275000000.0, 4275000000.0, 4275000000.0, 4275000000.0, 50000000.0, 50000000.0, 50000000.0, 50000000.0]
+Price Rent []
+
+
+118931
+['13 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118932
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118938
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118933
+['38 trieu+Thue', '38 trieu+Thue', '38 trieu+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '21 trieu  / thang+Thue', '21 trieu  / thang+Thue', '21 trieu  / thang+Thue']
+Price Sell []
+Price Rent [38000000.0, 38000000.0, 38000000.0, 1000000.0, 1000000.0, 1000000.0, 21000000.0, 21000000.0, 21000000.0]
+
+
+118934
+['38 trieu+Thue', '1 tr+Thue', '21 trieu  / thang+Thue', '4 tr+Thue', '41 trieu+Thue', '36 trieu+Thue']
+Price Sell []
+Price Rent [38000000.0, 1000000.0, 21000000.0, 4000000.0, 41000000.0, 36000000.0]
+
+
+118988
+['40 ty +None']
+Price Sell [0]
+Price Rent [0]
+
+
+118936
+['1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '13 tr  / thang+Thue', '13 tr  / thang+Thue', '13 tr  / thang+Thue', '13 tr  / thang+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '13 tr  / thang+Thue', '13 tr  / thang+Thue', '13 tr  / thang+Thue', '13 tr  / thang+Thue']
+Price Sell []
+Price Rent [1000000.0, 1000000.0, 1000000.0, 1000000.0, 13000000.0, 13000000.0, 13000000.0, 13000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 13000000.0, 13000000.0, 13000000.0, 13000000.0]
+
+
+118937
+['10 tr+Thue']
+Price Sell []
+Price Rent [10000000.0]
+
+
+118965
+['30 ty+Ban', '30 ty+Thue', '30 ty+Ban', '30 ty+Ban', '100 trieu +Ban', '100 trieu +Thue', '100 trieu +Ban', '100 trieu +Ban', '2 tr+Ban', '2 tr+Thue', '2 tr+Ban', '2 tr+Ban', '30 ty+Ban', '30 ty+Thue', '30 ty+Ban', '30 ty+Ban']
+Price Sell [30000000000.0, 30000000000.0, 30000000000.0, 100000000.0, 100000000.0, 100000000.0, 2000000.0, 2000000.0, 2000000.0, 30000000000.0, 30000000000.0, 30000000000.0]
+Price Rent [30000000000.0, 100000000.0, 2000000.0, 30000000000.0]
+
+
+118940
+['1 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118941
+['25 trieu  / thang+Thue']
+Price Sell []
+Price Rent [25000000.0]
+
+
+118942
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+118943
+['6 trieu  / thang+Thue']
+Price Sell []
+Price Rent [6000000.0]
+
+
+118944
+['9.5 tr+Thue', '9.5 tr+Thue', '9.5 tr+Thue', '9.5 tr+Thue', '9.5 tr+Ban', '10 tr+Thue', '10 tr+Thue', '10 tr+Thue', '10 tr+Thue', '10 tr+Ban', '13 tr+Thue', '13 tr+Thue', '13 tr+Thue', '13 tr+Thue', '13 tr+Ban', '15 tr+Thue', '15 tr+Thue', '15 tr+Thue', '15 tr+Thue', '15 tr+Ban', '12 tr+Thue', '12 tr+Thue', '12 tr+Thue', '12 tr+Thue', '12 tr+Ban']
+Price Sell [9500000.0, 10000000.0, 13000000.0, 15000000.0, 12000000.0]
+Price Rent [9500000.0, 9500000.0, 9500000.0, 9500000.0, 10000000.0, 10000000.0, 10000000.0, 10000000.0, 13000000.0, 13000000.0, 13000000.0, 13000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0]
+
+
+118970
+['612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '612 trieu+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '313 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '470 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '672 trieu+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '313 tr+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '2,7 ty+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '540 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '470 tr+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban', '4,25 ty+Ban']
+Price Sell [612000000.0, 612000000.0, 612000000.0, 612000000.0, 612000000.0, 612000000.0, 612000000.0, 612000000.0, 612000000.0, 612000000.0, 612000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 672000000.0, 672000000.0, 672000000.0, 672000000.0, 672000000.0, 672000000.0, 672000000.0, 672000000.0, 672000000.0, 672000000.0, 672000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 313000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 2700000000.0, 540000000.0, 540000000.0, 540000000.0, 540000000.0, 540000000.0, 540000000.0, 540000000.0, 540000000.0, 540000000.0, 540000000.0, 540000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 470000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0, 4250000000.0]
+Price Rent []
+
+
+118946
+['13 tr 5+Thue', '13 tr 5+Thue', '13 tr 5+Ban', '13 tr 5+Ban', '13 tr 5+Ban', '13 tr 5+Ban', '13 tr 5+Ban', '13 tr 5+Ban', '14 tr 5+Thue', '14 tr 5+Thue', '14 tr 5+Ban', '14 tr 5+Ban', '14 tr 5+Ban', '14 tr 5+Ban', '14 tr 5+Ban', '14 tr 5+Ban', '16 tr 7+Thue', '16 tr 7+Thue', '16 tr 7+Ban', '16 tr 7+Ban', '16 tr 7+Ban', '16 tr 7+Ban', '16 tr 7+Ban', '16 tr 7+Ban', '18 tr 5+Thue', '18 tr 5+Thue', '18 tr 5+Ban', '18 tr 5+Ban', '18 tr 5+Ban', '18 tr 5+Ban', '18 tr 5+Ban', '18 tr 5+Ban', '16 tr 3+Thue', '16 tr 3+Thue', '16 tr 3+Ban', '16 tr 3+Ban', '16 tr 3+Ban', '16 tr 3+Ban', '16 tr 3+Ban', '16 tr 3+Ban', '18 tr+Thue', '18 tr+Thue', '18 tr+Ban', '18 tr+Ban', '18 tr+Ban', '18 tr+Ban', '18 tr+Ban', '18 tr+Ban', '18 tr+Thue', '18 tr+Thue', '18 tr+Ban', '18 tr+Ban', '18 tr+Ban', '18 tr+Ban', '18 tr+Ban', '18 tr+Ban', '20 tr+Thue', '20 tr+Thue', '20 tr+Ban', '20 tr+Ban', '20 tr+Ban', '20 tr+Ban', '20 tr+Ban', '20 tr+Ban']
+Price Sell [13000000.0, 13000000.0, 13000000.0, 13000000.0, 13000000.0, 13000000.0, 14000000.0, 14000000.0, 14000000.0, 14000000.0, 14000000.0, 14000000.0, 16000000.0, 16000000.0, 16000000.0, 16000000.0, 16000000.0, 16000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 16000000.0, 16000000.0, 16000000.0, 16000000.0, 16000000.0, 16000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0]
+Price Rent [13000000.0, 13000000.0, 14000000.0, 14000000.0, 16000000.0, 16000000.0, 18000000.0, 18000000.0, 16000000.0, 16000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 20000000.0, 20000000.0]
+
+
+118947
+['33 ty +Ban', '1 tr+Ban', '33 ty+Ban']
+Price Sell [33000000000.0, 1000000.0, 33000000000.0]
+Price Rent []
+
+
+118948
+['4.7 ti+Ban']
+Price Sell [4700000000.0]
+Price Rent []
+
+
+118950
+['2.65 ty+Ban']
+Price Sell [2650000000.0]
+Price Rent []
+
+
+118951
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118952
+['17.5 ty+Ban', '17.5 ty+Thue', '2 tr+Ban', '2 tr+Thue']
+Price Sell [17500000000.0, 2000000.0]
+Price Rent [17500000000.0, 2000000.0]
+
+
+118953
+['1 tr+Ban', '123 ty+Ban', '135 trieu  / m 2+Ban', '210 tr  / m 2+Ban', '20 ty+Ban', '123 ty+Ban']
+Area:  896.0
+Area:  896.0
+Price Sell [1000000.0, 123000000000.0, 120960000000.0, 188160000000.0, 20000000000.0, 123000000000.0]
+Price Rent []
+
+
+118954
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118955
+['1.1 ty+Ban']
+Price Sell [1100000000.0]
+Price Rent []
+
+
+118956
+['9 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118957
+['26 tr  / m 2+Ban', '1,5 ty+Ban', '25 tr  / m 2+Ban', '1,8 ty+Ban', '24.8 tr  / m 2+Ban', '1,8 ty+Ban', '24,9 tr  / m 2+Ban', '2 ty+Ban', '24,3 tr  / m 2+Ban', '1,8 ty+Ban', '24.8 tr  / m 2+Ban', '2,5 ty+Ban']
+Area:  99.0
+Area:  99.0
+Price Sell [2574000000.0, 1500000000.0, 2475000000.0, 1800000000.0, 24800000.0, 1800000000.0, 24900000.0, 2000000000.0, 24300000.0, 1800000000.0, 24800000.0, 2500000000.0]
+Price Rent []
+
+
+118958
+['780 trieu+Ban']
+Price Sell [780000000.0]
+Price Rent []
+
+
+118960
+['8.5 ty+Ban']
+Price Sell [8500000000.0]
+Price Rent []
+
+
+118961
+['9.5 ty+Ban']
+Price Sell [9500000000.0]
+Price Rent []
+
+
+118962
+['35 ty +Ban', '35 ty+Ban', '1 tr+Ban']
+Price Sell [35000000000.0, 35000000000.0, 1000000.0]
+Price Rent []
+
+
+118963
+['500 tr+Ban', '2.85 ty+Ban', '3.4 ty+Ban', '3.8 ty+Ban', '4 ty+Ban', '4.5 ty+Ban']
+Price Sell [500000000.0, 2850000000.0, 3400000000.0, 3800000000.0, 4000000000.0, 4500000000.0]
+Price Rent []
+
+
+118964
+['4 ti+None', '8,1 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+124290
+['2,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118966
+['3 ty+Ban', '500 trieu+Ban']
+Price Sell [3000000000.0, 500000000.0]
+Price Rent []
+
+
+125060
+['2,15 ty+Ban']
+Price Sell [2150000000.0]
+Price Rent []
+
+
+118967
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118968
+['11.8 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118969
+['1 tr+Ban', '1 tr+Ban', '1 tr+Thue', '53 ty+Ban', '53 ty+Ban', '53 ty+Thue', '200 tr  / thang+Ban', '200 tr  / thang+Ban', '200 tr  / thang+Thue']
+Price Sell [1000000.0, 1000000.0, 53000000000.0, 53000000000.0, 200000000.0, 200000000.0]
+Price Rent [1000000.0, 53000000000.0, 200000000.0]
+
+
+118971
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+118972
+['1,2 ty+Ban']
+Price Sell [1200000000.0]
+Price Rent []
+
+
+121224
+['30 tr  / 1 thang+Thue']
+Price Sell []
+Price Rent [30000000.0]
+
+
+118989
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118973
+['9,7 ty+Ban']
+Price Sell [9700000000.0]
+Price Rent []
+
+
+118974
+['10 ty+Ban']
+Price Sell [10000000000.0]
+Price Rent []
+
+
+118975
+['4,650 ty+Ban']
+Price Sell [4650000000.0]
+Price Rent []
+
+
+118976
+['500 tr  / thang+Ban', '99 tr+Ban', '120 ty+Ban', '462,8 trieu  / thang+Ban', '1000 ty+Ban']
+Price Sell [500000000.0, 99000000.0, 120000000000.0, 462800000.0, 1000000000000.0]
+Price Rent []
+
+
+118977
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118978
+['33 ty+Ban']
+Price Sell [33000000000.0]
+Price Rent []
+
+
+118979
+['110 tr  / thang+Thue', '110 tr  / thang+Ban', '33 ty+Thue', '33 ty+Ban']
+Price Sell [110000000.0, 33000000000.0]
+Price Rent [110000000.0, 33000000000.0]
+
+
+118980
+['8 ty+Ban', '8.3 ty +Ban']
+Price Sell [8000000000.0, 8300000000.000001]
+Price Rent []
+
+
+118981
+['185 ty+Ban']
+Price Sell [185000000000.0]
+Price Rent []
+
+
+118982
+['1 tr+Ban', '100 ty+Ban', '250 trieu  / thang+Ban', '100 ty+Ban']
+Price Sell [1000000.0, 100000000000.0, 250000000.0, 100000000000.0]
+Price Rent []
+
+
+118983
+['13,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+118984
+['60 tr  / thang+Thue']
+Price Sell []
+Price Rent [60000000.0]
+
+
+118985
+['100 tr  / thang+None', '9,2 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+118990
+['1.9 ty +Ban']
+Price Sell [1900000000.0]
+Price Rent []
+
+
+118991
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+118992
+['2 ty+Ban', '900 trieu+Ban']
+Price Sell [2000000000.0, 900000000.0]
+Price Rent []
+
+
+118993
+['1,9 tr+Thue', '2,3 tr+Thue', '27 tr  / thang+Thue']
+Price Sell []
+Price Rent [1900000.0, 2300000.0, 27000000.0]
+
+
+118994
+['16.8 ty+Ban', '16.8 ty+Thue', '16.8 ty+Ban', '45 tr+Ban', '45 tr+Thue', '45 tr+Ban', '16.9 ty+Ban', '16.9 ty+Thue', '16.9 ty+Ban']
+Price Sell [16800000000.0, 16800000000.0, 45000000.0, 45000000.0, 16899999999.999998, 16899999999.999998]
+Price Rent [16800000000.0, 45000000.0, 16899999999.999998]
+
+
+118995
+['70 tr  / thang+None', '25,5 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119024
+['150 tr  / thang+Thue', '19,8 ty+Thue']
+Price Sell []
+Price Rent [150000000.0, 19800000000.0]
+
+
+119050
+['140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '1 ty+Ban', '1 ty+Ban', '1 ty+Ban', '1 ty+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '17.9 ty+Ban', '17.9 ty+Ban', '17.9 ty+Ban', '17.9 ty+Ban']
+Area:  120.0
+Area:  120.0
+Area:  120.0
+Area:  120.0
+Price Sell [16800000000.0, 16800000000.0, 16800000000.0, 16800000000.0, 1000000000.0, 1000000000.0, 1000000000.0, 1000000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 17900000000.0, 17900000000.0, 17900000000.0, 17900000000.0]
+Price Rent []
+
+
+118996
+['30 tr  / thang+Thue', '7.8 ty+Thue']
+Price Sell []
+Price Rent [30000000.0, 7800000000.0]
+
+
+118997
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+118998
+['60 tr  / thang+Thue']
+Price Sell []
+Price Rent [60000000.0]
+
+
+118999
+['12.5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119000
+['16 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119001
+['960 tr+Ban', '100 tr+Ban']
+Price Sell [960000000.0, 100000000.0]
+Price Rent []
+
+
+119002
+['1 tr+Ban', '25 ty+Ban']
+Price Sell [1000000.0, 25000000000.0]
+Price Rent []
+
+
+134466
+['1,85 ty+Ban']
+Price Sell [1850000000.0]
+Price Rent []
+
+
+119003
+['2,650 ty+Ban']
+Price Sell [2650000000.0]
+Price Rent []
+
+
+119004
+['50 trieu  / thang+Thue', '50 trieu  / thang+Ban', '13.5 ty+Thue', '13.5 ty+Ban']
+Price Sell [50000000.0, 13500000000.0]
+Price Rent [50000000.0, 13500000000.0]
+
+
+119005
+['25.5 ty+Ban']
+Price Sell [25500000000.0]
+Price Rent []
+
+
+119006
+['3,4 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119007
+['25.8 ty+Ban']
+Price Sell [25800000000.0]
+Price Rent []
+
+
+119008
+['100 tr+Ban', '1.78 ty+Ban']
+Price Sell [100000000.0, 1780000000.0]
+Price Rent []
+
+
+119009
+['7,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+120087
+['7 ty+Ban', '7 ty+Ban', '7 ty+Thue', '990 tr+Ban', '990 tr+Ban', '990 tr+Thue', '15 tr+Ban', '15 tr+Ban', '15 tr+Thue']
+Price Sell [7000000000.0, 7000000000.0, 990000000.0, 990000000.0, 15000000.0, 15000000.0]
+Price Rent [7000000000.0, 990000000.0, 15000000.0]
+
+
+119010
+['3.150 ty+Ban']
+Price Sell [3150000000.0]
+Price Rent []
+
+
+119011
+['1 tr+Ban', '12 ty+Ban', '500 trieu+Ban']
+Price Sell [1000000.0, 12000000000.0, 500000000.0]
+Price Rent []
+
+
+119012
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119013
+['41 tr  / m 2+Ban']
+Area:  85.0
+Price Sell [3485000000.0]
+Price Rent []
+
+
+119014
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119015
+['15 ty +Ban', '1 tr+Ban', '15 ty+Ban']
+Price Sell [15000000000.0, 1000000.0, 15000000000.0]
+Price Rent []
+
+
+119016
+['8,2 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119058
+['13,9 ty+Ban']
+Price Sell [13900000000.0]
+Price Rent []
+
+
+119017
+['8,5 ty+Thue']
+Price Sell []
+Price Rent [8500000000.0]
+
+
+119018
+['12.5 ty+Ban', '12.5 ty+Ban']
+Price Sell [12500000000.0, 12500000000.0]
+Price Rent []
+
+
+119019
+['1 tr 2+None', '4.4 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119020
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119021
+['140 tr  / thang+Thue', '140 tr  / thang+Thue', '36,5 ty+Thue', '36,5 ty+Thue']
+Price Sell []
+Price Rent [140000000.0, 140000000.0, 36500000000.0, 36500000000.0]
+
+
+119022
+['4 ty+Ban', '450 tr+Ban']
+Price Sell [4000000000.0, 450000000.0]
+Price Rent []
+
+
+119023
+['16 ty+Ban']
+Price Sell [16000000000.0]
+Price Rent []
+
+
+119025
+['14 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119026
+['40 tr  / thang+Thue', '7.5 ty+Thue']
+Price Sell []
+Price Rent [40000000.0, 7500000000.0]
+
+
+119028
+['20 ty+Thue', '930 tr  / nam+Thue', '60 trieu  / thang+Thue', '18.5 ty+Thue']
+Price Sell []
+Price Rent [20000000000.0, 77500000.0, 60000000.0, 18500000000.0]
+
+
+119029
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119030
+['39 tr  / m 2+Ban']
+Area:  660.0
+Price Sell [25740000000.0]
+Price Rent []
+
+
+119031
+['30 ty+Ban', '30 ty+Ban', '30 ty+Thue', '30 ty+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '130 tr  / thang+Ban', '130 tr  / thang+Ban', '130 tr  / thang+Thue', '130 tr  / thang+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Thue', '35 ty+Ban']
+Price Sell [30000000000.0, 30000000000.0, 30000000000.0, 1000000.0, 1000000.0, 1000000.0, 130000000.0, 130000000.0, 130000000.0, 35000000000.0, 35000000000.0, 35000000000.0]
+Price Rent [30000000000.0, 1000000.0, 130000000.0, 35000000000.0]
+
+
+119032
+['2,4 ty+Ban', '2,4 ty+Ban']
+Price Sell [2400000000.0, 2400000000.0]
+Price Rent []
+
+
+119033
+['300 trieu+None', '55 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119034
+['38 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119035
+['1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '145 tr  / thang+Ban', '145 tr  / thang+Thue', '145 tr  / thang+Ban', '31,5 ty+Ban', '31,5 ty+Thue', '31,5 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 145000000.0, 145000000.0, 31500000000.0, 31500000000.0]
+Price Rent [1000000.0, 145000000.0, 31500000000.0]
+
+
+119036
+['7.8 ty+Ban', '7.8 ty+Thue', '7.8 ty+Ban', '9.5 ty+Ban', '9.5 ty+Thue', '9.5 ty+Ban', '9.7 ty+Ban', '9.7 ty+Thue', '9.7 ty+Ban', '9.3 ty+Ban', '9.3 ty+Thue', '9.3 ty+Ban', '10.5 ty+Ban', '10.5 ty+Thue', '10.5 ty+Ban', '8.5 ty+Ban', '8.5 ty+Thue', '8.5 ty+Ban', '10 ty+Ban', '10 ty+Thue', '10 ty+Ban', '700 trieu+Ban', '700 trieu+Thue', '700 trieu+Ban', '10.5 ty+Ban', '10.5 ty+Thue', '10.5 ty+Ban', '7.1 ty+Ban', '7.1 ty+Thue', '7.1 ty+Ban', '9.25 ty+Ban', '9.25 ty+Thue', '9.25 ty+Ban', '10 ty+Ban', '10 ty+Thue', '10 ty+Ban', '10.9 ty+Ban', '10.9 ty+Thue', '10.9 ty+Ban', '13.95 ty+Ban', '13.95 ty+Thue', '13.95 ty+Ban', '1.5 ty+Ban', '1.5 ty+Thue', '1.5 ty+Ban', '9.9 ty+Ban', '9.9 ty+Thue', '9.9 ty+Ban']
+Price Sell [7800000000.0, 7800000000.0, 9500000000.0, 9500000000.0, 9700000000.0, 9700000000.0, 9300000000.0, 9300000000.0, 10500000000.0, 10500000000.0, 8500000000.0, 8500000000.0, 10000000000.0, 10000000000.0, 700000000.0, 700000000.0, 10500000000.0, 10500000000.0, 7100000000.0, 7100000000.0, 9250000000.0, 9250000000.0, 10000000000.0, 10000000000.0, 10900000000.0, 10900000000.0, 13950000000.0, 13950000000.0, 1500000000.0, 1500000000.0, 9900000000.0, 9900000000.0]
+Price Rent [7800000000.0, 9500000000.0, 9700000000.0, 9300000000.0, 10500000000.0, 8500000000.0, 10000000000.0, 700000000.0, 10500000000.0, 7100000000.0, 9250000000.0, 10000000000.0, 10900000000.0, 13950000000.0, 1500000000.0, 9900000000.0]
+
+
+119037
+['150 tr  / thang+Thue', '19.7 ty+Thue']
+Price Sell []
+Price Rent [150000000.0, 19700000000.0]
+
+
+119064
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119038
+['1 tr+None', '50 trieu +None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119039
+['3.039 ty+Ban']
+Price Sell [3039000000.0]
+Price Rent []
+
+
+119040
+['150 tr  / thang+Thue', '150 tr  / thang+Thue', '48 ty+Thue', '48 ty+Thue']
+Price Sell []
+Price Rent [150000000.0, 150000000.0, 48000000000.0, 48000000000.0]
+
+
+119041
+['9 ty+Ban']
+Price Sell [9000000000.0]
+Price Rent []
+
+
+119042
+['3 ty+Ban']
+Price Sell [3000000000.0]
+Price Rent []
+
+
+119043
+['3.9 ty+Thue']
+Price Sell []
+Price Rent [3900000000.0]
+
+
+119044
+['80 ty+Ban', '80 ty+Ban']
+Price Sell [80000000000.0, 80000000000.0]
+Price Rent []
+
+
+119045
+['350 tr+Ban', '55 ty+Ban']
+Price Sell [350000000.0, 55000000000.0]
+Price Rent []
+
+
+119046
+['19.5 ty+Ban', '2 ty+Ban', '1 tr+Ban', '19,5 ty+Ban']
+Price Sell [19500000000.0, 2000000000.0, 1000000.0, 19500000000.0]
+Price Rent []
+
+
+119047
+['480 trieu+Thue', '480 trieu+Thue', '16 tr+Thue', '16 tr+Thue', '18 tr+Thue', '18 tr+Thue']
+Price Sell []
+Price Rent [480000000.0, 480000000.0, 16000000.0, 16000000.0, 18000000.0, 18000000.0]
+
+
+119048
+['12 ty+Thue']
+Price Sell []
+Price Rent [12000000000.0]
+
+
+119049
+['978 tr+Ban', '489 tr+Ban', '210 tr+Ban', '996 trieu+Ban', '348 trieu+Ban', '220 trieu+Ban', '1.499 ty+Ban', '674 trieu+Ban', '160 trieu+Ban']
+Price Sell [978000000.0, 489000000.0, 210000000.0, 996000000.0, 348000000.0, 220000000.0, 1499000000.0, 674000000.0, 160000000.0]
+Price Rent []
+
+
+119051
+['900 trieu+Ban']
+Price Sell [900000000.0]
+Price Rent []
+
+
+119053
+['13 tr  / thang+Ban', '13 tr  / thang+Thue', '1.3 tr+Ban', '1.3 tr+Thue']
+Price Sell [13000000.0, 1300000.0]
+Price Rent [13000000.0, 1300000.0]
+
+
+119054
+['1,8 ty+Ban']
+Price Sell [1800000000.0]
+Price Rent []
+
+
+119055
+['140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '1 ty+Ban', '1 ty+Ban', '1 ty+Ban', '1 ty+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '17.9 ty+Ban', '17.9 ty+Ban', '17.9 ty+Ban', '17.9 ty+Ban']
+Area:  120.0
+Area:  120.0
+Area:  120.0
+Area:  120.0
+Price Sell [16800000000.0, 16800000000.0, 16800000000.0, 16800000000.0, 1000000000.0, 1000000000.0, 1000000000.0, 1000000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 17900000000.0, 17900000000.0, 17900000000.0, 17900000000.0]
+Price Rent []
+
+
+119056
+['9,1 ty+Ban', '9,1 ty+Ban', '9,1 ty+Ban', '9,1 ty+Ban']
+Price Sell [9100000000.0, 9100000000.0, 9100000000.0, 9100000000.0]
+Price Rent []
+
+
+119057
+['1 tr+Ban', '3.85 ty+Ban']
+Price Sell [1000000.0, 3850000000.0]
+Price Rent []
+
+
+119059
+['2 trieu  / m 2+None']
+Area:  100.0
+Price Sell [0]
+Price Rent [0]
+
+
+119060
+['2.3 ty+Ban']
+Price Sell [2300000000.0]
+Price Rent []
+
+
+119061
+['690 trieu+Ban']
+Price Sell [690000000.0]
+Price Rent []
+
+
+119062
+['1 tr+Ban', '2,72 ty+Ban']
+Price Sell [1000000.0, 2720000000.0]
+Price Rent []
+
+
+119063
+['140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '140 tr  / m 2+Ban', '1 ty+Ban', '1 ty+Ban', '1 ty+Ban', '1 ty+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '17.9 ty+Ban', '17.9 ty+Ban', '17.9 ty+Ban', '17.9 ty+Ban']
+Area:  120.0
+Area:  120.0
+Area:  120.0
+Area:  120.0
+Price Sell [16800000000.0, 16800000000.0, 16800000000.0, 16800000000.0, 1000000000.0, 1000000000.0, 1000000000.0, 1000000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 17900000000.0, 17900000000.0, 17900000000.0, 17900000000.0]
+Price Rent []
+
+
+125222
+['5 ty+Ban', '8 ty+Ban']
+Price Sell [5000000000.0, 8000000000.0]
+Price Rent []
+
+
+119065
+['30 ty+None', '30 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119066
+['1 tr+Ban', '4 ty+Ban']
+Price Sell [1000000.0, 4000000000.0]
+Price Rent []
+
+
+119067
+['500 trieu+Thue', '500 trieu+Ban', '70 ty+Thue', '70 ty+Ban']
+Price Sell [500000000.0, 70000000000.0]
+Price Rent [500000000.0, 70000000000.0]
+
+
+119068
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119069
+['150.6 trieu+Thue', '150.6 trieu+Thue', '42 ty+Thue', '42 ty+Thue']
+Price Sell []
+Price Rent [150600000.0, 150600000.0, 42000000000.0, 42000000000.0]
+
+
+119070
+['39 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119071
+['11.5 ty +Ban']
+Price Sell [11500000000.0]
+Price Rent []
+
+
+119079
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119080
+['30 ty+Ban']
+Price Sell [30000000000.0]
+Price Rent []
+
+
+119072
+['8,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119073
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+119074
+['180 tr  / m 2+Ban', '150 tr  / m 2+Ban', '140 tr  / m 2+Ban', '160 tr  / m 2+Ban']
+Area:  241.965
+Area:  241.965
+Area:  241.965
+Area:  241.965
+Price Sell [43553700000.0, 36294750000.0, 33875100000.0, 38714400000.0]
+Price Rent []
+
+
+119075
+['125 ty+Thue', '1 ty  / thang+Thue', '135 ty+Thue', '400 trieu  / thang+Thue', '120 ty+Thue', '700 trieu  / thang+Thue', '125 ty+Thue', '400 trieu  / thang+Thue', '100 ty+Thue', '700 trieu  / thang+Thue', '155 ty+Thue', '800 trieu  / thang+Thue', '160 ty+Thue', '180 ty+Thue']
+Price Sell []
+Price Rent [125000000000.0, 1000000000.0, 135000000000.0, 400000000.0, 120000000000.0, 700000000.0, 125000000000.0, 400000000.0, 100000000000.0, 700000000.0, 155000000000.0, 800000000.0, 160000000000.0, 180000000000.0]
+
+
+119076
+['2,252 ty+Ban']
+Price Sell [2252000000.0]
+Price Rent []
+
+
+119077
+['6.8 ty+Ban']
+Price Sell [6800000000.0]
+Price Rent []
+
+
+119078
+['12.8 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119081
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+119082
+['130 trieu+Thue']
+Price Sell []
+Price Rent [130000000.0]
+
+
+119084
+['20 tr+Ban']
+Price Sell [20000000.0]
+Price Rent []
+
+
+119085
+['23 ty+Ban']
+Price Sell [23000000000.0]
+Price Rent []
+
+
+119087
+['1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '1 tr+Thue', '20 tr+Ban', '20 tr+Thue', '20 tr+Ban', '20 tr+Thue', '1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '1 tr+Thue', '8,5 ty+Ban', '8,5 ty+Thue', '8,5 ty+Ban', '8,5 ty+Thue']
+Price Sell [1000000.0, 1000000.0, 20000000.0, 20000000.0, 1000000.0, 1000000.0, 8500000000.0, 8500000000.0]
+Price Rent [1000000.0, 1000000.0, 20000000.0, 20000000.0, 1000000.0, 1000000.0, 8500000000.0, 8500000000.0]
+
+
+119088
+['21 ty+None', '21 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119089
+['155 trieu  / thang+Thue', '155 trieu  / thang+Ban', '43 ty+Thue', '43 ty+Ban']
+Price Sell [155000000.0, 43000000000.0]
+Price Rent [155000000.0, 43000000000.0]
+
+
+119090
+['29.5 ty+Ban']
+Price Sell [29500000000.0]
+Price Rent []
+
+
+119091
+['4 ty+Ban', '4 ty+Ban', '4 ty+Ban', '4 ty+Ban', '3,9 ty+Ban', '3,9 ty+Ban', '3,9 ty+Ban', '3,9 ty+Ban', '2,9 ty+Ban', '2,9 ty+Ban', '2,9 ty+Ban', '2,9 ty+Ban', '3,9 ty+Ban', '3,9 ty+Ban', '3,9 ty+Ban', '3,9 ty+Ban']
+Price Sell [4000000000.0, 4000000000.0, 4000000000.0, 4000000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 2900000000.0, 2900000000.0, 2900000000.0, 2900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0]
+Price Rent []
+
+
+119092
+['100 trieu+Ban', '100 trieu+Thue', '33 ty+Ban', '33 ty+Thue']
+Price Sell [100000000.0, 33000000000.0]
+Price Rent [100000000.0, 33000000000.0]
+
+
+119093
+['7.5 ty+Ban']
+Price Sell [7500000000.0]
+Price Rent []
+
+
+119094
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119095
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+119096
+['6,7 ty+Ban']
+Price Sell [6700000000.0]
+Price Rent []
+
+
+119097
+['3,4 ty+Ban', '3.4 ty+Ban', '3.2 ty+Ban', '30 tr+Ban']
+Price Sell [3400000000.0, 3400000000.0, 3200000000.0, 30000000.0]
+Price Rent []
+
+
+119098
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119099
+['10 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119100
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119101
+['1,2 ty+Ban']
+Price Sell [1200000000.0]
+Price Rent []
+
+
+119102
+['7.5 ty+Ban']
+Price Sell [7500000000.0]
+Price Rent []
+
+
+119103
+['2 ty+Ban']
+Price Sell [2000000000.0]
+Price Rent []
+
+
+119104
+['3.330 ty+Ban']
+Price Sell [3330000000.0]
+Price Rent []
+
+
+120754
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119105
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119107
+['1.5 ty+Ban']
+Price Sell [1500000000.0]
+Price Rent []
+
+
+119108
+['4.5 ty+Ban', '5.5 tr+Ban', '15.5 ty+Ban']
+Price Sell [4500000000.0, 5500000.0, 15500000000.0]
+Price Rent []
+
+
+119109
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119110
+['3.8 ty+Ban']
+Price Sell [3800000000.0]
+Price Rent []
+
+
+119111
+['34.5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119112
+['15 tr+Thue']
+Price Sell []
+Price Rent [15000000.0]
+
+
+119113
+['1 tr+Ban', '22 ty+Ban']
+Price Sell [1000000.0, 22000000000.0]
+Price Rent []
+
+
+119114
+['1 tr+Ban', '10 ty+Ban', '52 ty+Ban']
+Price Sell [1000000.0, 10000000000.0, 52000000000.0]
+Price Rent []
+
+
+119115
+['12.7 ty+Ban']
+Price Sell [12700000000.0]
+Price Rent []
+
+
+119116
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119117
+['1 tr+Ban', '1 ty+Ban']
+Price Sell [1000000.0, 1000000000.0]
+Price Rent []
+
+
+119119
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119120
+['5.2 ty+Ban']
+Price Sell [5200000000.0]
+Price Rent []
+
+
+119121
+['26 ty+Ban']
+Price Sell [26000000000.0]
+Price Rent []
+
+
+119122
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+119124
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+120092
+['185 ty +Ban']
+Price Sell [185000000000.0]
+Price Rent []
+
+
+119118
+['35 trieu+Thue']
+Price Sell []
+Price Rent [35000000.0]
+
+
+119123
+['680 trieu+Ban']
+Price Sell [680000000.0]
+Price Rent []
+
+
+119125
+['3,4 ty+Ban', '3.4 ty+Ban', '3.2 ty+Ban', '30 tr+Ban']
+Price Sell [3400000000.0, 3400000000.0, 3200000000.0, 30000000.0]
+Price Rent []
+
+
+119135
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119127
+['1 tr+Ban', '13.5 ty+Ban']
+Price Sell [1000000.0, 13500000000.0]
+Price Rent []
+
+
+119128
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '100 tr  / thang+Ban', '100 tr  / thang+Thue', '100 tr  / thang+Thue', '24,5 ty+Ban', '24,5 ty+Thue', '24,5 ty+Thue']
+Price Sell [1000000.0, 100000000.0, 24500000000.0]
+Price Rent [1000000.0, 1000000.0, 100000000.0, 100000000.0, 24500000000.0, 24500000000.0]
+
+
+119129
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119130
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+119131
+['1 tr+Ban', '7.5 ty+Ban']
+Price Sell [1000000.0, 7500000000.0]
+Price Rent []
+
+
+119132
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+119133
+['4,9 ty+Ban']
+Price Sell [4900000000.0]
+Price Rent []
+
+
+119134
+['50 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119137
+['5 ty  / thang+Ban', '2 tr+Ban', '330 ty+Ban', '235 trieu  / m 2+Ban']
+Area:  1.4
+Price Sell [5000000000.0, 2000000.0, 330000000000.0, 329000000.0]
+Price Rent []
+
+
+119138
+['22 ty+Ban']
+Price Sell [22000000000.0]
+Price Rent []
+
+
+119139
+['8,7 ty+Ban']
+Price Sell [8700000000.0]
+Price Rent []
+
+
+119141
+['21 ty+Ban', '21 ty+Ban']
+Price Sell [21000000000.0, 21000000000.0]
+Price Rent []
+
+
+119142
+['100 trieu 1+Thue', '100 trieu 1+Thue', '32 ty+Thue', '32 ty+Thue']
+Price Sell []
+Price Rent [100000000.0, 100000000.0, 32000000000.0, 32000000000.0]
+
+
+119149
+['1.8 ty+Ban']
+Price Sell [1800000000.0]
+Price Rent []
+
+
+119144
+['470 trieu+Ban']
+Price Sell [470000000.0]
+Price Rent []
+
+
+119168
+['50 ty+Ban']
+Price Sell [50000000000.0]
+Price Rent []
+
+
+119140
+['26,6 tr  / m 2+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119145
+['1.9 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119146
+['4 ti+Ban', '4 ti+Thue', '4 ti+Thue', '3 tr+Ban', '3 tr+Thue', '3 tr+Thue', '17 ty+Ban', '17 ty+Thue', '17 ty+Thue']
+Price Sell [4000000000.0, 3000000.0, 17000000000.0]
+Price Rent [4000000000.0, 4000000000.0, 3000000.0, 3000000.0, 17000000000.0, 17000000000.0]
+
+
+119147
+['4.8 ty+Ban']
+Price Sell [4800000000.0]
+Price Rent []
+
+
+119148
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119150
+['15,5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119151
+['4,1 ty +Ban']
+Price Sell [4099999999.9999995]
+Price Rent []
+
+
+119152
+['200 tr+Thue', '200 tr+Thue', '56 ty+Thue', '56 ty+Thue']
+Price Sell []
+Price Rent [200000000.0, 200000000.0, 56000000000.0, 56000000000.0]
+
+
+119153
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119154
+['120 ty+Ban', '150 ty+Ban']
+Price Sell [120000000000.0, 150000000000.0]
+Price Rent []
+
+
+119155
+['53 ty+Ban']
+Price Sell [53000000000.0]
+Price Rent []
+
+
+119156
+['1 tr+Ban', '32 ty+Ban']
+Price Sell [1000000.0, 32000000000.0]
+Price Rent []
+
+
+119324
+['120 ty+Ban']
+Price Sell [120000000000.0]
+Price Rent []
+
+
+119157
+['40 tr  / m 2+Ban']
+Area:  268.0
+Price Sell [10720000000.0]
+Price Rent []
+
+
+119158
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119159
+['1.5 ty+Ban']
+Price Sell [1500000000.0]
+Price Rent []
+
+
+119160
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119161
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119162
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119163
+['22,5 ty+Ban']
+Price Sell [22500000000.0]
+Price Rent []
+
+
+119164
+['18 ty+Ban']
+Price Sell [18000000000.0]
+Price Rent []
+
+
+119165
+['8.2 ty+Ban']
+Price Sell [8199999999.999999]
+Price Rent []
+
+
+119166
+['1 tr+None', '6.5 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119167
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119408
+['1 tr+Ban', '5,4 ty+Ban']
+Price Sell [1000000.0, 5400000000.0]
+Price Rent []
+
+
+119169
+['250 trieu  / thang+Ban', '50 ty+Ban']
+Price Sell [250000000.0, 50000000000.0]
+Price Rent []
+
+
+119170
+['960 tr+Ban']
+Price Sell [960000000.0]
+Price Rent []
+
+
+119171
+['11.4 ty+Ban']
+Price Sell [11400000000.0]
+Price Rent []
+
+
+119173
+['30 tr  / m 2+Ban']
+Area:  90.0
+Price Sell [2700000000.0]
+Price Rent []
+
+
+119174
+['120 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119175
+['5 ty  / thang+Ban', '2 tr+Ban', '330 ty+Ban', '235 trieu  / m 2+Ban']
+Area:  1.4
+Price Sell [5000000000.0, 2000000.0, 330000000000.0, 329000000.0]
+Price Rent []
+
+
+119176
+['8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban']
+Price Sell [8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0]
+Price Rent []
+
+
+119191
+['2,35 ty+Ban']
+Price Sell [2350000000.0]
+Price Rent []
+
+
+119177
+['1 tr+Ban', '13.5 ty+Ban']
+Price Sell [1000000.0, 13500000000.0]
+Price Rent []
+
+
+119178
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119179
+['4,79 ty+Ban', '4 tr  / m 2+Ban']
+Area:  1200.0
+Price Sell [4790000000.0, 4800000000.0]
+Price Rent []
+
+
+119180
+['4,3 ty+Ban']
+Price Sell [4300000000.0]
+Price Rent []
+
+
+121507
+['23 tr  / m 2+Ban']
+Area:  390.0
+Price Sell [8970000000.0]
+Price Rent []
+
+
+119181
+['35 ty+Thue']
+Price Sell []
+Price Rent [35000000000.0]
+
+
+119182
+['13 ty+Ban']
+Price Sell [13000000000.0]
+Price Rent []
+
+
+119183
+['3,8 tr  / m 2+Ban']
+Price Sell [3800000.0]
+Price Rent []
+
+
+119185
+['1 tr+Ban', '250 tr+Ban', '49 ty+Ban']
+Price Sell [1000000.0, 250000000.0, 49000000000.0]
+Price Rent []
+
+
+119186
+['2,95 ty+Ban']
+Price Sell [2950000000.0]
+Price Rent []
+
+
+119187
+['185,12 trieu+Ban', '185,12 trieu+Ban', '185,12 trieu+Ban', '185,12 trieu+Ban', '185,12 trieu+Ban', '185,12 trieu+Ban', '185,12 trieu+Ban', '185,12 trieu+Ban', '185,12 trieu+Ban', '185,12 trieu+Ban', '65 ty+Ban', '65 ty+Ban', '65 ty+Ban', '65 ty+Ban', '65 ty+Ban', '65 ty+Ban', '65 ty+Ban', '65 ty+Ban', '65 ty+Ban', '65 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '42.5 ty+Ban', '40 ty+Ban', '40 ty+Ban', '40 ty+Ban', '40 ty+Ban', '40 ty+Ban', '40 ty+Ban', '40 ty+Ban', '40 ty+Ban', '40 ty+Ban', '40 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '26 ty+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Ban', '35 ty+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '65 trieu+Ban', '65 trieu+Ban', '65 trieu+Ban', '65 trieu+Ban', '65 trieu+Ban', '65 trieu+Ban', '65 trieu+Ban', '65 trieu+Ban', '65 trieu+Ban', '65 trieu+Ban', '21.5 ty+Ban', '21.5 ty+Ban', '21.5 ty+Ban', '21.5 ty+Ban', '21.5 ty+Ban', '21.5 ty+Ban', '21.5 ty+Ban', '21.5 ty+Ban', '21.5 ty+Ban', '21.5 ty+Ban']
+Price Sell [185120000.0, 185120000.0, 185120000.0, 185120000.0, 185120000.0, 185120000.0, 185120000.0, 185120000.0, 185120000.0, 185120000.0, 65000000000.0, 65000000000.0, 65000000000.0, 65000000000.0, 65000000000.0, 65000000000.0, 65000000000.0, 65000000000.0, 65000000000.0, 65000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 42500000000.0, 42500000000.0, 42500000000.0, 42500000000.0, 42500000000.0, 42500000000.0, 42500000000.0, 42500000000.0, 42500000000.0, 42500000000.0, 40000000000.0, 40000000000.0, 40000000000.0, 40000000000.0, 40000000000.0, 40000000000.0, 40000000000.0, 40000000000.0, 40000000000.0, 40000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 26000000000.0, 35000000000.0, 35000000000.0, 35000000000.0, 35000000000.0, 35000000000.0, 35000000000.0, 35000000000.0, 35000000000.0, 35000000000.0, 35000000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 1000000.0, 65000000.0, 65000000.0, 65000000.0, 65000000.0, 65000000.0, 65000000.0, 65000000.0, 65000000.0, 65000000.0, 65000000.0, 21500000000.0, 21500000000.0, 21500000000.0, 21500000000.0, 21500000000.0, 21500000000.0, 21500000000.0, 21500000000.0, 21500000000.0, 21500000000.0]
+Price Rent []
+
+
+119202
+['110 trieu  / m 2+Ban']
+Area:  600.0
+Price Sell [66000000000.0]
+Price Rent []
+
+
+119188
+['50 trieu+Ban', '20 ti+Ban', '3 ty+Ban']
+Price Sell [50000000.0, 20000000000.0, 3000000000.0]
+Price Rent []
+
+
+119189
+['4 tr  / m 2+Ban']
+Area:  82.0
+Price Sell [328000000.0]
+Price Rent []
+
+
+126292
+['4,1 ty +Ban']
+Price Sell [4099999999.9999995]
+Price Rent []
+
+
+119192
+['1 ty +Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+119193
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119194
+['10,3 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119203
+['1,23 ty+Ban']
+Price Sell [1230000000.0]
+Price Rent []
+
+
+119195
+['09 trieu+Thue']
+Price Sell []
+Price Rent [9000000.0]
+
+
+119197
+['2 ty+Ban', '450 trieu+Ban', '2 ty+Ban', '700 trieu+Ban', '2 ty+Ban', '900 trieu+Ban', '2 ty+Ban', '800 trieu+Ban', '3 ty+Ban', '430 trieu+Ban']
+Price Sell [2000000000.0, 450000000.0, 2000000000.0, 700000000.0, 2000000000.0, 900000000.0, 2000000000.0, 800000000.0, 3000000000.0, 430000000.0]
+Price Rent []
+
+
+119198
+['1.2 ty+Ban']
+Price Sell [1200000000.0]
+Price Rent []
+
+
+119199
+['260 ty+None', '260 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119200
+['20 tr  / m 2+Ban']
+Area:  80.0
+Price Sell [1600000000.0]
+Price Rent []
+
+
+119201
+['160 tr+None', '30 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119229
+['180 trieu  / 1 nam+Thue', '7 ty+Thue']
+Price Sell []
+Price Rent [15000000.0, 7000000000.0]
+
+
+119204
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119205
+['2,4 ty+Ban', '2,4 ty+Ban', '2 ty+Ban', '2 ty+Ban']
+Price Sell [2400000000.0, 2400000000.0, 2000000000.0, 2000000000.0]
+Price Rent []
+
+
+119206
+['950 trieu +Ban']
+Price Sell [950000000.0]
+Price Rent []
+
+
+119207
+['4 ty+Ban']
+Price Sell [4000000000.0]
+Price Rent []
+
+
+119208
+['2 ti +None']
+Price Sell [0]
+Price Rent [0]
+
+
+119209
+['2 ty+Ban', '468 trieu+Ban']
+Price Sell [2000000000.0, 468000000.0]
+Price Rent []
+
+
+119210
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '70 trieu  / thang+Ban', '70 trieu  / thang+Thue', '70 trieu  / thang+Thue', '33 ty+Ban', '33 ty+Thue', '33 ty+Thue']
+Price Sell [1000000.0, 70000000.0, 33000000000.0]
+Price Rent [1000000.0, 1000000.0, 70000000.0, 70000000.0, 33000000000.0, 33000000000.0]
+
+
+119211
+['6,75 ty+Ban', '1 tr+Ban']
+Price Sell [6750000000.0, 1000000.0]
+Price Rent []
+
+
+119212
+['25 tr 5 / m 2+Ban']
+Area:  83.1
+Price Sell [2077499999.9999998]
+Price Rent []
+
+
+119213
+['300 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119214
+['2,2 ty+Ban']
+Price Sell [2200000000.0]
+Price Rent []
+
+
+119215
+['1,26 ty+Ban']
+Price Sell [1260000000.0]
+Price Rent []
+
+
+119216
+['60 tr+Thue', '60 tr+Ban', '18.7 ty+Thue', '18.7 ty+Ban']
+Price Sell [60000000.0, 18700000000.0]
+Price Rent [60000000.0, 18700000000.0]
+
+
+119217
+['80 ty+Ban']
+Price Sell [80000000000.0]
+Price Rent []
+
+
+119218
+['6.8 ty+Ban']
+Price Sell [6800000000.0]
+Price Rent []
+
+
+119219
+['1 tr+Ban', '8 ty+Ban', '200 tr+Ban']
+Price Sell [1000000.0, 8000000000.0, 200000000.0]
+Price Rent []
+
+
+119220
+['90 tr  / thang+Thue', '90 tr  / thang+Thue', '28 ty+Thue']
+Price Sell []
+Price Rent [90000000.0, 90000000.0, 28000000000.0]
+
+
+119221
+['16 ty+Ban', '1 tr+Ban']
+Price Sell [16000000000.0, 1000000.0]
+Price Rent []
+
+
+119222
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119223
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119224
+['1 tr+Ban', '12.78 trieu+Ban', '15.11 trieu+Ban', '21 ty+Ban']
+Price Sell [1000000.0, 12780000.0, 15110000.0, 21000000000.0]
+Price Rent []
+
+
+119225
+['25 tr  / thang+Thue', '25 tr  / thang+Ban', '5 ty+Thue', '5 ty+Ban']
+Price Sell [25000000.0, 5000000000.0]
+Price Rent [25000000.0, 5000000000.0]
+
+
+119226
+['8,5 trieu  / m 2+Ban']
+Price Sell [8500000.0]
+Price Rent []
+
+
+119227
+['1 tr+None', '3,35 ty+None', '3,5 ty+None']
+Price Sell [0, 0, 0]
+Price Rent [0, 0, 0]
+
+
+119228
+['5.5 ty+Ban']
+Price Sell [5500000000.0]
+Price Rent []
+
+
+119230
+['32 tr  / m 2+Ban']
+Area:  80.0
+Price Sell [2560000000.0]
+Price Rent []
+
+
+119231
+['2,8 ty+Ban']
+Price Sell [2800000000.0]
+Price Rent []
+
+
+119232
+['1 tr+Thue', '1 tr+Thue', '1 tr+Thue', '1 tr+Ban', '40 tr  / thang+Thue', '40 tr  / thang+Thue', '40 tr  / thang+Thue', '40 tr  / thang+Ban', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Ban', '3,5 ty+Thue', '3,5 ty+Thue', '3,5 ty+Thue', '3,5 ty+Ban', '6 ty+Thue', '6 ty+Thue', '6 ty+Thue', '6 ty+Ban']
+Price Sell [1000000.0, 40000000.0, 7000000000.0, 3500000000.0, 6000000000.0]
+Price Rent [1000000.0, 1000000.0, 1000000.0, 40000000.0, 40000000.0, 40000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 3500000000.0, 3500000000.0, 3500000000.0, 6000000000.0, 6000000000.0, 6000000000.0]
+
+
+119233
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119234
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119243
+['4,1 ty+Ban', '1 tr+Ban']
+Price Sell [4099999999.9999995, 1000000.0]
+Price Rent []
+
+
+119235
+['1 tr+None', '7.6 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119236
+['19 ty+Ban']
+Price Sell [19000000000.0]
+Price Rent []
+
+
+119237
+['400 tr  / nam+None', '14.5 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119238
+['52 ty+Ban', '1 tr+Ban']
+Price Sell [52000000000.0, 1000000.0]
+Price Rent []
+
+
+119239
+['2.2 ty+Ban']
+Price Sell [2200000000.0]
+Price Rent []
+
+
+119240
+['10 ty+Ban']
+Price Sell [10000000000.0]
+Price Rent []
+
+
+119241
+['23.27 trieu+Thue', '23.27 trieu+Ban', '5,5 ty+Thue', '5,5 ty+Ban']
+Price Sell [23270000.0, 5500000000.0]
+Price Rent [23270000.0, 5500000000.0]
+
+
+122664
+['32 tr+None', '15.600 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119244
+['1 ty +Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+119245
+['36.76 ty+Thue']
+Price Sell []
+Price Rent [36760000000.0]
+
+
+119246
+['3,3 ty+Ban', '39 tr  / m 2+Ban']
+Area:  85.0
+Price Sell [3300000000.0, 3315000000.0]
+Price Rent []
+
+
+119247
+['2.5 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119248
+['3 ty+Ban', '90 trieu +Ban', '1 tr+Ban']
+Price Sell [3000000000.0, 90000000.0, 1000000.0]
+Price Rent []
+
+
+119249
+['17 ty+Ban']
+Price Sell [17000000000.0]
+Price Rent []
+
+
+119250
+['61 tr  / m 2+Ban']
+Area:  81.0
+Price Sell [4941000000.0]
+Price Rent []
+
+
+119251
+['2,2 ty+Ban']
+Price Sell [2200000000.0]
+Price Rent []
+
+
+119252
+['13 ty+Ban']
+Price Sell [13000000000.0]
+Price Rent []
+
+
+119253
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+119254
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+119255
+['4.5 ty+Ban']
+Price Sell [4500000000.0]
+Price Rent []
+
+
+119256
+['1,68 ty+Ban']
+Price Sell [1680000000.0]
+Price Rent []
+
+
+119257
+['8.9 ty+Ban']
+Price Sell [8900000000.0]
+Price Rent []
+
+
+119258
+['5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '6.5 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '5.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '5.7 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '9.9 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '5.8 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '7.5 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '8.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '6.9 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban', '7.4 ty+Ban']
+Price Sell [5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 6500000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 5900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 9900000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 7500000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 8900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 6900000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0, 7400000000.0]
+Price Rent []
+
+
+119259
+['8 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119260
+['2,5 tr  / thang+Thue', '2,5 tr  / thang+Thue', '2,5 tr  / thang+Thue', '3 trieu  / thang+Thue', '3 trieu  / thang+Thue', '3 trieu  / thang+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue']
+Price Sell []
+Price Rent [2500000.0, 2500000.0, 2500000.0, 3000000.0, 3000000.0, 3000000.0, 5500000000.0, 5500000000.0, 5500000000.0]
+
+
+119261
+['60 ty+Ban']
+Price Sell [60000000000.0]
+Price Rent []
+
+
+119284
+['8 ty+Ban']
+Price Sell [8000000000.0]
+Price Rent []
+
+
+119262
+['50 trieu  / thang+Thue', '50 trieu  / thang+Ban', '12.8 ty+Thue', '12.8 ty+Ban']
+Price Sell [50000000.0, 12800000000.0]
+Price Rent [50000000.0, 12800000000.0]
+
+
+119263
+['1 ty+Ban', '1 ty+Ban', '240 trieu+Ban']
+Price Sell [1000000000.0, 1000000000.0, 240000000.0]
+Price Rent []
+
+
+119264
+['36 ty+Ban']
+Price Sell [36000000000.0]
+Price Rent []
+
+
+119265
+['700 trieu+Ban']
+Price Sell [700000000.0]
+Price Rent []
+
+
+119266
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119267
+['174 trieu  / m 2+Ban', '174 trieu  / m 2+Ban', '174 trieu  / m 2+Ban', '174 trieu  / m 2+Ban', '15 ty+Ban', '15 ty+Ban', '15 ty+Ban', '15 ty+Ban', '95 ty+Ban', '95 ty+Ban', '95 ty+Ban', '95 ty+Ban', '55 ty+Ban', '55 ty+Ban', '55 ty+Ban', '55 ty+Ban']
+Area:  316.5
+Area:  316.5
+Area:  316.5
+Area:  316.5
+Price Sell [55071000000.0, 55071000000.0, 55071000000.0, 55071000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 95000000000.0, 95000000000.0, 95000000000.0, 95000000000.0, 55000000000.0, 55000000000.0, 55000000000.0, 55000000000.0]
+Price Rent []
+
+
+119268
+['1.5 ty+Ban']
+Price Sell [1500000000.0]
+Price Rent []
+
+
+119269
+['4 tr+Thue', '4 tr+Ban', '500 trieu  / thang+Thue', '500 trieu  / thang+Ban', '100 ty+Thue', '100 ty+Ban']
+Price Sell [4000000.0, 500000000.0, 100000000000.0]
+Price Rent [4000000.0, 500000000.0, 100000000000.0]
+
+
+119270
+['2,2 ty+Ban', '770 tr+Ban', '1 tr+Ban']
+Price Sell [2200000000.0, 770000000.0, 1000000.0]
+Price Rent []
+
+
+119271
+['2.65 ty+Ban', '2.65 ty+Ban']
+Price Sell [2650000000.0, 2650000000.0]
+Price Rent []
+
+
+119272
+['32 ty+Ban']
+Price Sell [32000000000.0]
+Price Rent []
+
+
+119273
+['40 ty+Ban']
+Price Sell [40000000000.0]
+Price Rent []
+
+
+119274
+['325 ty+Ban']
+Price Sell [325000000000.0]
+Price Rent []
+
+
+119276
+['21.4 ty +Ban']
+Price Sell [21400000000.0]
+Price Rent []
+
+
+119277
+['25 trieu  / thang+Thue', '25 trieu  / thang+Thue', '13.5 ty+Thue', '13.5 ty+Thue']
+Price Sell []
+Price Rent [25000000.0, 25000000.0, 13500000000.0, 13500000000.0]
+
+
+119278
+['10 ty+Ban', '10 ty+Ban', '500 tr+Ban', '500 tr+Ban']
+Price Sell [10000000000.0, 10000000000.0, 500000000.0, 500000000.0]
+Price Rent []
+
+
+119279
+['34 ty +Ban']
+Price Sell [34000000000.0]
+Price Rent []
+
+
+119280
+['10 ty+Ban']
+Price Sell [10000000000.0]
+Price Rent []
+
+
+119281
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119283
+['2,9 ty+Ban']
+Price Sell [2900000000.0]
+Price Rent []
+
+
+119285
+['23.5 ty+Ban']
+Price Sell [23500000000.0]
+Price Rent []
+
+
+119286
+['1 tr+Ban', '5 ty+Ban', '650 tr+Ban', '55 tr  / m 2+Ban']
+Area:  108.0
+Price Sell [1000000.0, 5000000000.0, 650000000.0, 5940000000.0]
+Price Rent []
+
+
+119287
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119288
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+122669
+['20 trieu  / m 2+Ban']
+Area:  100.0
+Price Sell [2000000000.0]
+Price Rent []
+
+
+119289
+['75 ty+Ban', '90 trieu  / m 2+Ban']
+Area:  826.0
+Price Sell [75000000000.0, 74340000000.0]
+Price Rent []
+
+
+119290
+['1 ty+Ban', '850 trieu+Ban']
+Price Sell [1000000000.0, 850000000.0]
+Price Rent []
+
+
+119291
+['14 ty+Ban', '14 ty+Ban', '500 trieu+Ban', '500 trieu+Ban']
+Price Sell [14000000000.0, 14000000000.0, 500000000.0, 500000000.0]
+Price Rent []
+
+
+119292
+['2.8 ti+Ban']
+Price Sell [2800000000.0]
+Price Rent []
+
+
+119293
+['1 ty+Ban', '17 tr  / m 2+Ban', '1 tr+Ban', '17 tr  / m 2+Ban', '1,7 ty+Ban']
+Area:  7.0
+Area:  7.0
+Price Sell [1000000000.0, 119000000.0, 1000000.0, 119000000.0, 1700000000.0]
+Price Rent []
+
+
+119294
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119295
+['3.9 ty+Ban']
+Price Sell [3900000000.0]
+Price Rent []
+
+
+119296
+['4 ty+Ban']
+Price Sell [4000000000.0]
+Price Rent []
+
+
+119297
+['1 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119298
+['140 tr  / m 2+Ban', '9.2 ty+Ban']
+Area:  56.699999999999996
+Price Sell [7937999999.999999, 9200000000.0]
+Price Rent []
+
+
+119299
+['6.5 ty+Ban']
+Price Sell [6500000000.0]
+Price Rent []
+
+
+119300
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+119301
+['1 tr+Ban', '1 tr+Ban', '24 ty+Ban', '24 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 24000000000.0, 24000000000.0]
+Price Rent []
+
+
+119302
+['950 trieu +Ban']
+Price Sell [950000000.0]
+Price Rent []
+
+
+119303
+['3.1 ty+Thue', '3.1 ty+Thue', '3.1 ty+Thue', '3.1 ty+Thue', '3.1 ty+Thue', '3.1 ty+Thue', '3.1 ty+Thue', '3.1 ty+Thue', '3.1 ty+Thue', '3.1 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.4 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.650 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3.9 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '3,8 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.1 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.2 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.5 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '4.8 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue', '5.2 ty+Thue']
+Price Sell []
+Price Rent [3100000000.0, 3100000000.0, 3100000000.0, 3100000000.0, 3100000000.0, 3100000000.0, 3100000000.0, 3100000000.0, 3100000000.0, 3100000000.0, 3400000000.0, 3400000000.0, 3400000000.0, 3400000000.0, 3400000000.0, 3400000000.0, 3400000000.0, 3400000000.0, 3400000000.0, 3400000000.0, 3650000000.0, 3650000000.0, 3650000000.0, 3650000000.0, 3650000000.0, 3650000000.0, 3650000000.0, 3650000000.0, 3650000000.0, 3650000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3900000000.0, 3800000000.0, 3800000000.0, 3800000000.0, 3800000000.0, 3800000000.0, 3800000000.0, 3800000000.0, 3800000000.0, 3800000000.0, 3800000000.0, 4099999999.9999995, 4099999999.9999995, 4099999999.9999995, 4099999999.9999995, 4099999999.9999995, 4099999999.9999995, 4099999999.9999995, 4099999999.9999995, 4099999999.9999995, 4099999999.9999995, 4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 4200000000.0, 4500000000.0, 4500000000.0, 4500000000.0, 4500000000.0, 4500000000.0, 4500000000.0, 4500000000.0, 4500000000.0, 4500000000.0, 4500000000.0, 4800000000.0, 4800000000.0, 4800000000.0, 4800000000.0, 4800000000.0, 4800000000.0, 4800000000.0, 4800000000.0, 4800000000.0, 4800000000.0, 5200000000.0, 5200000000.0, 5200000000.0, 5200000000.0, 5200000000.0, 5200000000.0, 5200000000.0, 5200000000.0, 5200000000.0, 5200000000.0]
+
+
+119304
+['1 tr+Ban', '32 ty+Ban']
+Price Sell [1000000.0, 32000000000.0]
+Price Rent []
+
+
+119319
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119306
+['6.8 ty+Ban', '7.2 ty+Ban', '8 ty+Ban', '7.8 ty+Ban', '8 ty+Ban', '6.4 ty+Ban', '4.5 ty+Ban', '5.4 ty+Ban', '5.6 ty+Ban', '5.5 ty+Ban', '9 ty+Ban', '10 ty+Ban', '12 ty+Ban']
+Price Sell [6800000000.0, 7200000000.0, 8000000000.0, 7800000000.0, 8000000000.0, 6400000000.0, 4500000000.0, 5400000000.0, 5600000000.0, 5500000000.0, 9000000000.0, 10000000000.0, 12000000000.0]
+Price Rent []
+
+
+119307
+['100 trieu  / thang+Thue']
+Price Sell []
+Price Rent [100000000.0]
+
+
+119308
+['1 tr+Ban', '4 ty+Ban', '250 trieu+Ban']
+Price Sell [1000000.0, 4000000000.0, 250000000.0]
+Price Rent []
+
+
+119309
+['55 ty+Ban']
+Price Sell [55000000000.0]
+Price Rent []
+
+
+119310
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119311
+['27 ty+Thue']
+Price Sell []
+Price Rent [27000000000.0]
+
+
+119320
+['1.9 ty+Ban', '2.2 ty+Ban']
+Price Sell [1900000000.0, 2200000000.0]
+Price Rent []
+
+
+119312
+['25 tr  / m 2+Ban']
+Area:  100.0
+Price Sell [2500000000.0]
+Price Rent []
+
+
+119313
+['1 tr+Ban', '10 ty+Ban']
+Price Sell [1000000.0, 10000000000.0]
+Price Rent []
+
+
+119314
+['24 ty+Ban']
+Price Sell [24000000000.0]
+Price Rent []
+
+
+119315
+['1.485 ty+Ban']
+Price Sell [1485000000.0]
+Price Rent []
+
+
+119316
+['105 ty+Ban']
+Price Sell [105000000000.0]
+Price Rent []
+
+
+119317
+['1 tr+Ban', '13.5 ty+Ban']
+Price Sell [1000000.0, 13500000000.0]
+Price Rent []
+
+
+119318
+['88 ty+None', '88 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119321
+['1 tr+Ban', '117,8 ty+Ban', '1 tr+Ban', '151,7 ty+Ban', '111,3 ty+Ban']
+Price Sell [1000000.0, 117800000000.0, 1000000.0, 151700000000.0, 111300000000.0]
+Price Rent []
+
+
+119322
+['12 ty+Ban', '12 ty+Ban']
+Price Sell [12000000000.0, 12000000000.0]
+Price Rent []
+
+
+123995
+['1 tr+Ban', '10.5 ty+Ban']
+Price Sell [1000000.0, 10500000000.0]
+Price Rent []
+
+
+119323
+['1 tr+Ban', '16 ty+Ban']
+Price Sell [1000000.0, 16000000000.0]
+Price Rent []
+
+
+119325
+['4 ty+Ban', '550 trieu+Ban']
+Price Sell [4000000000.0, 550000000.0]
+Price Rent []
+
+
+119326
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119327
+['1.8 ty+Ban', '2.7 ty+Ban', '3.6 ty+Ban']
+Price Sell [1800000000.0, 2700000000.0, 3600000000.0]
+Price Rent []
+
+
+119329
+['2,7 ty+Ban']
+Price Sell [2700000000.0]
+Price Rent []
+
+
+119330
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119342
+['4,95 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119331
+['300 tr+Ban']
+Price Sell [300000000.0]
+Price Rent []
+
+
+119332
+['20 ty+Ban']
+Price Sell [20000000000.0]
+Price Rent []
+
+
+119348
+['15 ty+Ban']
+Price Sell [15000000000.0]
+Price Rent []
+
+
+119334
+['18.2 ty +Ban', '1 tr+Ban', '18.2 ty+Ban', '95 trieu  / m 2+Ban']
+Area:  188.0
+Price Sell [18200000000.0, 1000000.0, 18200000000.0, 17860000000.0]
+Price Rent []
+
+
+119335
+['108 tr  / thang+Thue', '108 tr  / thang+Ban', '23 ty+Thue', '23 ty+Ban']
+Price Sell [108000000.0, 23000000000.0]
+Price Rent [108000000.0, 23000000000.0]
+
+
+119347
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+119336
+['8.2 ty +Ban', '8 ty+Ban']
+Price Sell [8199999999.999999, 8000000000.0]
+Price Rent []
+
+
+119337
+['1.8 ty+Ban', '2.4 ty+Ban', '3.65 ty+Ban']
+Price Sell [1800000000.0, 2400000000.0, 3650000000.0]
+Price Rent []
+
+
+119338
+['5 ty+Ban', '4 ty+Ban']
+Price Sell [5000000000.0, 4000000000.0]
+Price Rent []
+
+
+119339
+['1 tr+Ban', '14 ty+Ban']
+Price Sell [1000000.0, 14000000000.0]
+Price Rent []
+
+
+119349
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+119340
+['2 ty+Ban']
+Price Sell [2000000000.0]
+Price Rent []
+
+
+119341
+['1 tr+Thue', '1 tr+Thue', '13.9 ty+Thue', '13.9 ty+Thue']
+Price Sell []
+Price Rent [1000000.0, 1000000.0, 13900000000.0, 13900000000.0]
+
+
+120242
+['3 ty+Ban', '450 tr+Ban']
+Price Sell [3000000000.0, 450000000.0]
+Price Rent []
+
+
+119343
+['8 ty+Ban']
+Price Sell [8000000000.0]
+Price Rent []
+
+
+119344
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+119345
+['130 tr+Ban', '180 tr  / thang+Ban', '44 ty+Ban']
+Price Sell [130000000.0, 180000000.0, 44000000000.0]
+Price Rent []
+
+
+119346
+['1.95 ty+Ban', '2.080 ty+Ban', '2.180 ty+Ban', '2.160 ty+Ban', '2.150 ty+Ban', '2.78 ty+Ban']
+Price Sell [1950000000.0, 2080000000.0, 2180000000.0, 2160000000.0, 2150000000.0, 2780000000.0]
+Price Rent []
+
+
+119350
+['1 tr+Ban', '13 ty+Ban']
+Price Sell [1000000.0, 13000000000.0]
+Price Rent []
+
+
+119351
+['1,15 ty+Ban']
+Price Sell [1150000000.0]
+Price Rent []
+
+
+119352
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119353
+['5 tr  / thang+Ban', '5 tr  / thang+Ban', '5 ty+Ban', '5 ty+Ban']
+Price Sell [5000000.0, 5000000.0, 5000000000.0, 5000000000.0]
+Price Rent []
+
+
+119354
+['25 ty+Ban']
+Price Sell [25000000000.0]
+Price Rent []
+
+
+119355
+['4 ti+Ban', '10 ty+Ban']
+Price Sell [4000000000.0, 10000000000.0]
+Price Rent []
+
+
+119356
+['1.5 ty+Ban']
+Price Sell [1500000000.0]
+Price Rent []
+
+
+119357
+['600 trieu  / 1 thang+Thue', '600 trieu  / 1 thang+Ban', '116 ty+Thue', '116 ty+Ban']
+Price Sell [600000000.0, 116000000000.0]
+Price Rent [600000000.0, 116000000000.0]
+
+
+119358
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119359
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119360
+['1 tr+Thue', '1 tr+Ban', '7.5 ty+Thue', '7.5 ty+Ban']
+Price Sell [1000000.0, 7500000000.0]
+Price Rent [1000000.0, 7500000000.0]
+
+
+119361
+['20 tr  / 1 thang+Thue', '20 tr  / 1 thang+Thue', '20 tr  / 1 thang+Ban', '1 tr+Thue', '1 tr+Thue', '1 tr+Ban', '7.5 ty+Thue', '7.5 ty+Thue', '7.5 ty+Ban']
+Price Sell [20000000.0, 1000000.0, 7500000000.0]
+Price Rent [20000000.0, 20000000.0, 1000000.0, 1000000.0, 7500000000.0, 7500000000.0]
+
+
+119362
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119363
+['1.85 ty+Ban']
+Price Sell [1850000000.0]
+Price Rent []
+
+
+119364
+['8,2 ty+Ban', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Thue', '8,2 ty+Ban', '8,2 ty+Ban', '45 tr  / m 2+Ban', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Thue', '45 tr  / m 2+Ban', '45 tr  / m 2+Ban', '4,78 ty+Ban', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Thue', '4,78 ty+Ban', '4,78 ty+Ban', '5,1 ty+Ban', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Thue', '5,1 ty+Ban', '5,1 ty+Ban', '5 ty+Ban', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Thue', '5 ty+Ban', '5 ty+Ban', '5,7 ty+Ban', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Ban', '5,7 ty+Ban', '5,8 ty+Ban', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Thue', '5,8 ty+Ban', '5,8 ty+Ban', '5,7 ty+Ban', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Thue', '5,7 ty+Ban', '5,7 ty+Ban', '5,5 ty+Ban', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Thue', '5,5 ty+Ban', '5,5 ty+Ban', '5,6 ty+Ban', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Thue', '5,6 ty+Ban', '5,6 ty+Ban', '7 ty+Ban', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Thue', '7 ty+Ban', '7 ty+Ban', '7,2 ty+Ban', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Thue', '7,2 ty+Ban', '7,2 ty+Ban', '8,5 ty+Ban', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Ban', '8,5 ty+Ban', '8 ty+Ban', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Thue', '8 ty+Ban', '8 ty+Ban', '8,5 ty+Ban', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Thue', '8,5 ty+Ban', '8,5 ty+Ban', '11 ty+Ban', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Thue', '11 ty+Ban', '11 ty+Ban', '15 ty+Ban', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Thue', '15 ty+Ban', '15 ty+Ban']
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Area:  104171.0
+Price Sell [8199999999.999999, 8199999999.999999, 8199999999.999999, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 15000000000.0, 15000000000.0, 15000000000.0]
+Price Rent [8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 8199999999.999999, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4687695000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 4780000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5100000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5000000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5800000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5700000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5500000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 5600000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7000000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 7200000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8000000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 8500000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 11000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0, 15000000000.0]
+
+
+119365
+['1 tr+Ban', '8 ty+Ban']
+Price Sell [1000000.0, 8000000000.0]
+Price Rent []
+
+
+119379
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+119366
+['3,1 ty+Ban', '3,3 ty+Ban', '3,2 ty+Ban', '3,3 ty+Ban', '3,45 ty+Ban', '3,5 ty+Ban', '3,45 ty+Ban', '3,5 ty+Ban', '3,35 ty+Ban', '3,4 ty+Ban', '3,4 ty+Ban', '3,35 ty+Ban', '3,6 ty+Ban', '3,7 ty+Ban', '4,7 ty+Ban', '4,2 ty+Ban', '4,6 ty+Ban', '4,28 ty+Ban', '5,3 ty+Ban', '5,5 ty+Ban']
+Price Sell [3100000000.0, 3300000000.0, 3200000000.0, 3300000000.0, 3450000000.0, 3500000000.0, 3450000000.0, 3500000000.0, 3350000000.0, 3400000000.0, 3400000000.0, 3350000000.0, 3600000000.0, 3700000000.0, 4700000000.0, 4200000000.0, 4600000000.0, 4280000000.0000005, 5300000000.0, 5500000000.0]
+Price Rent []
+
+
+119367
+['5.8 ty+Thue']
+Price Sell []
+Price Rent [5800000000.0]
+
+
+119369
+['1 tr+Ban', '1 tr+Ban', '1 tr+Ban', '1 tr+Ban']
+Price Sell [1000000.0, 1000000.0, 1000000.0, 1000000.0]
+Price Rent []
+
+
+119370
+['3,7 tr  / m 2+Ban']
+Price Sell [3700000.0]
+Price Rent []
+
+
+119372
+['295 ty+None', '295 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119373
+['20 tr  / m 2+Ban']
+Area:  100.0
+Price Sell [2000000000.0]
+Price Rent []
+
+
+119374
+['2,38 ty+Ban']
+Price Sell [2380000000.0]
+Price Rent []
+
+
+119375
+['12.5 ty+Ban']
+Price Sell [12500000000.0]
+Price Rent []
+
+
+119376
+['4,1 ty+Ban']
+Price Sell [4099999999.9999995]
+Price Rent []
+
+
+119377
+['1.52 ty+Ban', '1.69 ty+Ban', '1.73 ty+Ban', '1.95 ty+Ban', '2.1 ty+Ban', '2.25 ty+Ban', '2.7 ty+Ban', '3.2 ty+Ban', '2.3 ty+Ban']
+Price Sell [1520000000.0, 1690000000.0, 1730000000.0, 1950000000.0, 2100000000.0, 2250000000.0, 2700000000.0, 3200000000.0, 2300000000.0]
+Price Rent []
+
+
+119378
+['3 tr+Ban', '3 tr+Ban', '3 tr+Ban', '32 tr  / m 2+Ban', '32 tr  / m 2+Ban', '32 tr  / m 2+Ban', '38 tr  / m 2+Ban', '38 tr  / m 2+Ban', '38 tr  / m 2+Ban']
+Area:  90.0
+Area:  90.0
+Area:  90.0
+Area:  90.0
+Area:  90.0
+Area:  90.0
+Price Sell [3000000.0, 3000000.0, 3000000.0, 2880000000.0, 2880000000.0, 2880000000.0, 3420000000.0, 3420000000.0, 3420000000.0]
+Price Rent []
+
+
+119380
+['3,9 ty+Ban']
+Price Sell [3900000000.0]
+Price Rent []
+
+
+119381
+['4,8 ty+Ban']
+Price Sell [4800000000.0]
+Price Rent []
+
+
+119382
+['1 tr+Ban', '11.5 ty +Ban']
+Price Sell [1000000.0, 11500000000.0]
+Price Rent []
+
+
+119383
+['70 tr  / thang+Ban', '70 tr  / thang+Thue', '20 ty+Ban', '20 ty+Thue']
+Price Sell [70000000.0, 20000000000.0]
+Price Rent [70000000.0, 20000000000.0]
+
+
+119384
+['13.2 ty+Ban', '100 trieu  / m 2+Ban']
+Area:  128.79999999999998
+Price Sell [13200000000.0, 12879999999.999998]
+Price Rent []
+
+
+119385
+['2 ty+Ban']
+Price Sell [2000000000.0]
+Price Rent []
+
+
+119386
+['3,1 ty+Ban', '3,3 ty+Ban', '3,2 ty+Ban', '3,3 ty+Ban', '3,45 ty+Ban', '3,5 ty+Ban', '3,45 ty+Ban', '3,5 ty+Ban', '3,35 ty+Ban', '3,4 ty+Ban', '3,4 ty+Ban', '3,35 ty+Ban', '3,6 ty+Ban', '3,7 ty+Ban', '4,7 ty+Ban', '4,2 ty+Ban', '4,6 ty+Ban', '4,28 ty+Ban', '5,3 ty+Ban', '5,5 ty+Ban']
+Price Sell [3100000000.0, 3300000000.0, 3200000000.0, 3300000000.0, 3450000000.0, 3500000000.0, 3450000000.0, 3500000000.0, 3350000000.0, 3400000000.0, 3400000000.0, 3350000000.0, 3600000000.0, 3700000000.0, 4700000000.0, 4200000000.0, 4600000000.0, 4280000000.0000005, 5300000000.0, 5500000000.0]
+Price Rent []
+
+
+119387
+['1.52 ty+Ban', '1.69 ty+Ban', '1.73 ty+Ban', '1.95 ty+Ban', '2.1 ty+Ban', '2.25 ty+Ban', '2.7 ty+Ban', '3.2 ty+Ban', '2.3 ty+Ban']
+Price Sell [1520000000.0, 1690000000.0, 1730000000.0, 1950000000.0, 2100000000.0, 2250000000.0, 2700000000.0, 3200000000.0, 2300000000.0]
+Price Rent []
+
+
+119388
+['3,15 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119389
+['3,1 ty+Ban', '3,3 ty+Ban', '3,2 ty+Ban', '3,3 ty+Ban', '3,45 ty+Ban', '3,5 ty+Ban', '3,45 ty+Ban', '3,5 ty+Ban', '3,35 ty+Ban', '3,4 ty+Ban', '3,4 ty+Ban', '3,35 ty+Ban', '3,6 ty+Ban', '3,7 ty+Ban', '4,7 ty+Ban', '4,2 ty+Ban', '4,6 ty+Ban', '4,28 ty+Ban', '5,3 ty+Ban', '5,5 ty+Ban']
+Price Sell [3100000000.0, 3300000000.0, 3200000000.0, 3300000000.0, 3450000000.0, 3500000000.0, 3450000000.0, 3500000000.0, 3350000000.0, 3400000000.0, 3400000000.0, 3350000000.0, 3600000000.0, 3700000000.0, 4700000000.0, 4200000000.0, 4600000000.0, 4280000000.0000005, 5300000000.0, 5500000000.0]
+Price Rent []
+
+
+119390
+['12.5 ty+Thue']
+Price Sell []
+Price Rent [12500000000.0]
+
+
+119391
+['8.950 ty+Ban']
+Price Sell [8950000000.0]
+Price Rent []
+
+
+119393
+['899 trieu+Ban']
+Price Sell [899000000.0]
+Price Rent []
+
+
+119394
+['50 trieu+Ban', '50 trieu+Thue', '50 trieu+Thue', '3 tr+Ban', '3 tr+Thue', '3 tr+Thue', '4 tr+Ban', '4 tr+Thue', '4 tr+Thue']
+Price Sell [50000000.0, 3000000.0, 4000000.0]
+Price Rent [50000000.0, 50000000.0, 3000000.0, 3000000.0, 4000000.0, 4000000.0]
+
+
+119395
+['4.650 ty+Ban']
+Price Sell [4650000000.0]
+Price Rent []
+
+
+119396
+['1 tr+Ban', '26 ty+Ban']
+Price Sell [1000000.0, 26000000000.0]
+Price Rent []
+
+
+119397
+['1.52 ty+Ban', '1.69 ty+Ban', '1.73 ty+Ban', '1.95 ty+Ban', '2.1 ty+Ban', '2.25 ty+Ban', '2.7 ty+Ban', '3.2 ty+Ban', '2.3 ty+Ban']
+Price Sell [1520000000.0, 1690000000.0, 1730000000.0, 1950000000.0, 2100000000.0, 2250000000.0, 2700000000.0, 3200000000.0, 2300000000.0]
+Price Rent []
+
+
+119398
+['750 tr+Ban']
+Price Sell [750000000.0]
+Price Rent []
+
+
+119399
+['650 trieu+Ban']
+Price Sell [650000000.0]
+Price Rent []
+
+
+119400
+['1 tr+Ban', '1 tr+Thue', '15 ty+Ban', '15 ty+Thue']
+Price Sell [1000000.0, 15000000000.0]
+Price Rent [1000000.0, 15000000000.0]
+
+
+119401
+['50 tr  / thang+Thue', '50 tr  / thang+Ban', '17.2 ty+Thue', '17.2 ty+Ban']
+Price Sell [50000000.0, 17200000000.0]
+Price Rent [50000000.0, 17200000000.0]
+
+
+119402
+['2,8 ty+Ban']
+Price Sell [2800000000.0]
+Price Rent []
+
+
+119403
+['5,4 trieu  / m 2+Ban']
+Price Sell [5400000.0]
+Price Rent []
+
+
+119405
+['4,3 ty+Ban']
+Price Sell [4300000000.0]
+Price Rent []
+
+
+119406
+['1 tr+Thue', '1 tr+Ban', '7.5 ty+Thue', '7.5 ty+Ban']
+Price Sell [1000000.0, 7500000000.0]
+Price Rent [1000000.0, 7500000000.0]
+
+
+119407
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+119409
+['8,5 ty+Ban']
+Price Sell [8500000000.0]
+Price Rent []
+
+
+119410
+['5.1 ty+Ban']
+Price Sell [5100000000.0]
+Price Rent []
+
+
+119411
+['2.1 ty +Ban']
+Price Sell [2100000000.0]
+Price Rent []
+
+
+119412
+['830 trieu+Ban', '1,5 ty+Ban', '53 tr+Ban']
+Price Sell [830000000.0, 1500000000.0, 53000000.0]
+Price Rent []
+
+
+119413
+['30 ty+Thue']
+Price Sell []
+Price Rent [30000000000.0]
+
+
+119414
+['550 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119415
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119430
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119416
+['1 tr+Ban', '165.7 trieu+Ban', '49.46 ty+Ban', '1.2 ty+Ban']
+Price Sell [1000000.0, 165700000.0, 49460000000.0, 1200000000.0]
+Price Rent []
+
+
+119417
+['1,8 ty+Ban']
+Price Sell [1800000000.0]
+Price Rent []
+
+
+119418
+['27 ty+Thue']
+Price Sell []
+Price Rent [27000000000.0]
+
+
+119419
+['61 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119420
+['1 tr+Ban', '13 ty+Ban']
+Price Sell [1000000.0, 13000000000.0]
+Price Rent []
+
+
+119421
+['1.52 ty+Ban', '1.69 ty+Ban', '1.73 ty+Ban', '1.95 ty+Ban', '2.1 ty+Ban', '2.25 ty+Ban', '2.7 ty+Ban', '3.2 ty+Ban', '2.3 ty+Ban']
+Price Sell [1520000000.0, 1690000000.0, 1730000000.0, 1950000000.0, 2100000000.0, 2250000000.0, 2700000000.0, 3200000000.0, 2300000000.0]
+Price Rent []
+
+
+119422
+['15 tr  / m 2+Ban']
+Price Sell [15000000.0]
+Price Rent []
+
+
+119424
+['50 tr+Ban', '50 tr+Thue', '50 tr+Thue', '50 tr+Ban', '25 tr+Ban', '25 tr+Thue', '25 tr+Thue', '25 tr+Ban', '30 tr+Ban', '30 tr+Thue', '30 tr+Thue', '30 tr+Ban', '35 trieu  / m 2+Ban', '35 trieu  / m 2+Thue', '35 trieu  / m 2+Thue', '35 trieu  / m 2+Ban']
+Area:  75.0
+Area:  75.0
+Area:  75.0
+Area:  75.0
+Price Sell [50000000.0, 50000000.0, 25000000.0, 25000000.0, 30000000.0, 30000000.0, 2625000000.0, 2625000000.0]
+Price Rent [50000000.0, 50000000.0, 25000000.0, 25000000.0, 30000000.0, 30000000.0, 2625000000.0, 2625000000.0]
+
+
+119425
+['1 tr+Ban', '29 ty +Ban']
+Price Sell [1000000.0, 29000000000.0]
+Price Rent []
+
+
+119426
+['4.150 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119427
+['4,8 ty+Ban']
+Price Sell [4800000000.0]
+Price Rent []
+
+
+119428
+['100 trieu  / thang+Ban', '100 trieu  / thang+Thue', '100 trieu  / thang+Thue', '100 trieu  / thang+Thue', '50 trieu+Ban', '50 trieu+Thue', '50 trieu+Thue', '50 trieu+Thue', '20 ty +Ban', '20 ty +Thue', '20 ty +Thue', '20 ty +Thue', '10.2 ty+Ban', '10.2 ty+Thue', '10.2 ty+Thue', '10.2 ty+Thue']
+Price Sell [100000000.0, 50000000.0, 20000000000.0, 10200000000.0]
+Price Rent [100000000.0, 100000000.0, 100000000.0, 50000000.0, 50000000.0, 50000000.0, 20000000000.0, 20000000000.0, 20000000000.0, 10200000000.0, 10200000000.0, 10200000000.0]
+
+
+119429
+['50 tr+Ban', '50 tr+Thue', '50 tr+Thue', '50 tr+Ban', '25 tr+Ban', '25 tr+Thue', '25 tr+Thue', '25 tr+Ban', '30 tr+Ban', '30 tr+Thue', '30 tr+Thue', '30 tr+Ban', '35 trieu  / m 2+Ban', '35 trieu  / m 2+Thue', '35 trieu  / m 2+Thue', '35 trieu  / m 2+Ban']
+Area:  75.0
+Area:  75.0
+Area:  75.0
+Area:  75.0
+Price Sell [50000000.0, 50000000.0, 25000000.0, 25000000.0, 30000000.0, 30000000.0, 2625000000.0, 2625000000.0]
+Price Rent [50000000.0, 50000000.0, 25000000.0, 25000000.0, 30000000.0, 30000000.0, 2625000000.0, 2625000000.0]
+
+
+119431
+['250 ty+Ban', '250 ty+Thue', '549.36 trieu  / thang+Ban', '549.36 trieu  / thang+Thue']
+Price Sell [250000000000.0, 549360000.0]
+Price Rent [250000000000.0, 549360000.0]
+
+
+119432
+['4.3 ty+Ban']
+Price Sell [4300000000.0]
+Price Rent []
+
+
+119433
+['1.75 ty+Ban', '1 ty+Ban', '750 trieu+Ban']
+Price Sell [1750000000.0, 1000000000.0, 750000000.0]
+Price Rent []
+
+
+119434
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119435
+['1 tr+Ban', '11,5 ty+Ban']
+Price Sell [1000000.0, 11500000000.0]
+Price Rent []
+
+
+119442
+['13 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119454
+['1.52 ty+Ban', '1.69 ty+Ban', '1.73 ty+Ban', '1.95 ty+Ban', '2.1 ty+Ban', '2.25 ty+Ban', '2.7 ty+Ban', '3.2 ty+Ban', '2.3 ty+Ban']
+Price Sell [1520000000.0, 1690000000.0, 1730000000.0, 1950000000.0, 2100000000.0, 2250000000.0, 2700000000.0, 3200000000.0, 2300000000.0]
+Price Rent []
+
+
+119444
+['1.52 ty+Ban', '1.69 ty+Ban', '1.73 ty+Ban', '1.95 ty+Ban', '2.1 ty+Ban', '2.25 ty+Ban', '2.7 ty+Ban', '3.2 ty+Ban', '2.3 ty+Ban']
+Price Sell [1520000000.0, 1690000000.0, 1730000000.0, 1950000000.0, 2100000000.0, 2250000000.0, 2700000000.0, 3200000000.0, 2300000000.0]
+Price Rent []
+
+
+119437
+['23 trieu+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119438
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119439
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119440
+['7 ty+Ban']
+Price Sell [7000000000.0]
+Price Rent []
+
+
+119441
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119443
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119445
+['54 ty+Ban']
+Price Sell [54000000000.0]
+Price Rent []
+
+
+119446
+['760 trieu+Ban']
+Price Sell [760000000.0]
+Price Rent []
+
+
+119447
+['1 tr+Ban', '1 tr+Ban', '4,3 ty+Ban']
+Price Sell [1000000.0, 1000000.0, 4300000000.0]
+Price Rent []
+
+
+119448
+['3,3 ty+Ban', '20,5 trieu  / m 2+Ban']
+Price Sell [3300000000.0, 20500000.0]
+Price Rent []
+
+
+119449
+['2,2 trieu  / m 2+Ban', '2.6 trieu  / m 2+Ban']
+Price Sell [2200000.0, 2600000.0]
+Price Rent []
+
+
+119450
+['350 tr+Ban']
+Price Sell [350000000.0]
+Price Rent []
+
+
+119451
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119452
+['62 ty +None', '62 ty+None', '1 tr+None', '300 trieu  / thang+None', '62 ty+None']
+Price Sell [0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0]
+
+
+119453
+['1 tr+Thue', '13.8 ty +Thue']
+Price Sell []
+Price Rent [1000000.0, 13800000000.0]
+
+
+119473
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '30 tr  / thang+Ban', '30 tr  / thang+Thue', '30 tr  / thang+Thue', '30 ty+Ban', '30 ty+Thue', '30 ty+Thue']
+Price Sell [1000000.0, 30000000.0, 30000000000.0]
+Price Rent [1000000.0, 1000000.0, 30000000.0, 30000000.0, 30000000000.0, 30000000000.0]
+
+
+119455
+['50 trieu+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119462
+['750 tr+Ban']
+Price Sell [750000000.0]
+Price Rent []
+
+
+119456
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119457
+['10 ty +Ban']
+Price Sell [10000000000.0]
+Price Rent []
+
+
+119458
+['850 trieu+Ban']
+Price Sell [850000000.0]
+Price Rent []
+
+
+119459
+['1.5 ty+Ban']
+Price Sell [1500000000.0]
+Price Rent []
+
+
+119460
+['4,42 ty+Ban']
+Price Sell [4420000000.0]
+Price Rent []
+
+
+119461
+['20 tr  / m 2+Ban', '100 tr+Ban']
+Area:  120.0
+Price Sell [2400000000.0, 100000000.0]
+Price Rent []
+
+
+120761
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119463
+['1 tr+None', '8 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119464
+['1 tr+Ban', '16 ty+Ban']
+Price Sell [1000000.0, 16000000000.0]
+Price Rent []
+
+
+119465
+['120 trieu+Ban', '120 trieu+Thue', '120 trieu+Ban', '1 tr+Ban', '1 tr+Thue', '1 tr+Ban', '100 trieu  / thang+Ban', '100 trieu  / thang+Thue', '100 trieu  / thang+Ban', '37,6 ty +Ban', '37,6 ty +Thue', '37,6 ty +Ban']
+Price Sell [120000000.0, 120000000.0, 1000000.0, 1000000.0, 100000000.0, 100000000.0, 37600000000.0, 37600000000.0]
+Price Rent [120000000.0, 1000000.0, 100000000.0, 37600000000.0]
+
+
+119466
+['9 ty+Ban']
+Price Sell [9000000000.0]
+Price Rent []
+
+
+119467
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+119468
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+119469
+['1 tr+Ban', '25 ty+Ban']
+Price Sell [1000000.0, 25000000000.0]
+Price Rent []
+
+
+119470
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+119471
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119472
+['1 tr+Ban', '3 ty+Ban']
+Price Sell [1000000.0, 3000000000.0]
+Price Rent []
+
+
+119475
+['30 ty+Ban']
+Price Sell [30000000000.0]
+Price Rent []
+
+
+119474
+['8.2 ty +None']
+Price Sell [0]
+Price Rent [0]
+
+
+119561
+['2.8 ty+Ban']
+Price Sell [2800000000.0]
+Price Rent []
+
+
+119476
+['4 tr+Ban', '4 tr+Thue', '4 tr+Ban', '3 trieu  / thang+Ban', '3 trieu  / thang+Thue', '3 trieu  / thang+Ban', '880 trieu+Ban', '880 trieu+Thue', '880 trieu+Ban']
+Price Sell [4000000.0, 4000000.0, 3000000.0, 3000000.0, 880000000.0, 880000000.0]
+Price Rent [4000000.0, 3000000.0, 880000000.0]
+
+
+119478
+['1,15 ty+Ban', '33 trieu  / 1 m 2+Ban', '33 trieu+Ban']
+Area:  35.0
+Price Sell [1150000000.0, 1155000000.0, 33000000.0]
+Price Rent []
+
+
+119479
+['128 ty+Ban', '128 ty+Thue', '128 ty+Ban', '128 ty+Thue', '128 ty+Ban', '550 trieu  / thang+Ban', '550 trieu  / thang+Thue', '550 trieu  / thang+Ban', '550 trieu  / thang+Thue', '550 trieu  / thang+Ban', '2 ty  / nam+Ban', '2 ty  / nam+Thue', '2 ty  / nam+Ban', '2 ty  / nam+Thue', '2 ty  / nam+Ban', '150 ty+Ban', '150 ty+Thue', '150 ty+Ban', '150 ty+Thue', '150 ty+Ban', '128 ty+Ban', '128 ty+Thue', '128 ty+Ban', '128 ty+Thue', '128 ty+Ban']
+Price Sell [128000000000.0, 128000000000.0, 128000000000.0, 550000000.0, 550000000.0, 550000000.0, 166666666.66666666, 166666666.66666666, 166666666.66666666, 150000000000.0, 150000000000.0, 150000000000.0, 128000000000.0, 128000000000.0, 128000000000.0]
+Price Rent [128000000000.0, 128000000000.0, 550000000.0, 550000000.0, 166666666.66666666, 166666666.66666666, 150000000000.0, 150000000000.0, 128000000000.0, 128000000000.0]
+
+
+119503
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119480
+['17 tr  / m 2+Ban', '25 trieu  / m 2+Ban']
+Area:  5700.0
+Area:  5700.0
+Price Sell [96900000000.0, 142500000000.0]
+Price Rent []
+
+
+119512
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119481
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+119482
+['1,25 ty+Ban']
+Price Sell [1250000000.0]
+Price Rent []
+
+
+119483
+['1 tr+Ban', '4.3 ty+Ban']
+Price Sell [1000000.0, 4300000000.0]
+Price Rent []
+
+
+119484
+['80 tr  / thang+Thue', '80 tr  / thang+Thue', '80 tr  / thang+Ban', '1 tr+Thue', '1 tr+Thue', '1 tr+Ban', '19 ty+Thue', '19 ty+Thue', '19 ty+Ban']
+Price Sell [80000000.0, 1000000.0, 19000000000.0]
+Price Rent [80000000.0, 80000000.0, 1000000.0, 1000000.0, 19000000000.0, 19000000000.0]
+
+
+119504
+['45 tr  / m 2+Ban', '1 tr+Ban']
+Area:  178.0
+Price Sell [8010000000.0, 1000000.0]
+Price Rent []
+
+
+119560
+['2.5 ty+Ban']
+Price Sell [2500000000.0]
+Price Rent []
+
+
+119515
+['85 trieu+Thue', '85 trieu+Thue', '31 ty+Thue', '31 ty+Thue']
+Price Sell []
+Price Rent [85000000.0, 85000000.0, 31000000000.0, 31000000000.0]
+
+
+119485
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+119486
+['29 tr  / m 2+Ban']
+Area:  100.0
+Price Sell [2900000000.0]
+Price Rent []
+
+
+119487
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119488
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119489
+['1,55 ty+Ban']
+Price Sell [1550000000.0]
+Price Rent []
+
+
+119490
+['28 ty+Ban']
+Price Sell [28000000000.0]
+Price Rent []
+
+
+119513
+['130 tr  / m 2+Ban']
+Area:  105.0
+Price Sell [13650000000.0]
+Price Rent []
+
+
+119491
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+119492
+['6 ty+Ban']
+Price Sell [6000000000.0]
+Price Rent []
+
+
+119493
+['23 ty+Ban']
+Price Sell [23000000000.0]
+Price Rent []
+
+
+119494
+['30 trieu  / m 2+Ban']
+Area:  510.0
+Price Sell [15300000000.0]
+Price Rent []
+
+
+119495
+['1,85 ty+Ban', '1,85 ty+Ban']
+Price Sell [1850000000.0, 1850000000.0]
+Price Rent []
+
+
+119496
+['4.6 ty+Ban', '4.5 ty+Ban', '5.8 ty+Ban']
+Price Sell [4600000000.0, 4500000000.0, 5800000000.0]
+Price Rent []
+
+
+119514
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+121538
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119497
+['1 tr+Ban', '8 ty+Ban', '700 trieu+Ban']
+Price Sell [1000000.0, 8000000000.0, 700000000.0]
+Price Rent []
+
+
+119498
+['3.4 ty+Ban']
+Price Sell [3400000000.0]
+Price Rent []
+
+
+119499
+['200 tr+None', '45 ty+None', '200 tr+None']
+Price Sell [0, 0, 0]
+Price Rent [0, 0, 0]
+
+
+119501
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+119502
+['200 tr+Ban', '59 ty +Ban', '200 tr  / thang+Ban', '59 ty+Ban']
+Price Sell [200000000.0, 59000000000.0, 200000000.0, 59000000000.0]
+Price Rent []
+
+
+119534
+['9.45 ty+Ban']
+Price Sell [9450000000.0]
+Price Rent []
+
+
+121788
+['4,2 ty +Ban']
+Price Sell [4200000000.0]
+Price Rent []
+
+
+119505
+['12 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119506
+['120 trieu  / thang+Thue', '35 ty+Thue']
+Price Sell []
+Price Rent [120000000.0, 35000000000.0]
+
+
+119507
+['15 ty +Thue']
+Price Sell []
+Price Rent [15000000000.0]
+
+
+119508
+['4.7 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119509
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+119510
+['1 tr+Thue', '1 tr+Thue', '8,5 ty +Thue', '8,5 ty +Thue']
+Price Sell []
+Price Rent [1000000.0, 1000000.0, 8500000000.0, 8500000000.0]
+
+
+119511
+['113 tr  / m 2+Ban']
+Area:  100.0
+Price Sell [11300000000.0]
+Price Rent []
+
+
+119516
+['50 tr+Ban', '50 tr+Thue', '50 tr+Thue', '50 tr+Ban', '25 tr+Ban', '25 tr+Thue', '25 tr+Thue', '25 tr+Ban', '30 tr+Ban', '30 tr+Thue', '30 tr+Thue', '30 tr+Ban', '35 trieu  / m 2+Ban', '35 trieu  / m 2+Thue', '35 trieu  / m 2+Thue', '35 trieu  / m 2+Ban']
+Area:  75.0
+Area:  75.0
+Area:  75.0
+Area:  75.0
+Price Sell [50000000.0, 50000000.0, 25000000.0, 25000000.0, 30000000.0, 30000000.0, 2625000000.0, 2625000000.0]
+Price Rent [50000000.0, 50000000.0, 25000000.0, 25000000.0, 30000000.0, 30000000.0, 2625000000.0, 2625000000.0]
+
+
+119518
+['6.8 ty+Ban']
+Price Sell [6800000000.0]
+Price Rent []
+
+
+119519
+['1 ty+Ban', '3.4 ty+Ban', '7 ty+Ban', '14.5 ty+Ban']
+Price Sell [1000000000.0, 3400000000.0, 7000000000.0, 14500000000.0]
+Price Rent []
+
+
+119520
+['5,6 tr  / m 2+Ban', '25 tr  / m 2+Ban']
+Area:  900.0
+Price Sell [5600000.0, 22500000000.0]
+Price Rent []
+
+
+119521
+['999 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119522
+['2,99 ty+Ban']
+Price Sell [2990000000.0]
+Price Rent []
+
+
+119528
+['2.55 ty+Ban']
+Price Sell [2550000000.0]
+Price Rent []
+
+
+119523
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119524
+['10 ti+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119525
+['55 ty +Ban', '55 ty+Ban']
+Price Sell [55000000000.0, 55000000000.0]
+Price Rent []
+
+
+119526
+['18.7 ty+Ban', '18.7 ty+Ban', '18,7 ty+Ban', '18,7 ty+Ban']
+Price Sell [18700000000.0, 18700000000.0, 18700000000.0, 18700000000.0]
+Price Rent []
+
+
+201092
+['5.2 ty+Ban']
+Price Sell [5200000000.0]
+Price Rent []
+
+
+119527
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119529
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+119530
+['4,5 ty+Ban']
+Price Sell [4500000000.0]
+Price Rent []
+
+
+119531
+['18,5 ty+Ban']
+Price Sell [18500000000.0]
+Price Rent []
+
+
+119532
+['4,5 ty+Ban', '666 tr+Ban', '40 tr+Ban']
+Price Sell [4500000000.0, 666000000.0, 40000000.0]
+Price Rent []
+
+
+119533
+['800 trieu+Ban', '800 trieu+Ban']
+Price Sell [800000000.0, 800000000.0]
+Price Rent []
+
+
+119535
+['1,35 ty+Ban']
+Price Sell [1350000000.0]
+Price Rent []
+
+
+119536
+['1,53 ty+Ban']
+Price Sell [1530000000.0]
+Price Rent []
+
+
+119537
+['1,86 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119538
+['3.9 ty+Ban', '4.2 ty+Ban', '4.4 ty+Ban', '5.2 ty+Ban', '5.2 ty+Ban', '5.5 ty+Ban']
+Price Sell [3900000000.0, 4200000000.0, 4400000000.0, 5200000000.0, 5200000000.0, 5500000000.0]
+Price Rent []
+
+
+119539
+['12,8 ty+Ban']
+Price Sell [12800000000.0]
+Price Rent []
+
+
+119540
+['2 tr+Ban', '38 tr  / m 2+Ban', '45 tr  / m 2+Ban', '40 tr  / m 2+Ban', '38 tr  / m 2+Ban', '38.5 tr  / m 2+Ban', '30 tr  / m 2+Ban', '32 tr  / m 2+Ban', '45 tr  / m 2+Ban', '41 tr  / m 2+Ban', '41 tr  / m 2+Ban', '2 tr+Ban', '48 tr  / m 2+Ban', '41 tr  / m 2+Ban', '37 tr  / m 2+Ban', '37 tr  / m 2+Ban', '50 tr  / m 2+Ban', '50 tr  / m 2+Ban', '2 tr+Ban', '46 tr  / m 2+Ban']
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Area:  270.0
+Price Sell [2000000.0, 10260000000.0, 12150000000.0, 10800000000.0, 10260000000.0, 38500000.0, 8100000000.0, 8640000000.0, 12150000000.0, 11070000000.0, 11070000000.0, 2000000.0, 12960000000.0, 11070000000.0, 9990000000.0, 9990000000.0, 13500000000.0, 13500000000.0, 2000000.0, 12420000000.0]
+Price Rent []
+
+
+119541
+['12 ty+Ban']
+Price Sell [12000000000.0]
+Price Rent []
+
+
+119542
+['1 tr+Ban', '6 ty +Ban', '36 tr  / m 2+Ban', '34,5 tr  / m 2+Ban', '34,5 tr  / m 2+Ban', '34 tr  / m 2+Ban', '32 tr  / m 2+Ban', '9,9 ty+Ban', '36 tr  / m 2+Ban', '38 tr  / m 2+Ban', '36 tr  / m 2+Ban', '48 tr  / m 2+Ban', '47 tr  / m 2+Ban', '51 tr  / m 2+Ban', '38 tr  / m 2+Ban', '46 tr  / m 2+Ban', '50 tr  / m 2+Ban', '40 tr  / m 2+Ban', '45 tr  / m 2+Ban', '41 tr  / m 2+Ban', '38 tr  / m 2+Ban', '42 tr  / m 2+Ban', '44 tr  / m 2+Ban']
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Area:  343.0
+Price Sell [1000000.0, 6000000000.0, 12348000000.0, 34500000.0, 34500000.0, 11662000000.0, 10976000000.0, 9900000000.0, 12348000000.0, 13034000000.0, 12348000000.0, 16464000000.0, 16121000000.0, 17493000000.0, 13034000000.0, 15778000000.0, 17150000000.0, 13720000000.0, 15435000000.0, 14063000000.0, 13034000000.0, 14406000000.0, 15092000000.0]
+Price Rent []
+
+
+119543
+['18.5 ty+Ban']
+Price Sell [18500000000.0]
+Price Rent []
+
+
+119545
+['7,6 ty+Ban']
+Price Sell [7600000000.0]
+Price Rent []
+
+
+119544
+['160 ty +None', '160 ty +None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119546
+['8.3 ty+Ban']
+Price Sell [8300000000.000001]
+Price Rent []
+
+
+119553
+['2.9 ty +Ban']
+Price Sell [2900000000.0]
+Price Rent []
+
+
+119547
+['51 tr  / m 2+Ban', '56 tr  / m 2+Ban', '53 tr  / m 2+Ban', '42,5 tr  / m 2+Ban', '39 tr  / m 2+Ban', '55 tr  / m 2+Ban', '51 tr  / m 2+Ban', '40 tr  / m 2+Ban', '41 tr  / m 2+Ban', '51 tr  / m 2+Ban', '61 tr  / m 2+Ban', '38.5 tr  / m 2+Ban', '37 tr  / m 2+Ban', '37 tr  / m 2+Ban', '44 tr  / m 2+Ban', '42 tr  / m 2+Ban', '40 tr  / m 2+Ban', '125 tr  / m 2+Ban', '100 tr  / m 2+Ban', '47 tr  / m 2+Ban', '53 tr  / m 2+Ban', '38 tr  / m 2+Ban']
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Area:  900.0
+Price Sell [45900000000.0, 50400000000.0, 47700000000.0, 42500000.0, 35100000000.0, 49500000000.0, 45900000000.0, 36000000000.0, 36900000000.0, 45900000000.0, 54900000000.0, 38500000.0, 33300000000.0, 33300000000.0, 39600000000.0, 37800000000.0, 36000000000.0, 112500000000.0, 90000000000.0, 42300000000.0, 47700000000.0, 34200000000.0]
+Price Rent []
+
+
+119548
+['24.5 ty+Ban']
+Price Sell [24500000000.0]
+Price Rent []
+
+
+119549
+['7.6 ty+Ban', '7.6 ty+Thue', '7.6 ty+Thue', '7.6 ty+Ban', '5.5 trieu  / thang+Ban', '5.5 trieu  / thang+Thue', '5.5 trieu  / thang+Thue', '5.5 trieu  / thang+Ban', '7 trieu  / thang+Ban', '7 trieu  / thang+Thue', '7 trieu  / thang+Thue', '7 trieu  / thang+Ban', '7.6 ty+Ban', '7.6 ty+Thue', '7.6 ty+Thue', '7.6 ty+Ban']
+Price Sell [7600000000.0, 7600000000.0, 5500000.0, 5500000.0, 7000000.0, 7000000.0, 7600000000.0, 7600000000.0]
+Price Rent [7600000000.0, 7600000000.0, 5500000.0, 5500000.0, 7000000.0, 7000000.0, 7600000000.0, 7600000000.0]
+
+
+119550
+['54 tr  / m 2+Ban']
+Area:  175.5
+Price Sell [9477000000.0]
+Price Rent []
+
+
+119551
+['3,4 ty+Ban']
+Price Sell [3400000000.0]
+Price Rent []
+
+
+119552
+['21,5 ty +Ban', '21,5 ty +Thue', '50 tr+Ban', '50 tr+Thue']
+Price Sell [21500000000.0, 50000000.0]
+Price Rent [21500000000.0, 50000000.0]
+
+
+119554
+['23 ty+Ban']
+Price Sell [23000000000.0]
+Price Rent []
+
+
+119555
+['33 trieu  / m 2+Ban']
+Area:  136.0
+Price Sell [4488000000.0]
+Price Rent []
+
+
+119556
+['23 tr  / m 2+Ban', '23 tr  / m 2+Ban']
+Area:  100.0
+Area:  100.0
+Price Sell [2300000000.0, 2300000000.0]
+Price Rent []
+
+
+119557
+['24 tr  / m 2+Ban', '25 tr  / m 2+Ban', '25 tr  / m 2+Ban', '37 tr  / m 2+Ban', '29 tr  / m 2+Ban', '29 tr  / m 2+Ban', '2,8 ty+Ban', '42 tr  / m 2+Ban', '28 tr  / m 2+Ban', '2 tr+Ban', '25 tr  / m 2+Ban', '35 tr  / m 2+Ban', '34 tr  / m 2+Ban', '29 tr  / m 2+Ban', '2,8 ty +Ban', '6,8 ty+Ban']
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Area:  294.0
+Price Sell [7056000000.0, 7350000000.0, 7350000000.0, 10878000000.0, 8526000000.0, 8526000000.0, 2800000000.0, 12348000000.0, 8232000000.0, 2000000.0, 7350000000.0, 10290000000.0, 9996000000.0, 8526000000.0, 2800000000.0, 6800000000.0]
+Price Rent []
+
+
+119558
+['5 ty+Ban']
+Price Sell [5000000000.0]
+Price Rent []
+
+
+119563
+['39 ty+Thue']
+Price Sell []
+Price Rent [39000000000.0]
+
+
+119559
+['8 tr+Thue']
+Price Sell []
+Price Rent [8000000.0]
+
+
+119569
+['21,5 ty +Ban', '21,5 ty +Thue', '50 tr+Ban', '50 tr+Thue']
+Price Sell [21500000000.0, 50000000.0]
+Price Rent [21500000000.0, 50000000.0]
+
+
+119564
+['21 ty +Ban', '24,7 ty+Ban']
+Price Sell [21000000000.0, 24700000000.0]
+Price Rent []
+
+
+119565
+['990 tr+Ban']
+Price Sell [990000000.0]
+Price Rent []
+
+
+119566
+['25 ty+Ban']
+Price Sell [25000000000.0]
+Price Rent []
+
+
+119567
+['35 ty+Ban']
+Price Sell [35000000000.0]
+Price Rent []
+
+
+119568
+['40 trieu  / m 2+None']
+Area:  75.0
+Price Sell [0]
+Price Rent [0]
+
+
+119606
+['650 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119570
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119571
+['37 ty+Ban', '37 ty+Ban', '37 ty+Ban', '37 ty+Ban']
+Price Sell [37000000000.0, 37000000000.0, 37000000000.0, 37000000000.0]
+Price Rent []
+
+
+119572
+['1 ty+Ban', '1 ty+Ban', '51,5 ty+Ban', '51,5 ty+Ban', '54,4 ty+Ban', '54,4 ty+Ban']
+Price Sell [1000000000.0, 1000000000.0, 51500000000.0, 51500000000.0, 54400000000.0, 54400000000.0]
+Price Rent []
+
+
+119573
+['2.553 ty+Ban', '3.638 ty+Ban']
+Price Sell [2553000000.0, 3638000000.0]
+Price Rent []
+
+
+119586
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119574
+['1 tr+Ban', '24 tr  / m 2+Ban']
+Area:  1500.0
+Price Sell [1000000.0, 36000000000.0]
+Price Rent []
+
+
+119575
+['4,2 ty+Ban', '1 tr+Ban', '4,2 ty+Ban', '5,6 ty+Ban', '8,5 ty+Ban', '50 trieu+Ban']
+Price Sell [4200000000.0, 1000000.0, 4200000000.0, 5600000000.0, 8500000000.0, 50000000.0]
+Price Rent []
+
+
+119576
+['930 trieu+Ban', '1 ty+Ban', '050 trieu+Ban', '1.249 ty+Ban', '1.349 ty+Ban', '1.799 ty+Ban', '500 trieu+Ban']
+Price Sell [930000000.0, 1000000000.0, 50000000.0, 1249000000.0, 1349000000.0, 1799000000.0, 500000000.0]
+Price Rent []
+
+
+119577
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119578
+['2 ty+Ban']
+Price Sell [2000000000.0]
+Price Rent []
+
+
+119587
+['1 tr+Ban', '1 tr+Ban']
+Price Sell [1000000.0, 1000000.0]
+Price Rent []
+
+
+119624
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119579
+['2 tr+Ban', '1 tr+Ban', '5 ty+Ban']
+Price Sell [2000000.0, 1000000.0, 5000000000.0]
+Price Rent []
+
+
+119581
+['7,3 ty+None', '7,3 ty+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119582
+['55 tr+Ban', '55 tr+Ban', '63 tr  / m 2+Ban', '63 tr  / m 2+Ban']
+Price Sell [55000000.0, 55000000.0, 63000000.0, 63000000.0]
+Price Rent []
+
+
+119583
+['15 ty+Ban']
+Price Sell [15000000000.0]
+Price Rent []
+
+
+119584
+['3,5 ty+Ban']
+Price Sell [3500000000.0]
+Price Rent []
+
+
+119585
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+119589
+['16 trieu+None', '26 trieu  / thang+None', '25 trieu+None', '40 trieu  / thang+None', '55 trieu  / thang+None', '55 trieu 80+None', '100 trieu+None', '300 trieu+None']
+Price Sell [0, 0, 0, 0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0, 0, 0, 0]
+
+
+119590
+['14 trieu  / thang+Ban', '14 trieu  / thang+Ban', '14 tr  / thang+Ban', '14 tr  / thang+Ban']
+Price Sell [14000000.0, 14000000.0, 14000000.0, 14000000.0]
+Price Rent []
+
+
+119591
+['7 tr 3+Ban', '7 tr 3+Ban', '7 tr 3+Ban', '7 tr 6+Ban', '7 tr 6+Ban', '7 tr 6+Ban', '6 tr  / thang+Ban', '6 tr  / thang+Ban', '6 tr  / thang+Ban']
+Price Sell [7000000.0, 7000000.0, 7000000.0, 7000000.0, 7000000.0, 7000000.0, 6000000.0, 6000000.0, 6000000.0]
+Price Rent []
+
+
+119592
+['12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '12 trieu  / thang+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '14.5 trieu+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '15 trieu  / thang+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '18 trieu+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '14.5 trieu  / thang+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '17.5 trieu+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '20 trieu  / thang+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '24 trieu+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '22 trieu  / thang+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '25 trieu+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '24 trieu  / thang+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '28 trieu+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '25,5 trieu  / thang+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban', '30 trieu+Ban']
+Price Sell [12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 12000000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 15000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 18000000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 14500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 17500000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 20000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 22000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 25000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 24000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 28000000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 25500000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0, 30000000.0]
+Price Rent []
+
+
+119593
+['15 tr  / thang+Thue']
+Price Sell []
+Price Rent [15000000.0]
+
+
+119594
+['6.5 tr+Thue', '7.5 tr+Thue', '8.5 tr+Thue']
+Price Sell []
+Price Rent [6500000.0, 7500000.0, 8500000.0]
+
+
+119595
+['1.3 trieu+Ban']
+Price Sell [1300000.0]
+Price Rent []
+
+
+119596
+['39,338 trieu  / thang+Thue']
+Price Sell []
+Price Rent [39338000.0]
+
+
+119597
+['12 tr+Thue']
+Price Sell []
+Price Rent [12000000.0]
+
+
+119598
+['11 trieu  / thang+Thue']
+Price Sell []
+Price Rent [11000000.0]
+
+
+119599
+['1 tr+None', '40 trieu  / thang+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119600
+['219 tr+Ban']
+Price Sell [219000000.0]
+Price Rent []
+
+
+119601
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119602
+['15 trieu  / thang+Ban']
+Price Sell [15000000.0]
+Price Rent []
+
+
+119603
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119604
+['2,6 ty+Ban']
+Price Sell [2600000000.0]
+Price Rent []
+
+
+119605
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119607
+['14 ty+Ban']
+Price Sell [14000000000.0]
+Price Rent []
+
+
+119608
+['8.45 ty+Ban']
+Price Sell [8449999999.999999]
+Price Rent []
+
+
+119609
+['1 tr+Thue', '1 tr+Thue', '7.8 ty+Thue', '7.8 ty+Thue']
+Price Sell []
+Price Rent [1000000.0, 1000000.0, 7800000000.0, 7800000000.0]
+
+
+119610
+['5,5 ty+Ban']
+Price Sell [5500000000.0]
+Price Rent []
+
+
+119611
+['550 trieu+Ban', '1,4 ty+Ban', '3 ty+Ban']
+Price Sell [550000000.0, 1400000000.0, 3000000000.0]
+Price Rent []
+
+
+119612
+['16 ty +Thue']
+Price Sell []
+Price Rent [16000000000.0]
+
+
+119631
+['19 ty+Ban', '18,5 ty+Ban']
+Price Sell [19000000000.0, 18500000000.0]
+Price Rent []
+
+
+119613
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119614
+['40 trieu  / m 2+Ban']
+Area:  75.0
+Price Sell [3000000000.0]
+Price Rent []
+
+
+119615
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119616
+['1 tr+None', '1.9 ty+None', '1 tr+None', '6.5 ty+None', '1 tr+None', '4.5 ty+None', '1,8 ty+None', '4,5 ty+None']
+Price Sell [0, 0, 0, 0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0, 0, 0, 0]
+
+
+119617
+['3 ti+Ban', '2 ty+Ban']
+Price Sell [3000000000.0, 2000000000.0]
+Price Rent []
+
+
+119618
+['395 trieu+Ban', '195 trieu+Ban', '495 trieu+Ban', '195 trieu+Ban', '30 trieu+Ban']
+Price Sell [395000000.0, 195000000.0, 495000000.0, 195000000.0, 30000000.0]
+Price Rent []
+
+
+124490
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119619
+['39 ty+Ban', '40 ty+Ban', '34 ty+Ban', '41 ty+Ban']
+Price Sell [39000000000.0, 40000000000.0, 34000000000.0, 41000000000.0]
+Price Rent []
+
+
+119620
+['3,35 ty+Ban', '5,3 ty+Ban', '2,85 ty+Ban', '3,1 ty+Ban', '3,3 ty+Ban', '3,7 ty+Ban', '4 ty+Ban', '3,8 ty+Ban', '4,5 ty+Ban', '5.3 ty+Ban', '5,6 ty+Ban', '6,8 ty+Ban', '7 ty+Ban', '1,3 trieu+Ban', '80 tr  / m 2+Ban']
+Area:  134.0
+Price Sell [3350000000.0, 5300000000.0, 2850000000.0, 3100000000.0, 3300000000.0, 3700000000.0, 4000000000.0, 3800000000.0, 4500000000.0, 5300000000.0, 5600000000.0, 6800000000.0, 7000000000.0, 1300000.0, 10720000000.0]
+Price Rent []
+
+
+119621
+['10 tr+Ban']
+Price Sell [10000000.0]
+Price Rent []
+
+
+119622
+['350 trieu+Ban']
+Price Sell [350000000.0]
+Price Rent []
+
+
+119623
+['1.8 ty+Thue', '1.8 ty+Thue']
+Price Sell []
+Price Rent [1800000000.0, 1800000000.0]
+
+
+119625
+['3 ty +Ban']
+Price Sell [3000000000.0]
+Price Rent []
+
+
+119626
+['1 tr+Thue', '25 trieu  / thang+Thue']
+Price Sell []
+Price Rent [1000000.0, 25000000.0]
+
+
+119627
+['38 trieu+Ban', '50 trieu+Ban']
+Price Sell [38000000.0, 50000000.0]
+Price Rent []
+
+
+119628
+['1,5 ty+None', '32 tr  / m 2+None', '2.45 ty+None', '2.4 ty+None']
+Area:  207.0
+Price Sell [0, 0, 0, 0]
+Price Rent [0, 0, 0, 0]
+
+
+119629
+['2,5 ty+Ban']
+Price Sell [2500000000.0]
+Price Rent []
+
+
+119630
+['70 tr  / m 2+None', '70 trieu  / m 2+None', '6.5 ty+None', '12.6 ty+None', '12.7 ty+None']
+Area:  65.0
+Area:  65.0
+Price Sell [0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0]
+
+
+119632
+['7.5 ty+Ban']
+Price Sell [7500000000.0]
+Price Rent []
+
+
+119633
+['12 tr+Thue', '28,5 tr  / m 2+Thue']
+Price Sell []
+Price Rent [12000000.0, 28500000.0]
+
+
+119634
+['10 trieu  / m 2+Ban']
+Area:  120.0
+Price Sell [1200000000.0]
+Price Rent []
+
+
+119635
+['1 tr+Ban', '4 ty+Ban']
+Price Sell [1000000.0, 4000000000.0]
+Price Rent []
+
+
+119636
+['1,7 ty+Ban']
+Price Sell [1700000000.0]
+Price Rent []
+
+
+119637
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119638
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '71 trieu  / thang+Ban', '71 trieu  / thang+Thue', '71 trieu  / thang+Thue', '23,5 ty+Ban', '23,5 ty+Thue', '23,5 ty+Thue']
+Price Sell [1000000.0, 71000000.0, 23500000000.0]
+Price Rent [1000000.0, 1000000.0, 71000000.0, 71000000.0, 23500000000.0, 23500000000.0]
+
+
+119640
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119641
+['800 tr+Ban']
+Price Sell [800000000.0]
+Price Rent []
+
+
+119642
+['6.3 ty+Ban']
+Price Sell [6300000000.0]
+Price Rent []
+
+
+120117
+['35 tr  / thang+Thue', '35 tr  / thang+Thue', '10,9 ty+Thue', '10,9 ty+Thue']
+Price Sell []
+Price Rent [35000000.0, 35000000.0, 10900000000.0, 10900000000.0]
+
+
+119643
+['450 trieu+Ban', '850 trieu+Ban', '1,280 ty+Ban']
+Price Sell [450000000.0, 850000000.0, 1280000000.0]
+Price Rent []
+
+
+119644
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119655
+['14,5 ty+Ban']
+Price Sell [14500000000.0]
+Price Rent []
+
+
+119645
+['25 ti+Ban']
+Price Sell [25000000000.0]
+Price Rent []
+
+
+119646
+['4,95 ty +Ban']
+Price Sell [4950000000.0]
+Price Rent []
+
+
+119652
+['500 trieu+Ban']
+Price Sell [500000000.0]
+Price Rent []
+
+
+119647
+['9 tr  / m 2+Ban']
+Area:  80.0
+Price Sell [720000000.0]
+Price Rent []
+
+
+119648
+['50 ti+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119649
+['1,2 ty+Ban']
+Price Sell [1200000000.0]
+Price Rent []
+
+
+119733
+['160 tr+Ban']
+Price Sell [160000000.0]
+Price Rent []
+
+
+119650
+['950 trieu+Ban']
+Price Sell [950000000.0]
+Price Rent []
+
+
+122422
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119653
+['3.4 ty+Ban']
+Price Sell [3400000000.0]
+Price Rent []
+
+
+119654
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+201098
+['6.5 tr  / m 2+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119656
+['1 ty+Ban', '120 trieu+Ban']
+Price Sell [1000000000.0, 120000000.0]
+Price Rent []
+
+
+119657
+['7 ti+Ban']
+Price Sell [7000000000.0]
+Price Rent []
+
+
+119658
+['60 ty+Ban', '60 ty+Ban']
+Price Sell [60000000000.0, 60000000000.0]
+Price Rent []
+
+
+119664
+['19,5 trieu  / m 2+Ban', '19 tr  / m 2+Ban']
+Area:  247.0
+Price Sell [19500000.0, 4693000000.0]
+Price Rent []
+
+
+119659
+['550 tr+Ban']
+Price Sell [550000000.0]
+Price Rent []
+
+
+119660
+['25 tr  / m 2+Ban']
+Price Sell [25000000.0]
+Price Rent []
+
+
+119661
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+120251
+['1 tr+Thue', '1 tr+Thue', '35 trieu+Thue', '30 trieu  / thang+Thue', '1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0, 1000000.0, 35000000.0, 30000000.0, 1000000.0]
+
+
+119662
+['560 tr +Ban']
+Price Sell [560000000.0]
+Price Rent []
+
+
+119663
+['3 tr+Ban', '32 tr+Ban', '37 tr  / m 2+Ban', '36 tr  / m 2+Ban', '32 tr  / m 2+Ban']
+Area:  300.0
+Area:  300.0
+Area:  300.0
+Price Sell [3000000.0, 32000000.0, 11100000000.0, 10800000000.0, 9600000000.0]
+Price Rent []
+
+
+119687
+['5,2 ty+Ban']
+Price Sell [5200000000.0]
+Price Rent []
+
+
+119665
+['1,6 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119666
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119667
+['11 ty+Ban']
+Price Sell [11000000000.0]
+Price Rent []
+
+
+119668
+['65 ty+Ban']
+Price Sell [65000000000.0]
+Price Rent []
+
+
+119670
+['1 tr+Ban', '16.5 ty+Ban']
+Price Sell [1000000.0, 16500000000.0]
+Price Rent []
+
+
+119671
+['1 tr+Thue']
+Price Sell []
+Price Rent [1000000.0]
+
+
+119672
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119674
+['3 ty+Ban', '37.5 ty+Ban']
+Price Sell [3000000000.0, 37500000000.0]
+Price Rent []
+
+
+119675
+['2 tr+Ban', '5.9 ty+Ban']
+Price Sell [2000000.0, 5900000000.0]
+Price Rent []
+
+
+119677
+['1 ty+None', '417 tr+None', '1 ty+None', '305 tr+None', '1 ty+None', '282 tr+None', '1 ty+None', '270 tr+None', '1 ty+None', '184 tr+None', '100 tr+None']
+Price Sell [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+
+119678
+['29 trieu  / m 2+Ban', '60 trieu+Ban']
+Price Sell [29000000.0, 60000000.0]
+Price Rent []
+
+
+119679
+['5.5 ty+Ban']
+Price Sell [5500000000.0]
+Price Rent []
+
+
+119921
+['2 ty+Ban', '200 trieu+Ban']
+Price Sell [2000000000.0, 200000000.0]
+Price Rent []
+
+
+119676
+['35 ti+Ban', '35 ti+Thue', '35 ti+Thue', '35 ti+Thue', '12 tr+Ban', '12 tr+Thue', '12 tr+Thue', '12 tr+Thue', '15 tr+Ban', '15 tr+Thue', '15 tr+Thue', '15 tr+Thue', '1,25 ty+Ban', '1,25 ty+Thue', '1,25 ty+Thue', '1,25 ty+Thue']
+Price Sell [35000000000.0, 12000000.0, 15000000.0, 1250000000.0]
+Price Rent [35000000000.0, 35000000000.0, 35000000000.0, 12000000.0, 12000000.0, 12000000.0, 15000000.0, 15000000.0, 15000000.0, 1250000000.0, 1250000000.0, 1250000000.0]
+
+
+119682
+['900 trieu+Ban', '900 trieu+Ban']
+Price Sell [900000000.0, 900000000.0]
+Price Rent []
+
+
+119683
+['6,5 ty+Ban']
+Price Sell [6500000000.0]
+Price Rent []
+
+
+119684
+['4,275 ty+Ban']
+Price Sell [4275000000.0000005]
+Price Rent []
+
+
+119685
+['2.75 ty+Ban', '250 trieu+Ban']
+Price Sell [2750000000.0, 250000000.0]
+Price Rent []
+
+
+119686
+['3 tr  / m 2+Ban', '3 trieu  / m 2+Ban']
+Area:  103.8
+Area:  103.8
+Price Sell [311400000.0, 311400000.0]
+Price Rent []
+
+
+120295
+['1 tr+Thue', '1 tr+Thue', '55 trieu  / thang+Thue', '30 trieu  / thang+Thue', '40,5 trieu  / thang+Thue']
+Price Sell []
+Price Rent [1000000.0, 1000000.0, 55000000.0, 30000000.0, 40500000.0]
+
+
+119688
+['60 trieu+Ban', '29 trieu  / m 2+Ban']
+Area:  130.0
+Price Sell [60000000.0, 3770000000.0]
+Price Rent []
+
+
+119689
+['40 trieu  / m 2+None', '2.8 ty+None']
+Area:  70.0
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119690
+['950 tr+Ban']
+Price Sell [950000000.0]
+Price Rent []
+
+
+119691
+['245 tr+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119692
+['50 trieu  / thang+Thue', '50 trieu  / thang+Ban', '15 ty+Thue', '15 ty+Ban']
+Price Sell [50000000.0, 15000000000.0]
+Price Rent [50000000.0, 15000000000.0]
+
+
+119890
+['1 ty+Ban']
+Price Sell [1000000000.0]
+Price Rent []
+
+
+125170
+['1.8 ty+Ban']
+Price Sell [1800000000.0]
+Price Rent []
+
+
+119693
+['1 tr+Ban']
+Price Sell [1000000.0]
+Price Rent []
+
+
+119694
+['11 ty+Ban']
+Price Sell [11000000000.0]
+Price Rent []
+
+
+119695
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119696
+['2.75 ty +Ban', '21 tr+Ban']
+Price Sell [2750000000.0, 21000000.0]
+Price Rent []
+
+
+119697
+['2 tr+Ban', '2,3 ty+Ban']
+Price Sell [2000000.0, 2300000000.0]
+Price Rent []
+
+
+119698
+['100 trieu+Ban']
+Price Sell [100000000.0]
+Price Rent []
+
+
+120319
+['1.39 ty+Ban', '1.39 ty+Ban']
+Price Sell [1390000000.0, 1390000000.0]
+Price Rent []
+
+
+119699
+['260 trieu  / m 2+Ban', '260 trieu  / m 2+Ban']
+Area:  107.0
+Area:  107.0
+Price Sell [27820000000.0, 27820000000.0]
+Price Rent []
+
+
+119700
+['380 tr+None', '100 trieu+None']
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119701
+['8.5 ty+Ban']
+Price Sell [8500000000.0]
+Price Rent []
+
+
+119702
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119703
+['870 trieu+Ban']
+Price Sell [870000000.0]
+Price Rent []
+
+
+119704
+['9 tr+None', '38 tr  / m 2+None']
+Area:  52.0
+Price Sell [0, 0]
+Price Rent [0, 0]
+
+
+119705
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119706
+['2 ty+Ban']
+Price Sell [2000000000.0]
+Price Rent []
+
+
+119707
+['1.27 ty+Ban']
+Price Sell [1270000000.0]
+Price Rent []
+
+
+119708
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119709
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119710
+['15 ty+Thue']
+Price Sell []
+Price Rent [15000000000.0]
+
+
+119923
+['1 tr+Ban', '5.4 ty+Ban']
+Price Sell [1000000.0, 5400000000.0]
+Price Rent []
+
+
+119711
+['16 trieu  / 1 m 2+Ban']
+Area:  75.0
+Price Sell [1200000000.0]
+Price Rent []
+
+
+119712
+['1,7 ty+Ban']
+Price Sell [1700000000.0]
+Price Rent []
+
+
+119713
+['155 tr  / m 2+Ban']
+Area:  512.0
+Price Sell [79360000000.0]
+Price Rent []
+
+
+119714
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119715
+['29,1 tr  / m 2+Ban', '2 ty+Ban', '302 trieu+Ban', '1 ty+Ban', '342 trieu+Ban']
+Price Sell [29100000.0, 2000000000.0, 302000000.0, 1000000000.0, 342000000.0]
+Price Rent []
+
+
+119716
+['7.3 ty+Ban']
+Price Sell [7300000000.0]
+Price Rent []
+
+
+119717
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119718
+['42 ty+Ban']
+Price Sell [42000000000.0]
+Price Rent []
+
+
+119719
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '15 ty+Ban', '15 ty+Thue', '15 ty+Thue', '500 trieu+Ban', '500 trieu+Thue', '500 trieu+Thue']
+Price Sell [1000000.0, 15000000000.0, 500000000.0]
+Price Rent [1000000.0, 1000000.0, 15000000000.0, 15000000000.0, 500000000.0, 500000000.0]
+
+
+119720
+['3.425 ty+Ban', '3.360 ty+Ban', '60 ti+Ban']
+Price Sell [3425000000.0, 3360000000.0, 60000000000.0]
+Price Rent []
+
+
+119721
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119722
+['16 trieu  / m 2+Ban']
+Area:  175.0
+Price Sell [2800000000.0]
+Price Rent []
+
+
+119723
+['1,1 ty+Ban', '40 tr +Ban']
+Price Sell [1100000000.0, 40000000.0]
+Price Rent []
+
+
+119724
+['2.8 ty +Ban']
+Price Sell [2800000000.0]
+Price Rent []
+
+
+119725
+['90 trieu+Ban']
+Price Sell [90000000.0]
+Price Rent []
+
+
+119726
+['350 trieu+Ban', '300 trieu+Ban', '3.5 tr  / m 2+Ban', '280 trieu+Ban', '34 tr  / m 2+Ban', '2.6 ty+Ban', '3.3 ty+Ban', '4.3 ty+Ban', '100 trieu+Ban']
+Area:  91.2
+Price Sell [350000000.0, 300000000.0, 3500000.0, 280000000.0, 3100800000.0, 2600000000.0, 3300000000.0, 4300000000.0, 100000000.0]
+Price Rent []
+
+
+119727
+['3 ty+Ban']
+Price Sell [3000000000.0]
+Price Rent []
+
+
+119729
+['23,5 ty+Ban']
+Price Sell [23500000000.0]
+Price Rent []
+
+
+119730
+['2.3 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119731
+['2 ty+Ban', '2 ty+Ban', '350 trieu+Ban']
+Price Sell [2000000000.0, 2000000000.0, 350000000.0]
+Price Rent []
+
+
+119732
+['830 tr+None', '489 tr+None', '2 tr+None', '2 ti+None', '3 ti+None']
+Price Sell [0, 0, 0, 0, 0]
+Price Rent [0, 0, 0, 0, 0]
+
+
+119757
+['1,6 ty+Ban']
+Price Sell [1600000000.0]
+Price Rent []
+
+
+119735
+['55 ty+Ban']
+Price Sell [55000000000.0]
+Price Rent []
+
+
+119736
+['0 ty+None']
+Price Sell [0]
+Price Rent [0]
+
+
+119737
+['200 trieu+Ban', '1 tr+Ban', '1 tr+Ban']
+Price Sell [200000000.0, 1000000.0, 1000000.0]
+Price Rent []
+
+
+119738
+['1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '1 tr+Ban', '40 trieu  / thang+Ban', '40 trieu  / thang+Thue', '40 trieu  / thang+Thue', '40 trieu  / thang+Ban', '40 trieu  / thang+Ban', '40 trieu  / thang+Thue', '40 trieu  / thang+Thue', '40 trieu  / thang+Ban', '1 tr+Ban', '1 tr+Thue', '1 tr+Thue', '1 tr+Ban']
+Price Sell [1000000.0, 1000000.0, 40000000.0, 40000000.0, 40000000.0, 40000000.0, 1000000.0, 1000000.0]
+Price Rent [1000000.0, 1000000.0, 40000000.0, 40000000.0, 40000000.0, 40000000.0, 1000000.0, 1000000.0]
+
+
+119739
+['8.3 ty+Ban']
+Price Sell [8300000000.000001]
+Price Rent []
+
+
+119740
+['30 tr  / m 2+Ban', '200 tr+Ban']
+Area:  120.0
+Price Sell [3600000000.0, 200000000.0]
+Price Rent []
+
+
+[]
+Price Sell [60000000.0, 18000000000.0]
+Price Rent [60000000.0, 18000000000.0]
+
+
